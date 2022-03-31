@@ -1,0 +1,1173 @@
+# sent_id = 1.1
+# text = 调研乡镇的经济发展状况。
+1	调研	调研	VERB	_	_	0	root	_	_
+2	乡镇	乡镇	NOUN	_	_	6	nmod	_	_
+3	的	的	PART	_	_	2	case	_	_
+4	经济	经济	NOUN	_	_	5	nmod	_	_
+5	发展	发展	NOUN	_	_	6	nmod	_	_
+6	状况	状况	NOUN	_	_	1	obj	_	_
+7	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 调研乡镇的经济学教授。
+1	调研	调研	VERB	_	_	6	acl	_	_
+2	乡镇	乡镇	NOUN	_	_	1	obj	_	_
+3	的	的	PART	_	_	1	mark	_	_
+4	经济	经济	NOUN	_	_	5	compound	_	_
+5	学	学	PART	_	_	6	nmod	_	_
+6	教授	教授	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 1.2
+# text = 记录实验的表格。
+1	记录	记录	VERB	_	_	4	acl	_	_
+2	实验	实验	NOUN	_	_	1	obj	_	_
+3	的	的	PART	_	_	1	mark	_	_
+4	表格	表格	NOUN	_	_	0	root	_	_
+5	。	。	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 
+# text = 记录实验的结果。
+1	记录	记录	VERB	_	_	0	root	_	_
+2	实验	实验	NOUN	_	_	4	nmod	_	_
+3	的	的	PART	_	_	2	case	_	_
+4	结果	结果	NOUN	_	_	1	obj	_	_
+5	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1.3
+# text = 吃了游客的鳄鱼。
+1	吃	吃	VERB	_	_	5	acl	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	游客	游客	NOUN	_	_	1	obj	_	_
+4	的	的	PART	_	_	1	mark	_	_
+5	鳄鱼	鳄鱼	NOUN	_	_	0	root	_	_
+6	。	。	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 
+# text = 吃了游客的水果。
+1	吃	吃	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	游客	游客	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	水果	水果	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1.4
+# text = 切西瓜的刀。
+1	切	切	VERB	_	_	4	acl	_	_
+2	西瓜	西瓜	NOUN	_	_	1	obj	_	_
+3	的	的	PART	_	_	1	mark	_	_
+4	刀	刀	NOUN	_	_	0	root	_	_
+5	。	。	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 
+# text = 削西瓜的皮。
+1	削	削	VERB	_	_	0	root	_	_
+2	西瓜	西瓜	NOUN	_	_	4	nmod	_	_
+3	的	的	PART	_	_	2	case	_	_
+4	皮	皮	NOUN	_	_	1	obj	_	_
+5	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1.5
+# text = 消除健身的疲劳。
+1	消除	消除	VERB	_	_	0	root	_	_
+2	健身	健身	NOUN	_	_	4	nmod	_	_
+3	的	的	PART	_	_	2	case	_	_
+4	疲劳	疲劳	NOUN	_	_	1	obj	_	_
+5	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 停止健身的后果。
+1	停止	停止	VERB	_	_	4	acl	_	_
+2	健身	健身	NOUN	_	_	1	obj	_	_
+3	的	的	PART	_	_	1	mark	_	_
+4	后果	后果	NOUN	_	_	0	root	_	_
+5	。	。	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1.6
+# text = 杀了房东的猫。
+1	杀	杀	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	房东	房东	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	猫	猫	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 杀了房东的杀手。
+1	杀	杀	VERB	_	_	5	acl	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	房东	房东	NOUN	_	_	1	obj	_	_
+4	的	的	PART	_	_	1	mark	_	_
+5	杀手	杀手	NOUN	_	_	0	root	_	_
+6	。	。	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 1.7
+# text = 装修房子的人员。
+1	装修	装修	VERB	_	_	4	acl	_	_
+2	房子	房子	NOUN	_	_	1	obj	_	_
+3	的	的	PART	_	_	1	mark	_	_
+4	人员	人员	NOUN	_	_	0	root	_	_
+5	。	。	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 
+# text = 装修房子的房间。
+1	装修	装修	VERB	_	_	0	root	_	_
+2	房子	房子	NOUN	_	_	4	nmod	_	_
+3	的	的	PART	_	_	2	case	_	_
+4	房间	房间	NOUN	_	_	1	obj	_	_
+5	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1.8
+# text = 研究代码的架构。
+1	研究	研究	VERB	_	_	0	root	_	_
+2	代码	代码	NOUN	_	_	4	nmod	_	_
+3	的	的	PART	_	_	2	case	_	_
+4	架构	架构	NOUN	_	_	1	obj	_	_
+5	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 研究代码的架构师。
+1	研究	研究	VERB	_	_	5	acl	_	_
+2	代码	代码	NOUN	_	_	1	obj	_	_
+3	的	的	PART	_	_	1	mark	_	_
+4	架构	架构	NOUN	_	_	5	compound	_	_
+5	师	师	PART	_	_	0	root	_	_
+6	。	。	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 1.9
+# text = 打击经济犯罪的团伙。
+1	打击	打击	VERB	_	_	0	root	_	_
+2	经济	经济	NOUN	_	_	3	nmod	_	_
+3	犯罪	犯罪	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	团伙	团伙	NOUN	_	_	1	obj	_	_
+6	。	。	NOUN	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 打击经济犯罪的警察。
+1	打击	打击	VERB	_	_	5	acl	_	_
+2	经济	经济	NOUN	_	_	3	nmod	_	_
+3	犯罪	犯罪	NOUN	_	_	1	obj	_	_
+4	的	的	PART	_	_	1	mark	_	_
+5	警察	警察	NOUN	_	_	0	root	_	_
+6	。	。	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 1.10
+# text = 杯子上有一个戴着帽子的雪人的图案。
+1	杯子	杯子	NOUN	_	_	3	nsubj	_	_
+2	上	上	NOUN	_	_	1	acl	_	_
+3	有	有	VERB	_	_	0	root	_	_
+4	一	一	NUM	_	_	5	nummod	_	_
+5	个	个	NOUN	_	_	12	clf	_	_
+6	戴	戴	VERB	_	_	10	acl	_	_
+7	着	着	AUX	_	_	6	aux	_	_
+8	帽子	帽子	NOUN	_	_	6	obj	_	_
+9	的	的	PART	_	_	6	mark	_	_
+10	雪人	雪人	NOUN	_	_	12	nmod	_	_
+11	的	的	PART	_	_	10	case	_	_
+12	图案	图案	NOUN	_	_	3	obj	_	_
+13	。	。	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 
+# text = 杯子上有一个褪色的雪人的图案。
+1	杯子	杯子	NOUN	_	_	3	nsubj	_	_
+2	上	上	NOUN	_	_	1	acl	_	_
+3	有	有	VERB	_	_	0	root	_	_
+4	一	一	NUM	_	_	5	nummod	_	_
+5	个	个	NOUN	_	_	10	clf	_	_
+6	褪色	褪色	VERB	_	_	10	acl	_	_
+7	的	的	PART	_	_	6	mark	_	_
+8	雪人	雪人	NOUN	_	_	10	nmod	_	_
+9	的	的	PART	_	_	8	case	_	_
+10	图案	图案	NOUN	_	_	3	obj	_	_
+11	。	。	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1.11
+# text = 改变世界的伟人。
+1	改变	改变	VERB	_	_	4	acl	_	_
+2	世界	世界	NOUN	_	_	1	obj	_	_
+3	的	的	PART	_	_	1	mark	_	_
+4	伟人	伟人	NOUN	_	_	0	root	_	_
+5	。	。	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 
+# text = 改变世界的格局。
+1	改变	改变	VERB	_	_	0	root	_	_
+2	世界	世界	NOUN	_	_	4	nmod	_	_
+3	的	的	PART	_	_	2	case	_	_
+4	格局	格局	NOUN	_	_	1	obj	_	_
+5	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1.12
+# text = 调查事故的交警。
+1	调查	调查	VERB	_	_	4	acl	_	_
+2	事故	事故	NOUN	_	_	1	obj	_	_
+3	的	的	PART	_	_	1	mark	_	_
+4	交警	交警	NOUN	_	_	0	root	_	_
+5	。	。	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 
+# text = 调查事故的起因。
+1	调查	调查	VERB	_	_	0	root	_	_
+2	事故	事故	NOUN	_	_	4	nmod	_	_
+3	的	的	PART	_	_	2	case	_	_
+4	起因	起因	NOUN	_	_	1	obj	_	_
+5	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1.13
+# text = 喜欢旅行的过程。
+1	喜欢	喜欢	VERB	_	_	0	root	_	_
+2	旅行	旅行	NOUN	_	_	4	nmod	_	_
+3	的	的	PART	_	_	2	case	_	_
+4	过程	过程	NOUN	_	_	1	obj	_	_
+5	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 喜欢旅行的人们。
+1	喜欢	喜欢	VERB	_	_	4	acl	_	_
+2	旅行	旅行	NOUN	_	_	1	obj	_	_
+3	的	的	PART	_	_	1	mark	_	_
+4	人们	人们	NOUN	_	_	0	root	_	_
+5	。	。	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1.14
+# text = 演奏乐曲的高潮部分。
+1	演奏	演奏	VERB	_	_	0	root	_	_
+2	乐曲	乐曲	NOUN	_	_	5	nmod	_	_
+3	的	的	PART	_	_	2	case	_	_
+4	高潮	高潮	NOUN	_	_	5	nmod	_	_
+5	部分	部分	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = **演奏乐曲的人 is correct.
+# text = 演奏乐曲的钢琴家。
+1	演奏	演奏	VERB	_	_	5	acl	_	_
+2	乐曲	乐曲	NOUN	_	_	1	obj	_	_
+3	的	的	PART	_	_	1	mark	_	_
+4	钢琴	钢琴	NOUN	_	_	5	compound	_	_
+5	家	家	PART	_	_	0	root	_	_
+6	。	。	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 1.15
+# text = 计算工资的总数。
+1	计算	计算	VERB	_	_	0	root	_	_
+2	工资	工资	NOUN	_	_	4	nmod	_	_
+3	的	的	PART	_	_	2	case	_	_
+4	总数	总数	NOUN	_	_	1	obj	_	_
+5	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 计算工资的会计。
+1	计算	计算	VERB	_	_	4	acl	_	_
+2	工资	工资	NOUN	_	_	1	obj	_	_
+3	的	的	PART	_	_	1	mark	_	_
+4	会计	会计	NOUN	_	_	0	root	_	_
+5	。	。	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1.16
+# text = 卖了猎人的狗。
+1	卖	卖	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	猎人	猎人	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	狗	狗	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 卖了狗的猎人。
+1	卖	卖	VERB	_	_	5	acl	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	狗	狗	NOUN	_	_	1	obj	_	_
+4	的	的	PART	_	_	1	mark	_	_
+5	猎人	猎人	NOUN	_	_	0	root	_	_
+6	。	。	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 1.17
+# text = 援助偏远地区的留守儿童。
+1	援助	援助	VERB	_	_	0	root	_	_
+2	偏远	偏远	ADJ	_	_	3	amod	_	_
+3	地区	地区	NOUN	_	_	6	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	留守	留守	NOUN	_	_	6	nmod	_	_
+6	儿童	儿童	NOUN	_	_	1	obj	_	_
+7	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 援助偏远地区的志愿者。
+1	援助	援助	VERB	_	_	6	acl	_	_
+2	偏远	偏远	ADJ	_	_	3	amod	_	_
+3	地区	地区	NOUN	_	_	1	obj	_	_
+4	的	的	PART	_	_	1	mark	_	_
+5	志愿	志愿	VERB	_	_	6	compound	_	_
+6	者	者	PART	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 1.18
+# text = 击中靶子的十环。
+1	击中	击中	VERB	_	_	0	root	_	_
+2	靶子	靶子	NOUN	_	_	4	nmod	_	_
+3	的	的	PART	_	_	2	case	_	_
+4	十环	十环	NOUN	_	_	1	obj	_	_
+5	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 击中靶子的射手。
+1	击中	击中	VERB	_	_	4	acl	_	_
+2	靶子	靶子	NOUN	_	_	1	obj	_	_
+3	的	的	PART	_	_	1	mark	_	_
+4	射手	射手	NOUN	_	_	0	root	_	_
+5	。	。	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1.19
+# text = 检查枪支的子弹。
+1	检查	检查	VERB	_	_	0	root	_	_
+2	枪支	枪支	NOUN	_	_	4	nmod	_	_
+3	的	的	PART	_	_	2	case	_	_
+4	子弹	子弹	NOUN	_	_	1	obj	_	_
+5	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 检查枪支的警察。
+1	检查	检查	VERB	_	_	4	acl	_	_
+2	枪支	枪支	NOUN	_	_	1	obj	_	_
+3	的	的	PART	_	_	1	mark	_	_
+4	警察	警察	NOUN	_	_	0	root	_	_
+5	。	。	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1.20
+# text = 学习课本的文章。
+1	学习	学习	VERB	_	_	0	root	_	_
+2	课本	课本	NOUN	_	_	4	nmod	_	_
+3	的	的	PART	_	_	2	case	_	_
+4	文章	文章	NOUN	_	_	1	obj	_	_
+5	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 学习课本的学生。
+1	学习	学习	VERB	_	_	4	acl	_	_
+2	课本	课本	NOUN	_	_	1	obj	_	_
+3	的	的	PART	_	_	1	mark	_	_
+4	学生	学生	NOUN	_	_	0	root	_	_
+5	。	。	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2.1*not consistent
+# text = 三条河里的石头。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	条	条	NOUN	_	_	3	clf	_	_
+3	河	河	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	石头	石头	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 三块河里的石头。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	块	块	NOUN	_	_	6	clf	_	_
+3	河	河	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	石头	石头	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2.2
+# text = 四篇报纸上的文章。
+1	四	四	NUM	_	_	2	nummod	_	_
+2	篇	篇	NOUN	_	_	6	clf	_	_
+3	报纸	报纸	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	文章	文章	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 四张报纸上的文章。
+1	四	四	NUM	_	_	2	nummod	_	_
+2	张	张	NOUN	_	_	3	clf	_	_
+3	报纸	报纸	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	文章	文章	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2.3
+# text = 两匹草地上的马。
+1	两	两	NUM	_	_	2	nummod	_	_
+2	匹	匹	NOUN	_	_	6	clf	_	_
+3	草地	草地	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	马	马	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 两片草地上的马。
+1	两	两	NUM	_	_	2	nummod	_	_
+2	片	片	NOUN	_	_	3	clf	_	_
+3	草地	草地	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	马	马	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2.4
+# text = 三节玩具车的电池。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	节	节	NOUN	_	_	6	clf	_	_
+3	玩具	玩具	NOUN	_	_	4	compound	_	_
+4	车	车	NOUN	_	_	6	nmod	_	_
+5	的	的	PART	_	_	4	case	_	_
+6	电池	电池	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 三辆玩具车的电池。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	辆	辆	NOUN	_	_	4	clf	_	_
+3	玩具	玩具	NOUN	_	_	4	compound	_	_
+4	车	车	NOUN	_	_	6	nmod	_	_
+5	的	的	PART	_	_	4	case	_	_
+6	电池	电池	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2.5
+# text = 一个瓶子里的花。
+1	一	一	NUM	_	_	2	nummod	_	_
+2	个	个	NOUN	_	_	3	clf	_	_
+3	瓶子	瓶子	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	花	花	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 一束瓶子里的花。
+1	一	一	NUM	_	_	2	nummod	_	_
+2	束	束	NOUN	_	_	6	clf	_	_
+3	瓶子	瓶子	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	花	花	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2.6
+# text = 三座寺庙里的和尚。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	座	座	NOUN	_	_	3	clf	_	_
+3	寺庙	寺庙	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	和尚	和尚	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 三位寺庙里的和尚。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	位	位	NOUN	_	_	6	clf	_	_
+3	寺庙	寺庙	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	和尚	和尚	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2.7
+# text = 八枚钱包里的硬币。
+1	八	八	NUM	_	_	2	nummod	_	_
+2	枚	枚	NOUN	_	_	6	clf	_	_
+3	钱包	钱包	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	硬币	硬币	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 八只钱包里的硬币。
+1	八	八	NUM	_	_	2	nummod	_	_
+2	只	只	NOUN	_	_	3	clf	_	_
+3	钱包	钱包	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	硬币	硬币	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2.8
+# text = 七朵盆栽里的鲜花。
+1	七	七	NUM	_	_	2	nummod	_	_
+2	朵	朵	NOUN	_	_	6	clf	_	_
+3	盆栽	盆栽	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	鲜花	鲜花	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 七盆盆栽里的鲜花。
+1	七	七	NUM	_	_	2	nummod	_	_
+2	盆	盆	NOUN	_	_	3	clf	_	_
+3	盆栽	盆栽	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	鲜花	鲜花	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2.9
+# text = 三位学校的研究员。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	位	位	NOUN	_	_	6	clf	_	_
+3	学校	学校	NOUN	_	_	6	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	研究	研究	NOUN	_	_	6	compound	_	_
+6	员	员	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 三所学校的研究员。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	所	所	NOUN	_	_	3	clf	_	_
+3	学校	学校	NOUN	_	_	6	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	研究	研究	NOUN	_	_	6	compound	_	_
+6	员	员	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2.10
+# text = 六把房间里的椅子。
+1	六	六	NUM	_	_	2	nummod	_	_
+2	把	把	NOUN	_	_	6	clf	_	_
+3	房间	房间	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	椅子	椅子	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 六间房间里的椅子。
+1	六	六	NUM	_	_	2	nummod	_	_
+2	间	间	NOUN	_	_	3	clf	_	_
+3	房间	房间	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	椅子	椅子	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2.11
+# text = 两张演唱会的门票。
+1	两	两	NUM	_	_	2	nummod	_	_
+2	张	张	NOUN	_	_	6	clf	_	_
+3	演唱	演唱	NOUN	_	_	4	compound	_	_
+4	会	会	NOUN	_	_	6	nmod	_	_
+5	的	的	PART	_	_	4	case	_	_
+6	门票	门票	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 两场演唱会的门票。
+1	两	两	NUM	_	_	2	nummod	_	_
+2	场	场	NOUN	_	_	4	clf	_	_
+3	演唱	演唱	NOUN	_	_	4	compound	_	_
+4	会	会	NOUN	_	_	6	nmod	_	_
+5	的	的	PART	_	_	4	case	_	_
+6	门票	门票	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2.12
+# text = 五双抽屉里的袜子。
+1	五	五	NUM	_	_	2	nummod	_	_
+2	双	双	NOUN	_	_	6	clf	_	_
+3	抽屉	抽屉	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	袜子	袜子	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 五个抽屉里的袜子。
+1	五	五	NUM	_	_	2	nummod	_	_
+2	个	个	NOUN	_	_	3	clf	_	_
+3	抽屉	抽屉	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	袜子	袜子	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2.13
+# text = 四颗瓶子中的药丸。
+1	四	四	NUM	_	_	2	nummod	_	_
+2	颗	颗	NOUN	_	_	6	clf	_	_
+3	瓶子	瓶子	NOUN	_	_	6	nmod	_	_
+4	中	中	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	药丸	药丸	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 四只瓶子中的药丸。
+1	四	四	NUM	_	_	2	nummod	_	_
+2	只	只	NOUN	_	_	3	clf	_	_
+3	瓶子	瓶子	NOUN	_	_	6	nmod	_	_
+4	中	中	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	药丸	药丸	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2.14
+# text = 六个树上的核桃。
+1	六	六	NUM	_	_	2	nummod	_	_
+2	个	个	NOUN	_	_	6	clf	_	_
+3	树	树	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	核桃	核桃	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 六棵树上的核桃。
+1	六	六	NUM	_	_	2	nummod	_	_
+2	棵	棵	NOUN	_	_	3	clf	_	_
+3	树	树	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	核桃	核桃	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2.15
+# text = 几本女生的日记。
+1	几	几	NUM	_	_	2	nummod	_	_
+2	本	本	NOUN	_	_	5	clf	_	_
+3	女生	女生	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	日记	日记	NOUN	_	_	0	root	_	_
+6	。	。	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 
+# text = 几个女生的日记。
+1	几	几	NUM	_	_	2	nummod	_	_
+2	个	个	NOUN	_	_	3	clf	_	_
+3	女生	女生	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	日记	日记	NOUN	_	_	0	root	_	_
+6	。	。	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 2.16
+# text = 几支同学的铅笔。
+1	几	几	NUM	_	_	2	nummod	_	_
+2	支	支	NOUN	_	_	5	clf	_	_
+3	同学	同学	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	铅笔	铅笔	NOUN	_	_	0	root	_	_
+6	。	。	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 
+# text = 几位同学的铅笔。
+1	几	几	NUM	_	_	2	nummod	_	_
+2	位	位	NOUN	_	_	3	clf	_	_
+3	同学	同学	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	铅笔	铅笔	NOUN	_	_	0	root	_	_
+6	。	。	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 2.17
+# text = 三头亲戚的牛。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	头	头	NOUN	_	_	5	clf	_	_
+3	亲戚	亲戚	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	牛	牛	NOUN	_	_	0	root	_	_
+6	。	。	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 
+# text = 三位亲戚的牛。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	位	位	NOUN	_	_	3	clf	_	_
+3	亲戚	亲戚	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	牛	牛	NOUN	_	_	0	root	_	_
+6	。	。	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 2.18
+# text = 四颗牛的牙齿。
+1	四	四	NUM	_	_	2	nummod	_	_
+2	颗	颗	NOUN	_	_	5	clf	_	_
+3	牛	牛	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	牙齿	牙齿	NOUN	_	_	0	root	_	_
+6	。	。	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 
+# text = 四头牛的牙齿。
+1	四	四	NUM	_	_	2	nummod	_	_
+2	头	头	NOUN	_	_	3	clf	_	_
+3	牛	牛	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	牙齿	牙齿	NOUN	_	_	0	root	_	_
+6	。	。	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 2.19
+# text = 七粒沙漠里的沙。
+1	七	七	NUM	_	_	2	nummod	_	_
+2	粒	粒	NOUN	_	_	6	clf	_	_
+3	沙漠	沙漠	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	沙	沙	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 七片沙漠里的沙。
+1	七	七	NUM	_	_	2	nummod	_	_
+2	片	片	NOUN	_	_	3	clf	_	_
+3	沙漠	沙漠	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	沙	沙	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2.20
+# text = 九个盒子里的香水。
+1	九	九	NUM	_	_	2	nummod	_	_
+2	个	个	NOUN	_	_	6	clf	_	_
+3	盒子	盒子	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	香水	香水	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 九瓶盒子里的香水。
+1	九	九	NUM	_	_	2	nummod	_	_
+2	瓶	瓶	NOUN	_	_	3	clf	_	_
+3	盒子	盒子	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	香水	香水	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 3.1
+# text = 写了五道题。
+1	写	写	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	道	道	NOUN	_	_	5	clf	_	_
+5	题	题	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = ** 修炼千年/休息5分钟后 advmod
+# text = 写了五分钟题。
+1	写	写	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	题	题	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.2
+# text = 挑选了一小时木材。
+1	挑选	挑选	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	木材	木材	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = * 透过数千年悠久历史 clf
+# text = 挑选了千年木材。
+1	挑选	挑选	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	千	千	NUM	_	_	4	nummod	_	_
+4	年	年	NOUN	_	_	5	nmod	_	_
+5	木材	木材	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.3
+# text = 讲了两小时历史。
+1	讲	讲	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	两	两	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	历史	历史	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 讲了五千年历史。
+1	讲	讲	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五千	五千	NUM	_	_	4	nummod	_	_
+4	年	年	NOUN	_	_	5	clf	_	_
+5	历史	历史	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.4
+# text = 画了三分钟画。
+1	画	画	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	三	三	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	画	画	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 画了六幅画。
+1	画	画	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	六	六	NUM	_	_	4	nummod	_	_
+4	幅	幅	NOUN	_	_	5	clf	_	_
+5	画	画	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.5
+# text = 参观了五小时古建筑。
+1	参观	参观	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	古	古	PART	_	_	6	case	_	_
+6	建筑	建筑	NOUN	_	_	1	obj	_	_
+7	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 参观了百年古建筑。
+1	参观	参观	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	百	百	NUM	_	_	4	nummod	_	_
+4	年	年	NOUN	_	_	6	clf	_	_
+5	古	古	PART	_	_	6	case	_	_
+6	建筑	建筑	NOUN	_	_	1	obj	_	_
+7	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.6
+# text = 写了六张字帖。
+1	写	写	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	六	六	NUM	_	_	4	nummod	_	_
+4	张	张	NOUN	_	_	5	clf	_	_
+5	字帖	字帖	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 写了六天字帖。
+1	写	写	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	六	六	NUM	_	_	4	nummod	_	_
+4	天	天	NOUN	_	_	1	obl	_	_
+5	字帖	字帖	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.7
+# text = 学习了五小时外语课程。
+1	学习	学习	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	外语	外语	NOUN	_	_	6	nmod	_	_
+6	课程	课程	NOUN	_	_	1	obj	_	_
+7	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 学习了五门外语课程。
+1	学习	学习	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	门	门	NOUN	_	_	6	clf	_	_
+5	外语	外语	NOUN	_	_	6	nmod	_	_
+6	课程	课程	NOUN	_	_	1	obj	_	_
+7	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.8
+# text = 欣赏了几小时古村落。
+1	欣赏	欣赏	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	几	几	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	古	古	PART	_	_	6	case	_	_
+6	村落	村落	NOUN	_	_	1	obj	_	_
+7	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 欣赏了几百年前的古村落。
+1	欣赏	欣赏	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	几百	几百	NUM	_	_	4	nummod	_	_
+4	年	年	NOUN	_	_	8	nmod	_	_
+5	前	前	ADP	_	_	4	acl	_	_
+6	的	的	PART	_	_	4	case	_	_
+7	古	古	PART	_	_	8	case	_	_
+8	村落	村落	NOUN	_	_	1	obj	_	_
+9	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.9
+# text = 弹奏了一首曲子。
+1	弹奏	弹奏	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	首	首	NOUN	_	_	5	clf	_	_
+5	曲子	曲子	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 弹奏了一天曲子。
+1	弹奏	弹奏	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	天	天	NOUN	_	_	1	obl	_	_
+5	曲子	曲子	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.10
+# text = 我看了十天报纸。
+1	我	我	PRON	_	_	2	nsubj	_	_
+2	看	看	VERB	_	_	0	root	_	_
+3	了	了	AUX	_	_	2	aux	_	_
+4	十	十	NUM	_	_	5	nummod	_	_
+5	天	天	NOUN	_	_	2	obl	_	_
+6	报纸	报纸	NOUN	_	_	2	obj	_	_
+7	。	。	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 
+# text = 我看了十份报纸。
+1	我	我	PRON	_	_	2	nsubj	_	_
+2	看	看	VERB	_	_	0	root	_	_
+3	了	了	AUX	_	_	2	aux	_	_
+4	十	十	NUM	_	_	5	nummod	_	_
+5	份	份	NOUN	_	_	6	clf	_	_
+6	报纸	报纸	NOUN	_	_	2	obj	_	_
+7	。	。	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 4.1
+# text = 毯子和凳子的腿都坏了。
+1	毯子	毯子	NOUN	_	_	7	nsubj	_	_
+2	和	和	CCONJ	_	_	5	cc	_	_
+3	凳子	凳子	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	腿	腿	NOUN	_	_	1	conj	_	_
+6	都	都	ADV	_	_	7	mark	_	_
+7	坏	坏	VERB	_	_	0	root	_	_
+8	了	了	PART	_	_	7	discourse	_	_
+9	。	。	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 4.2
+# text = 他的衣服的袖子和鞋都脏了。
+1	他	他	PRON	_	_	3	det	_	_
+2	的	的	PART	_	_	1	case	_	_
+3	衣服	衣服	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	袖子	袖子	NOUN	_	_	9	nsubj	_	_
+6	和	和	CCONJ	_	_	7	cc	_	_
+7	鞋	鞋	NOUN	_	_	5	conj	_	_
+8	都	都	ADV	_	_	9	mark	_	_
+9	脏	脏	ADJ	_	_	0	root	_	_
+10	了	了	PART	_	_	9	discourse	_	_
+11	。	。	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 4.3
+# text = 椅子和电脑的屏幕需要摆放整齐。
+1	椅子	椅子	NOUN	_	_	7	nsubj	_	_
+2	和	和	CCONJ	_	_	5	cc	_	_
+3	电脑	电脑	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	屏幕	屏幕	NOUN	_	_	1	conj	_	_
+6	需要	需要	AUX	_	_	7	aux	_	_
+7	摆放	摆放	VERB	_	_	0	root	_	_
+8	整齐	整齐	ADJ	_	_	7	xcomp	_	_
+9	。	。	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 4.4
+# text = 桌子和沙发上的电脑都要开机。
+1	桌子	桌子	NOUN	_	_	6	nmod	_	_
+2	和	和	CCONJ	_	_	3	cc	_	_
+3	沙发	沙发	NOUN	_	_	1	conj	_	_
+4	上	上	ADP	_	_	1	acl	_	_
+5	的	的	PART	_	_	1	case	_	_
+6	电脑	电脑	NOUN	_	_	9	nsubj	_	_
+7	都	都	ADV	_	_	9	mark	_	_
+8	要	要	AUX	_	_	9	aux	_	_
+9	开机	开机	VERB	_	_	0	root	_	_
+10	。	。	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 4.5 *在 VERB + advcl?-> 他在监狱里结识富人 ADP + case?-> 在电脑科学里面
+# text = 警察和商场的保安在大楼外面交流。
+1	警察	警察	NOUN	_	_	9	nsubj	_	_
+2	和	和	CCONJ	_	_	5	cc	_	_
+3	商场	商场	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	保安	保安	NOUN	_	_	1	conj	_	_
+6	在	在	VERB	_	_	9	advcl	_	_
+7	大楼	大楼	NOUN	_	_	6	obj	_	_
+8	外面	外面	ADP	_	_	7	acl	_	_
+9	交流	交流	VERB	_	_	0	root	_	_
+10	。	。	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 4.6*他的捕猎对象 -> NOUN? -> AUX+cop or a clause? VERB+ccomp
+# text = 鱼和天空中的小鸟都是他的捕猎对象。
+1	鱼	鱼	NOUN	_	_	7	nsubj	_	_
+2	和	和	CCONJ	_	_	6	cc	_	_
+3	天空	天空	NOUN	_	_	6	nmod	_	_
+4	中	中	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	小鸟	小鸟	NOUN	_	_	1	conj	_	_
+7	都是	都是	AUX	_	_	11	cop	_	_
+8	他	他	PRON	_	_	11	det	_	_
+9	的	的	PART	_	_	8	case	_	_
+10	捕猎	捕猎	VERB	_	_	11	compound	_	_
+11	对象	对象	NOUN	_	_	0	root	_	_
+12	。	。	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 4.7
+# text = 人和动物的肺都用来呼吸。
+1	人	人	NOUN	_	_	7	nmod	_	_
+2	和	和	CCONJ	_	_	3	cc	_	_
+3	动物	动物	NOUN	_	_	1	conj	_	_
+4	的	的	PART	_	_	1	case	_	_
+5	肺	肺	NOUN	_	_	7	nsubj	_	_
+6	都	都	ADV	_	_	7	mark	_	_
+7	用	用	VERB	_	_	0	root	_	_
+8	来	来	ADV	_	_	9	mark	_	_
+9	呼吸	呼吸	VERB	_	_	7	xcomp	_	_
+10	。	。	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 4.8
+# text = 海和天上的云朵互相辉映。
+1	海	海	NOUN	_	_	8	nsubj	_	_
+2	和	和	CCONJ	_	_	6	cc	_	_
+3	天	天	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	云朵	云朵	NOUN	_	_	1	conj	_	_
+7	互相	互相	ADV	_	_	8	advmod	_	_
+8	辉映	辉映	VERB	_	_	0	root	_	_
+9	。	。	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 4.9
+# text = 纸张和生锈的铜钱被发掘出来。
+1	纸张	纸张	NOUN	_	_	7	nsubj	_	_
+2	和	和	CCONJ	_	_	5	cc	_	_
+3	生锈	生锈	ADJ	_	_	5	amod	_	_
+4	的	的	PART	_	_	3	mark	_	_
+5	铜钱	铜钱	NOUN	_	_	1	conj	_	_
+6	被	被	VERB	_	_	7	aux	_	_
+7	发掘	发掘	VERB	_	_	0	root	_	_
+8	出来	出来	VERB	_	_	7	mark	_	_
+9	。	。	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 4.10
+# text = 医生和病人的家属耐心沟通。
+1	医生	医生	NOUN	_	_	7	nsubj	_	_
+2	和	和	CCONJ	_	_	5	cc	_	_
+3	病人	病人	NOUN	_	_	5	nmod	_	_
+4	的	的	PART	_	_	3	case	_	_
+5	家属	家属	NOUN	_	_	1	conj	_	_
+6	耐心	耐心	ADJ	_	_	7	advmod	_	_
+7	沟通	沟通	VERB	_	_	0	root	_	_
+8	。	。	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 4.11
+# text = 领了我和你的结婚证。
+1	领	领	VERB	_	_	0	root	_	_
+2	了	了	PART	_	_	1	aux	_	_
+3	我	我	PRON	_	_	8	det	_	_
+4	和	和	CCONJ	_	_	5	cc	_	_
+5	你	你	PRON	_	_	3	conj	_	_
+6	的	的	PART	_	_	3	case	_	_
+7	结婚	结婚	VERB	_	_	8	compound	_	_
+8	证	证	PART	_	_	1	obj	_	_
+9	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 4.12
+# text = 照片里是我和我的姐妹。
+1	照片	照片	NOUN	_	_	8	nsubj	_	_
+2	里	里	ADP	_	_	1	acl	_	_
+3	是	是	AUX	_	_	4	cop	_	_
+4	我	我	PRON	_	_	0	root	_	_
+5	和	和	CCONJ	_	_	8	cc	_	_
+6	我	我	PRON	_	_	8	det	_	_
+7	的	的	PART	_	_	6	case	_	_
+8	姐妹	姐妹	NOUN	_	_	4	conj	_	_
+9	。	。	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 4.13
+# text = 男人和女人的脸都需要呵护。
+1	男人	男人	NOUN	_	_	5	nmod	_	_
+2	和	和	CCONJ	_	_	3	cc	_	_
+3	女人	女人	NOUN	_	_	1	conj	_	_
+4	的	的	PART	_	_	1	case	_	_
+5	脸	脸	NOUN	_	_	7	nsubj	_	_
+6	都	都	ADV	_	_	7	mark	_	_
+7	需要	需要	VERB	_	_	0	root	_	_
+8	呵护	呵护	VERB	_	_	7	xcomp	_	_
+9	。	。	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 4.14
+# text = 山和水的颜色很和谐。
+1	山	山	NOUN	_	_	5	nmod	_	_
+2	和	和	CCONJ	_	_	3	cc	_	_
+3	水	水	NOUN	_	_	1	conj	_	_
+4	的	的	PART	_	_	1	case	_	_
+5	颜色	颜色	NOUN	_	_	7	nsubj	_	_
+6	很	很	ADV	_	_	7	advmod	_	_
+7	和谐	和谐	ADJ	_	_	0	root	_	_
+8	。	。	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 4.15
+# text = 面包和牛奶的产地是一样的。
+1	面包	面包	NOUN	_	_	5	nmod	_	_
+2	和	和	CCONJ	_	_	3	cc	_	_
+3	牛奶	牛奶	NOUN	_	_	1	conj	_	_
+4	的	的	PART	_	_	1	case	_	_
+5	产地	产地	NOUN	_	_	7	nsubj	_	_
+6	是	是	AUX	_	_	7	cop	_	_
+7	一样	一样	ADJ	_	_	0	root	_	_
+8	的	的	PART	_	_	7	discourse	_	_
+9	。	。	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 4.16
+# text = 鸟和海里的鱼相遇。
+1	鸟	鸟	NOUN	_	_	7	nsubj	_	_
+2	和	和	CCONJ	_	_	6	cc	_	_
+3	海	海	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	鱼	鱼	NOUN	_	_	1	conj	_	_
+7	相遇	相遇	VERB	_	_	0	root	_	_
+8	。	。	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 4.17
+# text = 看到了天和海的交界。
+1	看到	看到	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	天	天	NOUN	_	_	7	nmod	_	_
+4	和	和	CCONJ	_	_	5	cc	_	_
+5	海	海	NOUN	_	_	3	conj	_	_
+6	的	的	PART	_	_	3	case	_	_
+7	交界	交界	NOUN	_	_	1	obj	_	_
+8	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 4.18
+# text = 讲解鸡和鹅的区别。
+1	讲解	讲解	VERB	_	_	0	root	_	_
+2	鸡	鸡	NOUN	_	_	6	nmod	_	_
+3	和	和	CCONJ	_	_	4	cc	_	_
+4	鹅	鹅	NOUN	_	_	2	conj	_	_
+5	的	的	PART	_	_	2	case	_	_
+6	区别	区别	NOUN	_	_	1	obj	_	_
+7	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 4.19
+# text = 讲解原理和制作的步骤。
+1	讲解	讲解	VERB	_	_	0	root	_	_
+2	原理	原理	NOUN	_	_	1	obj	_	_
+3	和	和	CCONJ	_	_	6	cc	_	_
+4	制作	制作	VERB	_	_	6	acl	_	_
+5	的	的	PART	_	_	4	mark	_	_
+6	步骤	步骤	NOUN	_	_	2	conj	_	_
+7	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 4.20
+# text = 对比鹿角和犀牛的角。
+1	对比	对比	VERB	_	_	0	root	_	_
+2	鹿角	鹿角	NOUN	_	_	1	obj	_	_
+3	和	和	CCONJ	_	_	6	cc	_	_
+4	犀牛	犀牛	NOUN	_	_	6	nmod	_	_
+5	的	的	PART	_	_	4	case	_	_
+6	角	角	NOUN	_	_	2	conj	_	_
+7	。	。	PUNCT	_	_	1	punct	_	_
+
