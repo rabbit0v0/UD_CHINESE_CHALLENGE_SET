@@ -819,24 +819,22 @@
 6	。	。	PUNCT	.	_	1	punct	_	_
 
 # sent_id = 3.5
-# text = 參觀了五小時古建築。
+# text = 參觀了五小時建築。
 1	參觀	參觀	VERB	VV	_	0	root	_	_
 2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	_
 3	五	五	NUM	CD	NumType=Card	4	nummod	_	_
-4	小時	小時	NOUN	NN	_	6	nmod	_	_
-5	古	古	PART	PFA	_	6	case:pref	_	_
-6	建築	建築	NOUN	NN	_	1	obj	_	_
-7	。	。	PUNCT	.	_	1	punct	_	_
+4	小時	小時	NOUN	NN	_	5	nmod	_	_
+5	建築	建築	NOUN	NN	_	1	obj	_	_
+6	。	。	PUNCT	.	_	1	punct	_	_
 
 # sent_id = 
-# text = 參觀了百年古建築。
+# text = 參觀了百年建築。
 1	參觀	參觀	VERB	VV	_	0	root	_	_
 2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	_
 3	百	百	NUM	CD	NumType=Card	4	nummod	_	_
-4	年	年	NOUN	NNB	_	6	clf	_	_
-5	古	古	PART	PFA	_	6	case:pref	_	_
-6	建築	建築	NOUN	NN	_	1	obj	_	_
-7	。	。	PUNCT	.	_	1	punct	_	_
+4	年	年	NOUN	NNB	_	5	clf	_	_
+5	建築	建築	NOUN	NN	_	1	obj	_	_
+6	。	。	PUNCT	.	_	1	punct	_	_
 
 # sent_id = 3.6
 # text = 寫了六張字帖。
@@ -877,26 +875,24 @@
 7	。	。	PUNCT	.	_	1	punct	_	_
 
 # sent_id = 3.8
-# text = 欣賞了幾小時古村落。
+# text = 欣賞了幾小時村落。
 1	欣賞	欣賞	VERB	VV	_	0	root	_	_
 2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	_
 3	幾	幾	NUM	CD	NumType=Card	4	nummod	_	_
-4	小時	小時	NOUN	NN	_	6	nmod	_	_
-5	古	古	PART	PFA	_	6	case:pref	_	_
-6	村落	村落	NOUN	NN	_	1	obj	_	_
-7	。	。	PUNCT	.	_	1	punct	_	_
+4	小時	小時	NOUN	NN	_	5	clf	_	_
+5	村落	村落	NOUN	NN	_	1	obj	_	_
+6	。	。	PUNCT	.	_	1	punct	_	_
 
 # sent_id = 
-# text = 欣賞了幾百年前的古村落。
+# text = 欣賞了幾百年前的村落。
 1	欣賞	欣賞	VERB	VV	_	0	root	_	_
 2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	_
 3	幾百	幾百	NUM	CD	NumType=Card	4	nummod	_	_
-4	年	年	NOUN	NNB	_	8	nmod	_	_
+4	年	年	NOUN	NNB	_	7	nmod	_	_
 5	前	前	ADP	IN	_	4	acl	_	_
 6	的	的	PART	DEC	Case=Gen	4	case:dec	_	_
-7	古	古	PART	PFA	_	8	case:pref	_	_
-8	村落	村落	NOUN	NN	_	1	obj	_	_
-9	。	。	PUNCT	.	_	1	punct	_	_
+7	村落	村落	NOUN	NN	_	1	obj	_	_
+8	。	。	PUNCT	.	_	1	punct	_	_
 
 # sent_id = 3.9
 # text = 彈奏了一首曲子。
@@ -1007,13 +1003,14 @@
 3	天空	天空	NOUN	NN	_	1	conj	_	_
 4	中	中	ADP	IN	_	3	acl	_	_
 5	的	的	PART	DEC	Case=Gen	1	case:dec	_	_
-6	小鳥	小鳥	NOUN	NN	_	11	nsubj	_	_
-7	都是	都是	AUX	VC	_	11	cop	_	_
-8	他	他	PRON	PRP	Person=3	11	det	_	_
-9	的	的	PART	DEC	Case=Gen	8	case:dec	_	_
-10	捕獵	捕獵	NOUN	NN	_	11	nmod	_	_
-11	對象	對象	NOUN	NN	_	0	root	_	_
-12	。	。	PUNCT	.	_	11	punct	_	_
+6	小鳥	小鳥	NOUN	NN	_	12	nsubj	_	_
+7	都	都	ADV	RB	_	12	mark	_	_
+8	是	是	AUX	VC	_	12	cop	_	_
+9	他	他	PRON	PRP	Person=3	12	det	_	_
+10	的	的	PART	DEC	Case=Gen	9	case:dec	_	_
+11	捕獵	捕獵	NOUN	NN	_	12	nmod	_	_
+12	對象	對象	NOUN	NN	_	0	root	_	_
+13	。	。	PUNCT	.	_	12	punct	_	_
 
 # sent_id = 4.7
 # text = 人和動物的肺都用來呼吸。

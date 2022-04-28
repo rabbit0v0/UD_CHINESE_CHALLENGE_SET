@@ -1,1169 +1,925 @@
-# sent_id = 1
-# text = 調研鄉鎮的經濟發展狀況。
-1	調研	調研	NOUN	NN	_	2	nmod	_	_
-2	鄉鎮	鄉鎮	NOUN	NN	_	6	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	經濟	經濟	NOUN	NN	_	6	nmod	_	_
-5	發展	發展	NOUN	NN	_	6	nmod	_	_
-6	狀況	狀況	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 調研鄉鎮的經濟學教授。
-1	調研	調研	NOUN	NN	_	2	nmod	_	_
-2	鄉鎮	鄉鎮	NOUN	NN	_	6	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	經濟	經濟	NOUN	NN	_	5	compound	_	_
-5	學	學	PART	SFN	_	6	nmod	_	_
-6	教授	教授	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 記錄實驗的表格。
-1	記錄	記錄	VERB	VV	_	0	root	_	_
-2	實驗	實驗	VERB	VV	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	表格	表格	NOUN	NN	_	1	obj	_	_
-5	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 記錄實驗的結果。
-1	記錄	記錄	VERB	VV	_	0	root	_	_
-2	實驗	實驗	VERB	VV	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	結果	結果	NOUN	NN	_	1	obj	_	_
-5	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 吃了遊客的鱷魚。
-1	吃	吃	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	遊客	遊客	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	鱷魚	鱷魚	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 吃了遊客的水果。
-1	吃	吃	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	遊客	遊客	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	水果	水果	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 切西瓜的刀。
-1	切西瓜	切西瓜	PROPN	NNP	_	3	nmod	_	_
-2	的	的	PART	DEC	Case=Gen	1	case	_	_
-3	刀	刀	NOUN	NN	_	0	root	_	_
-4	。	。	PUNCT	.	_	3	punct	_	_
-
-# sent_id = 1
-# text = 削西瓜的皮。
-1	削西瓜	削西瓜	PROPN	NNP	_	3	nmod	_	_
-2	的	的	PART	DEC	Case=Gen	1	case	_	_
-3	皮	皮	NOUN	NN	_	0	root	_	_
-4	。	。	PUNCT	.	_	3	punct	_	_
-
-# sent_id = 1
-# text = 消除健身的疲勞。
-1	消除	消除	VERB	VV	_	4	acl:relcl	_	_
-2	健身	健身	NOUN	NN	_	1	obj	_	_
-3	的	的	PART	DEC	_	1	mark:rel	_	_
-4	疲勞	疲勞	NOUN	NN	_	0	root	_	_
-5	。	。	PUNCT	.	_	4	punct	_	_
-
-# sent_id = 1
-# text = 停止健身的後果。
-1	停止	停止	VERB	VV	_	4	acl:relcl	_	_
-2	健身	健身	NOUN	NN	_	1	obj	_	_
-3	的	的	PART	DEC	_	1	mark:rel	_	_
-4	後果	後果	NOUN	NN	_	0	root	_	_
-5	。	。	PUNCT	.	_	4	punct	_	_
-
-# sent_id = 1
-# text = 殺了房東的貓。
-1	殺	殺	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	房東	房東	PROPN	NNP	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	貓	貓	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 殺了房東的殺手。
-1	殺	殺	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	房東	房東	PROPN	NNP	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	殺手	殺手	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 裝修房子的人員。
-1	裝修	裝修	VERB	VV	_	0	root	_	_
-2	房子	房子	NOUN	NN	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	人員	人員	NOUN	NN	_	1	obj	_	_
-5	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 裝修房子的房間。
-1	裝修	裝修	VERB	VV	_	0	root	_	_
-2	房子	房子	NOUN	NN	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	房間	房間	NOUN	NN	_	1	obj	_	_
-5	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 研究代碼的架構。
-1	研究	研究	VERB	VV	_	0	root	_	_
-2	代碼	代碼	NOUN	NN	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	架構	架構	NOUN	NN	_	1	obj	_	_
-5	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 研究代碼的架構師。
-1	研究	研究	VERB	VV	_	0	root	_	_
-2	代碼	代碼	NOUN	NN	_	5	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	架構	架構	NOUN	NN	_	5	compound	_	_
-5	師	師	PART	SFN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 打擊經濟犯罪的團伙。
-1	打擊	打擊	VERB	VV	_	0	root	_	_
-2	經濟	經濟	NOUN	NN	_	3	nmod	_	_
-3	犯罪	犯罪	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	團伙	團伙	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 打擊經濟犯罪的警察。
-1	打擊	打擊	VERB	VV	_	5	acl:relcl	_	_
-2	經濟	經濟	NOUN	NN	_	3	nmod	_	_
-3	犯罪	犯罪	NOUN	NN	_	1	obj	_	_
-4	的	的	PART	DEC	_	1	mark:rel	_	_
-5	警察	警察	NOUN	NN	_	0	root	_	_
-6	。	。	PUNCT	.	_	5	punct	_	_
-
-# sent_id = 1
-# text = 杯子上有一個戴著帽子的雪人的圖案。
-1	杯子	杯子	NOUN	NN	_	3	nsubj	_	_
-2	上	上	ADP	IN	_	1	acl	_	_
-3	有	有	VERB	VV	_	0	root	_	_
-4	一	一	NUM	CD	NumType=Card	5	nummod	_	_
-5	個	個	NOUN	NNB	_	12	clf	_	_
-6	戴	戴	VERB	VV	_	10	acl:relcl	_	_
-7	著	著	AUX	AS	Aspect=Prog	6	aux	_	_
-8	帽子	帽子	NOUN	NN	_	6	obj	_	_
-9	的	的	PART	DEC	_	6	mark:rel	_	_
-10	雪人	雪人	NOUN	NN	_	12	nmod	_	_
-11	的	的	PART	DEC	Case=Gen	10	case	_	_
-12	圖案	圖案	NOUN	NN	_	3	obj	_	_
-13	。	。	PUNCT	.	_	3	punct	_	_
-
-# sent_id = 1
-# text = 杯子上有一個褪色的雪人的圖案。
-1	杯子	杯子	NOUN	NN	_	3	nsubj	_	_
-2	上	上	NOUN	NN	_	1	acl	_	_
-3	有	有	VERB	VV	_	0	root	_	_
-4	一	一	NUM	CD	NumType=Card	5	nummod	_	_
-5	個	個	NOUN	NNB	_	10	clf	_	_
-6	褪色	褪色	VERB	VV	_	10	acl:relcl	_	_
-7	的	的	PART	DEC	_	6	mark:rel	_	_
-8	雪人	雪人	NOUN	NN	_	6	obj	_	_
-9	的	的	PART	DEC	_	6	mark:rel	_	_
-10	圖案	圖案	NOUN	NN	_	3	obj	_	_
-11	。	。	PUNCT	.	_	3	punct	_	_
-
-# sent_id = 1
-# text = 改變世界的偉人。
-1	改變	改變	VERB	VV	_	5	acl:relcl	_	_
-2	世界	世界	NOUN	NN	_	1	obj	_	_
-3	的	的	PART	DEC	_	1	mark:rel	_	_
-4	偉	偉	PROPN	NNP	_	5	compound	_	_
-5	人	人	PART	SFN	_	0	root	_	_
-6	。	。	PUNCT	.	_	5	punct	_	_
-
-# sent_id = 1
-# text = 改變世界的格局。
-1	改變	改變	VERB	VV	_	0	root	_	_
-2	世界	世界	NOUN	NN	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	格局	格局	NOUN	NN	_	1	obj	_	_
-5	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 調查事故的交警。
-1	調查	調查	NOUN	NN	_	2	nmod	_	_
-2	事故	事故	NOUN	NN	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	交警	交警	NOUN	NN	_	0	root	_	_
-5	。	。	PUNCT	.	_	4	punct	_	_
-
-# sent_id = 1
-# text = 調查事故的起因。
-1	調查	調查	NOUN	NN	_	2	nmod	_	_
-2	事故	事故	NOUN	NN	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	起因	起因	NOUN	NN	_	0	root	_	_
-5	。	。	PUNCT	.	_	4	punct	_	_
-
-# sent_id = 1
-# text = 喜歡旅行的過程。
-1	喜歡	喜歡	VERB	VV	_	4	acl:relcl	_	_
-2	旅行	旅行	VERB	VV	_	1	xcomp	_	_
-3	的	的	PART	DEC	_	1	mark:rel	_	_
-4	過程	過程	NOUN	NN	_	0	root	_	_
-5	。	。	PUNCT	.	_	4	punct	_	_
-
-# sent_id = 1
-# text = 喜歡旅行的人們。
-1	喜歡	喜歡	VERB	VV	_	0	root	_	_
-2	旅行	旅行	VERB	VV	_	4	acl:relcl	_	_
-3	的	的	PART	DEC	_	2	mark:rel	_	_
-4	人們	人	NOUN	NN	Number=Plur	1	obj	_	_
-5	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 演奏樂曲的高潮部分。
-1	演奏	演奏	NOUN	NN	_	2	nmod	_	_
-2	樂曲	樂曲	NOUN	NN	_	5	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	高潮	高潮	NOUN	NN	_	5	nmod	_	_
-5	部分	部分	NOUN	NN	_	0	root	_	_
-6	。	。	PUNCT	.	_	5	punct	_	_
-
-# sent_id = 1
-# text = 演奏樂曲的鋼琴家。
-1	演奏	演奏	VERB	VV	_	2	nmod	_	_
-2	樂曲	樂曲	NOUN	NN	_	5	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	鋼琴	鋼琴	NOUN	NN	_	5	compound	_	_
-5	家	家	PART	SFN	_	0	root	_	_
-6	。	。	PUNCT	.	_	5	punct	_	_
-
-# sent_id = 1
-# text = 計算工資的總數。
-1	計算	計算	NOUN	NN	_	2	nmod	_	_
-2	工資	工資	NOUN	NN	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	總數	總數	NOUN	NN	_	0	root	_	_
-5	。	。	PUNCT	.	_	4	punct	_	_
-
-# sent_id = 1
-# text = 計算工資的會計。
-1	計算	計算	VERB	VV	_	0	root	_	_
-2	工資	工資	NOUN	NN	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	會計	會計	NOUN	NN	_	1	obj	_	_
-5	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 賣了獵人的狗。
-1	賣	賣	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	獵人	獵人	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	狗	狗	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 賣了狗的獵人。
-1	賣	賣	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	狗	狗	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	獵人	獵人	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 援助偏遠地區的留守兒童。
-1	援助	援助	VERB	VV	_	7	acl:relcl	_	_
-2	偏	偏	ADP	IN	_	4	case	_	_
-3	遠	遠	PART	PFA	_	4	case	_	_
-4	地區	地區	NOUN	NN	_	1	obl	_	_
-5	的	的	PART	DEC	_	1	mark:rel	_	_
-6	留守	留守	NOUN	NN	_	7	nmod	_	_
-7	兒童	兒童	NOUN	NN	_	0	root	_	_
-8	。	。	PUNCT	.	_	7	punct	_	_
-
-# sent_id = 1
-# text = 援助偏遠地區的志願者。
-1	援助	援助	VERB	VV	_	7	acl:relcl	_	_
-2	偏	偏	VERB	VV	_	7	acl:relcl	_	_
-3	遠	遠	PART	PFA	_	4	case	_	_
-4	地區	地區	NOUN	NN	_	2	obj	_	_
-5	的	的	PART	DEC	_	2	mark:rel	_	_
-6	志願	志願	VERB	VV	_	7	compound	_	_
-7	者	者	PART	SFN	_	0	root	_	_
-8	。	。	PUNCT	.	_	7	punct	_	_
-
-# sent_id = 1
-# text = 擊中靶子的十環。
-1	擊中	擊中	VERB	VV	_	2	nmod	_	_
-2	靶子	靶子	NOUN	NN	_	5	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	十	十	NUM	CD	NumType=Card	5	nummod	_	_
-5	環	環	NOUN	NN	_	0	root	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 擊中靶子的射手。
-1	擊中	擊中	VERB	VV	_	0	root	_	_
-2	靶子	靶子	NOUN	NN	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	射手	射手	NOUN	NN	_	1	obj	_	_
-5	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 檢查槍支的子彈。
-1	檢查	檢查	VERB	VV	_	0	root	_	_
-2	槍支	槍支	NOUN	NN	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	子彈	子彈	NOUN	NN	_	1	obj	_	_
-5	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 檢查槍支的警察。
-1	檢查	檢查	VERB	VV	_	0	root	_	_
-2	槍支	槍支	NOUN	NN	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	警察	警察	NOUN	NN	_	1	obj	_	_
-5	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 學習課本的文章。
-1	學習	學習	VERB	VV	_	0	root	_	_
-2	課本	課本	NOUN	NN	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	文章	文章	NOUN	NN	_	1	obj	_	_
-5	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 學習課本的學生。
-1	學習	學習	VERB	VV	_	0	root	_	_
-2	課本	課本	NOUN	NN	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	學生	學生	NOUN	NN	_	1	obj	_	_
-5	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 三條河裡的石頭。
-1	三	三	NUM	CD	NumType=Card	2	nummod	_	_
-2	條	條	NOUN	NNB	_	3	clf	_	_
-3	河裡	河裡	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	石頭	石頭	NOUN	NN	_	0	root	_	_
-6	。	。	PUNCT	.	_	5	punct	_	_
-
-# sent_id = 1
-# text = 三塊河裡的石頭。
-1	三	三	NUM	CD	NumType=Card	2	nummod	_	_
-2	塊	塊	NOUN	NNB	_	3	clf	_	_
-3	河裡	河裡	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	石頭	石頭	NOUN	NN	_	0	root	_	_
-6	。	。	PUNCT	.	_	5	punct	_	_
-
-# sent_id = 1
-# text = 四篇報紙上的文章。
-1	四	四	NUM	CD	NumType=Card	2	nummod	_	_
-2	篇	篇	NOUN	NNB	_	3	clf	_	_
-3	報紙	報紙	NOUN	NN	_	6	nmod	_	_
-4	上	上	ADP	IN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	文章	文章	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 四張報紙上的文章。
-1	四	四	NUM	CD	NumType=Card	2	nummod	_	_
-2	張	張	NOUN	NNB	_	3	clf	_	_
-3	報紙	報紙	NOUN	NN	_	6	nmod	_	_
-4	上	上	ADP	IN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	文章	文章	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 兩匹草地上的馬。
-1	兩	兩	NUM	CD	NumType=Card	2	nummod	_	_
-2	匹	匹	NOUN	NNB	_	3	clf	_	_
-3	草地	草地	NOUN	NN	_	6	nmod	_	_
-4	上	上	ADP	IN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	馬	馬	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 兩片草地上的馬。
-1	兩	兩	NUM	CD	NumType=Card	2	nummod	_	_
-2	片	片	NOUN	NNB	_	3	clf	_	_
-3	草地	草地	NOUN	NN	_	6	nmod	_	_
-4	上	上	NOUN	NN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	馬	馬	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 三節玩具車的電池。
-1	三	三	NUM	CD	NumType=Card	2	nummod	_	_
-2	節	節	NOUN	NN	_	4	nmod	_	_
-3	玩具	玩具	NOUN	NN	_	4	compound	_	_
-4	車	車	PART	SFN	_	6	nmod	_	_
-5	的	的	PART	DEC	Case=Gen	4	case	_	_
-6	電池	電池	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 三輛玩具車的電池。
-1	三	三	NUM	CD	NumType=Card	2	nummod	_	_
-2	輛	輛	NOUN	NNB	_	4	nmod	_	_
-3	玩具	玩具	NOUN	NN	_	4	compound	_	_
-4	車	車	PART	SFN	_	6	nmod	_	_
-5	的	的	PART	DEC	Case=Gen	4	case	_	_
-6	電池	電池	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 一個瓶子裡的花。
-1	一	一	NUM	CD	NumType=Card	2	nummod	_	_
-2	個	個	NOUN	NNB	_	3	clf	_	_
-3	瓶子	瓶子	NOUN	NN	_	6	nmod	_	_
-4	裡	裡	ADP	IN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	花	花	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 一束瓶子裡的花。
-1	一	一	NUM	CD	NumType=Card	2	nummod	_	_
-2	束	束	NOUN	NNB	_	3	clf	_	_
-3	瓶子	瓶子	NOUN	NN	_	6	nmod	_	_
-4	裡	裡	ADP	IN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	花	花	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 三座寺廟裡的和尚。
-1	三	三	NUM	CD	NumType=Card	2	nummod	_	_
-2	座	座	NOUN	NNB	_	3	clf	_	_
-3	寺廟	寺廟	NOUN	NN	_	6	nmod	_	_
-4	裡	裡	NOUN	NN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	和尚	和尚	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 三位寺廟裡的和尚。
-1	三	三	NUM	CD	NumType=Card	2	nummod	_	_
-2	位	位	NOUN	NNB	_	3	clf	_	_
-3	寺廟	寺廟	NOUN	NN	_	6	nmod	_	_
-4	裡	裡	NOUN	NN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	和尚	和尚	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 八枚錢包裡的硬幣。
-1	八	八	NUM	CD	NumType=Card	2	nummod	_	_
-2	枚	枚	NOUN	NNB	_	3	clf	_	_
-3	錢包裡	錢包裡	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	硬幣	硬幣	NOUN	NN	_	0	root	_	_
-6	。	。	PUNCT	.	_	5	punct	_	_
-
-# sent_id = 1
-# text = 八只錢包裡的硬幣。
-1	八	八	NUM	CD	NumType=Card	3	nsubj	_	_
-2	只	只	ADV	RB	_	3	advmod	_	_
-3	錢	錢	VERB	VV	_	0	root	_	_
-4	包裡	包裡	VERB	VV	_	6	acl:relcl	_	_
-5	的	的	PART	DEC	_	4	mark:rel	_	_
-6	硬幣	硬幣	NOUN	NN	_	3	obj	_	_
-7	。	。	PUNCT	.	_	3	punct	_	_
-
-# sent_id = 1
-# text = 七朵盆栽裡的鮮花。
-1	七朵	七朵	PROPN	NNP	_	2	nmod	_	_
-2	盆栽	盆栽	NOUN	NN	_	5	nmod	_	_
-3	裡	裡	ADP	IN	_	2	acl	_	_
-4	的	的	PART	DEC	Case=Gen	2	case	_	_
-5	鮮花	鮮花	NOUN	NN	_	0	root	_	_
-6	。	。	PUNCT	.	_	5	punct	_	_
-
-# sent_id = 1
-# text = 七盆盆栽裡的鮮花。
-1	七	七	NUM	CD	NumType=Card	2	nummod	_	_
-2	盆	盆	NOUN	NN	_	3	nsubj	_	_
-3	盆栽	盆栽	VERB	VV	_	6	nmod	_	_
-4	裡	裡	ADP	IN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	鮮花	鮮花	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 三位學校的研究員。
-1	三	三	NUM	CD	NumType=Card	2	nummod	_	_
-2	位	位	NOUN	NNB	_	3	clf	_	_
-3	學校	學校	NOUN	NN	_	6	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	研究	研究	VERB	VV	_	6	compound	_	_
-6	員	員	PART	SFN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 三所學校的研究員。
-1	三	三	NUM	CD	NumType=Card	2	nummod	_	_
-2	所	所	NOUN	NNB	_	3	clf	_	_
-3	學校	學校	NOUN	NN	_	6	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	研究	研究	VERB	VV	_	6	compound	_	_
-6	員	員	PART	SFN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 六把房間裡的椅子。
-1	六	六	NUM	CD	NumType=Card	2	nummod	_	_
-2	把	把	NOUN	NNB	_	3	clf	_	_
-3	房間	房間	NOUN	NN	_	6	nmod	_	_
-4	裡	裡	NOUN	NN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	椅子	椅子	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 六間房間裡的椅子。
-1	六	六	NUM	CD	NumType=Card	2	nummod	_	_
-2	間	間	NOUN	NNB	_	3	clf	_	_
-3	房間	房間	NOUN	NN	_	6	nmod	_	_
-4	裡	裡	NOUN	NN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	椅子	椅子	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 兩張演唱會的門票。
-1	兩	兩	NUM	CD	NumType=Card	2	nummod	_	_
-2	張	張	NOUN	NNB	_	4	nmod	_	_
-3	演唱	演唱	VERB	VV	_	4	compound	_	_
-4	會	會	PART	SFN	_	6	nmod	_	_
-5	的	的	PART	DEC	Case=Gen	4	case	_	_
-6	門票	門票	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 兩場演唱會的門票。
-1	兩	兩	NUM	CD	NumType=Card	2	nummod	_	_
-2	場	場	NOUN	NNB	_	4	nmod	_	_
-3	演唱	演唱	VERB	VV	_	4	compound	_	_
-4	會	會	PART	SFN	_	6	nmod	_	_
-5	的	的	PART	DEC	Case=Gen	4	case	_	_
-6	門票	門票	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 五雙抽屜裡的襪子。
-1	五	五	NUM	CD	NumType=Card	3	nummod	_	_
-2	雙	雙	NUM	CD	NumType=Card	3	nummod	_	_
-3	抽屜	抽屜	NOUN	NN	_	6	nmod	_	_
-4	裡	裡	ADP	IN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	襪子	襪子	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 五個抽屜裡的襪子。
-1	五	五	NUM	CD	NumType=Card	2	nummod	_	_
-2	個	個	NOUN	NNB	_	3	clf	_	_
-3	抽屜	抽屜	NOUN	NN	_	6	nmod	_	_
-4	裡	裡	ADP	IN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	襪子	襪子	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 四顆瓶子中的藥丸。
-1	四	四	NUM	CD	NumType=Card	2	nummod	_	_
-2	顆	顆	NOUN	NNB	_	3	clf	_	_
-3	瓶子	瓶子	NOUN	NN	_	6	nmod	_	_
-4	中	中	ADP	IN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	藥丸	藥丸	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 四只瓶子中的藥丸。
-1	四	四	NUM	CD	NumType=Card	3	nummod	_	_
-2	只	只	ADV	RB	_	3	advmod	_	_
-3	瓶子	瓶子	NOUN	NN	_	6	nmod	_	_
-4	中	中	ADP	IN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	藥丸	藥丸	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 六個樹上的核桃。
-1	六	六	NUM	CD	NumType=Card	2	nummod	_	_
-2	個	個	NOUN	NNB	_	3	clf	_	_
-3	樹上	樹上	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	核桃	核桃	NOUN	NN	_	0	root	_	_
-6	。	。	PUNCT	.	_	5	punct	_	_
-
-# sent_id = 1
-# text = 六棵樹上的核桃。
-1	六	六	NUM	CD	NumType=Card	2	nummod	_	_
-2	棵	棵	NOUN	NNB	_	3	clf	_	_
-3	樹上	樹上	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	核桃	核桃	NOUN	NN	_	0	root	_	_
-6	。	。	PUNCT	.	_	5	punct	_	_
-
-# sent_id = 1
-# text = 幾本女生的日記。
-1	幾	幾	NUM	CD	NumType=Card	2	nummod	_	_
-2	本	本	NOUN	NNB	_	3	clf	_	_
-3	女生	女生	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	日記	日記	NOUN	NN	_	0	root	_	_
-6	。	。	PUNCT	.	_	5	punct	_	_
-
-# sent_id = 1
-# text = 幾個女生的日記。
-1	幾	幾	NUM	CD	NumType=Card	2	nummod	_	_
-2	個	個	NOUN	NNB	_	3	clf	_	_
-3	女生	女生	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	日記	日記	NOUN	NN	_	0	root	_	_
-6	。	。	PUNCT	.	_	5	punct	_	_
-
-# sent_id = 1
-# text = 幾支同學的鉛筆。
-1	幾	幾	NUM	CD	NumType=Card	2	nummod	_	_
-2	支	支	NOUN	NNB	_	3	clf	_	_
-3	同學	同學	NOUN	NN	_	6	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	鉛	鉛	NOUN	NN	_	6	compound	_	_
-6	筆	筆	PART	SFN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 幾位同學的鉛筆。
-1	幾	幾	NUM	CD	NumType=Card	2	nummod	_	_
-2	位	位	NOUN	NNB	_	3	clf	_	_
-3	同學	同學	NOUN	NN	_	6	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	鉛	鉛	NOUN	NN	_	6	nmod	_	_
-6	筆	筆	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 三頭親戚的牛。
-1	三頭	三頭	PROPN	NNP	_	2	nmod	_	_
-2	親戚	親戚	NOUN	NN	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	牛	牛	NOUN	NN	_	0	root	_	_
-5	。	。	PUNCT	.	_	4	punct	_	_
-
-# sent_id = 1
-# text = 三位親戚的牛。
-1	三	三	NUM	CD	NumType=Card	2	nummod	_	_
-2	位	位	NOUN	NNB	_	3	clf	_	_
-3	親戚	親戚	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	牛	牛	NOUN	NN	_	0	root	_	_
-6	。	。	PUNCT	.	_	5	punct	_	_
-
-# sent_id = 1
-# text = 四顆牛的牙齒。
-1	四	四	NUM	CD	NumType=Card	2	nummod	_	_
-2	顆	顆	NOUN	NNB	_	3	clf	_	_
-3	牛	牛	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	牙齒	牙齒	NOUN	NN	_	0	root	_	_
-6	。	。	PUNCT	.	_	5	punct	_	_
-
-# sent_id = 1
-# text = 四頭牛的牙齒。
-1	四頭	四頭	NOUN	NN	_	2	compound	_	_
-2	牛	牛	PART	SFN	_	4	nmod	_	_
-3	的	的	PART	DEC	Case=Gen	2	case	_	_
-4	牙齒	牙齒	NOUN	NN	_	0	root	_	_
-5	。	。	PUNCT	.	_	4	punct	_	_
-
-# sent_id = 1
-# text = 七粒沙漠裡的沙。
-1	七	七	NUM	CD	NumType=Card	2	nummod	_	_
-2	粒	粒	NOUN	NN	_	3	nmod	_	_
-3	沙漠	沙漠	NOUN	NN	_	6	nmod	_	_
-4	裡	裡	NOUN	NN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	沙	沙	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 七片沙漠裡的沙。
-1	七	七	NUM	CD	NumType=Card	2	nummod	_	_
-2	片	片	NOUN	NNB	_	3	clf	_	_
-3	沙漠	沙漠	NOUN	NN	_	6	nmod	_	_
-4	裡	裡	NOUN	NN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	沙	沙	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 九個盒子裡的香水。
-1	九	九	NUM	CD	NumType=Card	2	nummod	_	_
-2	個	個	NOUN	NNB	_	3	clf	_	_
-3	盒子	盒子	NOUN	NN	_	6	nmod	_	_
-4	裡	裡	ADP	IN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	香水	香水	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 九瓶盒子裡的香水。
-1	九	九	NUM	CD	NumType=Card	2	nummod	_	_
-2	瓶	瓶	NOUN	NNB	_	3	clf	_	_
-3	盒子	盒子	NOUN	NN	_	6	nmod	_	_
-4	裡	裡	ADP	IN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	3	case	_	_
-6	香水	香水	NOUN	NN	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 寫了五道題。
-1	寫	寫	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	五	五	NUM	CD	NumType=Card	4	nummod	_	_
-4	道	道	NOUN	NNB	_	5	clf	_	_
-5	題	題	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 寫了五分鐘題。
-1	寫	寫	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	五	五	NUM	CD	NumType=Card	4	nummod	_	_
-4	分鐘	分鐘	NOUN	NNB	_	5	compound	_	_
-5	題	題	PART	SFN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 挑選了一小時木材。
-1	挑選	挑選	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	一	一	NUM	CD	NumType=Card	4	nummod	_	_
-4	小時	小時	NOUN	NNB	_	5	clf	_	_
-5	木材	木材	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 挑選了千年木材。
-1	挑選	挑選	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	千	千	NUM	CD	NumType=Card	4	nummod	_	_
-4	年	年	NOUN	NNB	_	5	clf	_	_
-5	木材	木材	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 講了兩小時歷史。
-1	講	講	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	兩	兩	NUM	CD	NumType=Card	4	nummod	_	_
-4	小時	小時	NOUN	NNB	_	5	clf	_	_
-5	歷史	歷史	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 講了五千年歷史。
-1	講	講	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	五千	五千	NUM	CD	NumType=Card	4	nummod	_	_
-4	年	年	NOUN	NNB	_	5	clf	_	_
-5	歷史	歷史	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 畫了三分鐘畫。
-1	畫	畫	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	三	三	NUM	CD	NumType=Card	4	nummod	_	_
-4	分鐘	分鐘	NOUN	NNB	_	5	compound	_	_
-5	畫	畫	PART	SFN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 畫了六幅畫。
-1	畫	畫	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	六	六	NUM	CD	NumType=Card	4	nummod	_	_
-4	幅	幅	NOUN	NNB	_	5	clf	_	_
-5	畫	畫	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 參觀了五小時古建築。
-1	參觀	參觀	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	五	五	NUM	CD	NumType=Card	4	nummod	_	_
-4	小時	小時	NOUN	NNB	_	6	clf	_	_
-5	古	古	PART	PFA	_	6	case	_	_
-6	建築	建築	NOUN	NN	_	1	obj	_	_
-7	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 參觀了百年古建築。
-1	參觀	參觀	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	百	百	NUM	CD	NumType=Card	4	nummod	_	_
-4	年	年	NOUN	NNB	_	6	clf	_	_
-5	古	古	PART	PFA	_	6	case	_	_
-6	建築	建築	NOUN	NN	_	1	obj	_	_
-7	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 寫了六張字帖。
-1	寫	寫	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	六	六	NUM	CD	NumType=Card	4	nummod	_	_
-4	張	張	NOUN	NNB	_	5	clf	_	_
-5	字帖	字帖	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 寫了六天字帖。
-1	寫	寫	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	六	六	NUM	CD	NumType=Card	4	nummod	_	_
-4	天	天	NOUN	NNB	_	6	nmod	_	_
-5	字	字	NOUN	NN	_	6	compound	_	_
-6	帖	帖	PART	SFN	_	1	obj	_	_
-7	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 學習了五小時外語課程。
-1	學習	學習	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	五	五	NUM	CD	NumType=Card	4	nummod	_	_
-4	小時	小時	NOUN	NNB	_	6	clf	_	_
-5	外語	外語	NOUN	NN	_	6	nmod	_	_
-6	課程	課程	NOUN	NN	_	1	obj	_	_
-7	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 學習了五門外語課程。
-1	學習	學習	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	五	五	NUM	CD	NumType=Card	4	nummod	_	_
-4	門	門	NOUN	NNB	_	6	clf	_	_
-5	外語	外語	NOUN	NN	_	6	nmod	_	_
-6	課程	課程	NOUN	NN	_	1	obj	_	_
-7	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 欣賞了幾小時古村落。
-1	欣賞	欣賞	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	幾	幾	NUM	CD	NumType=Card	4	nummod	_	_
-4	小時	小時	NOUN	NNB	_	6	clf	_	_
-5	古	古	PART	PFA	_	6	case	_	_
-6	村落	村落	NOUN	NN	_	1	obj	_	_
-7	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 欣賞了幾百年前的古村落。
-1	欣賞	欣賞	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	幾百	幾百	NUM	CD	NumType=Card	4	nummod	_	_
-4	年	年	NOUN	NNB	_	8	nmod	_	_
-5	前	前	ADP	IN	_	4	acl	_	_
-6	的	的	PART	DEC	Case=Gen	4	case	_	_
-7	古	古	PART	PFA	_	8	case	_	_
-8	村落	村落	NOUN	NN	_	1	obj	_	_
-9	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 彈奏了一首曲子。
-1	彈奏	彈奏	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	一	一	NUM	CD	NumType=Card	4	nummod	_	_
-4	首	首	NOUN	NNB	_	5	clf	_	_
-5	曲子	曲子	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 彈奏了一天曲子。
-1	彈奏	彈奏	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	一	一	NUM	CD	NumType=Card	4	nummod	_	_
-4	天	天	NOUN	NNB	_	5	clf	_	_
-5	曲子	曲子	NOUN	NN	_	1	obj	_	_
-6	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 我看了十天報紙。
-1	我	我	PRON	PRP	Person=1	2	nsubj	_	_
-2	看	看	VERB	VV	_	0	root	_	_
-3	了	了	AUX	AS	Aspect=Perf	2	aux	_	_
-4	十	十	NUM	CD	NumType=Card	5	nummod	_	_
-5	天	天	NOUN	NNB	_	6	clf	_	_
-6	報紙	報紙	NOUN	NN	_	2	obj	_	_
-7	。	。	PUNCT	.	_	2	punct	_	_
-
-# sent_id = 1
-# text = 我看了十份報紙。
-1	我	我	PRON	PRP	Person=1	2	nsubj	_	_
-2	看	看	VERB	VV	_	0	root	_	_
-3	了	了	AUX	AS	Aspect=Perf	2	aux	_	_
-4	十	十	NUM	CD	NumType=Card	5	nummod	_	_
-5	份	份	NOUN	NNB	_	6	clf	_	_
-6	報紙	報紙	NOUN	NN	_	2	obj	_	_
-7	。	。	PUNCT	.	_	2	punct	_	_
-
-# sent_id = 1
-# text = 毯子和凳子的腿都壞了。
-1	毯子	毯子	NOUN	NN	_	7	nsubj	_	_
-2	和	和	CCONJ	CC	_	5	cc	_	_
-3	凳子	凳子	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	腿	腿	NOUN	NN	_	1	conj	_	_
-6	都	都	ADV	RB	_	7	mark	_	_
-7	壞	壞	VERB	VV	_	0	root	_	_
-8	了	了	PART	UH	_	7	discourse	_	_
-9	。	。	PUNCT	.	_	7	punct	_	_
-
-# sent_id = 1
-# text = 他的衣服的袖子和鞋都臟了。
-1	他	他	PRON	PRP	Person=3	3	det	_	_
-2	的	的	PART	DEC	Case=Gen	1	case	_	_
-3	衣服	衣服	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	袖子	袖子	NOUN	NN	_	9	nsubj	_	_
-6	和	和	CCONJ	CC	_	7	cc	_	_
-7	鞋	鞋	NOUN	NN	_	5	conj	_	_
-8	都	都	ADV	RB	_	9	mark	_	_
-9	臟	臟	VERB	VV	_	0	root	_	_
-10	了	了	PART	UH	_	9	discourse	_	_
-11	。	。	PUNCT	.	_	9	punct	_	_
-
-# sent_id = 1
-# text = 椅子和電腦的屏幕需要擺放整齊。
-1	椅子	椅子	NOUN	NN	_	5	nmod	_	_
-2	和	和	CCONJ	CC	_	3	cc	_	_
-3	電腦	電腦	NOUN	NN	_	1	conj	_	_
-4	的	的	PART	DEC	Case=Gen	1	case	_	_
-5	屏幕	屏幕	NOUN	NN	_	8	nsubj	_	_
-6	需要	需要	AUX	MD	_	8	aux	_	_
-7	擺放	擺放	AUX	VV	_	8	cop	_	_
-8	整齊	整齊	ADJ	JJ	_	0	root	_	_
-9	。	。	PUNCT	.	_	8	punct	_	_
-
-# sent_id = 1
-# text = 桌子和沙發上的電腦都要開機。
-1	桌子	桌子	NOUN	NN	_	6	nmod	_	_
-2	和	和	CCONJ	CC	_	3	cc	_	_
-3	沙發	沙發	NOUN	NN	_	1	conj	_	_
-4	上	上	ADP	IN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	1	case	_	_
-6	電腦	電腦	NOUN	NN	_	9	nsubj	_	_
-7	都	都	ADV	RB	_	9	mark	_	_
-8	要	要	AUX	MD	_	9	aux	_	_
-9	開機	開機	VERB	VV	_	0	root	_	_
-10	。	。	PUNCT	.	_	9	punct	_	_
-
-# sent_id = 1
-# text = 警察和商場的保安在大樓外面交流。
-1	警察	警察	NOUN	NN	_	5	nmod	_	_
-2	和	和	CCONJ	CC	_	3	cc	_	_
-3	商場	商場	NOUN	NN	_	1	conj	_	_
-4	的	的	PART	DEC	Case=Gen	1	case	_	_
-5	保安	保安	NOUN	NN	_	9	nsubj	_	_
-6	在	在	VERB	VV	_	9	advcl	_	_
-7	大樓	大樓	NOUN	NN	_	6	obj	_	_
-8	外面	外面	NOUN	NN	_	6	obj	_	_
-9	交流	交流	VERB	VV	_	0	root	_	_
-10	。	。	PUNCT	.	_	9	punct	_	_
-
-# sent_id = 1
-# text = 魚和天空中的小鳥都是他的捕獵對象。
-1	魚	魚	NOUN	NN	_	6	nmod	_	_
-2	和	和	CCONJ	CC	_	6	cc	_	_
-3	天空	天空	NOUN	NN	_	1	conj	_	_
-4	中	中	ADP	IN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	1	case	_	_
-6	小鳥	小鳥	NOUN	NN	_	11	nsubj	_	_
-7	都是	都是	AUX	VC	_	11	cop	_	_
-8	他	他	PRON	PRP	Person=3	11	det	_	_
-9	的	的	PART	DEC	Case=Gen	8	case	_	_
-10	捕獵	捕獵	NOUN	NN	_	11	nmod	_	_
-11	對象	對象	NOUN	NN	_	0	root	_	_
-12	。	。	PUNCT	.	_	11	punct	_	_
-
-# sent_id = 1
-# text = 人和動物的肺都用來呼吸。
-1	人	人	NOUN	NN	_	5	nmod	_	_
-2	和	和	CCONJ	CC	_	3	cc	_	_
-3	動物	動物	NOUN	NN	_	1	conj	_	_
-4	的	的	PART	DEC	Case=Gen	1	case	_	_
-5	肺都	肺都	NOUN	NN	_	6	nsubj	_	_
-6	用	用	VERB	VV	_	0	root	_	_
-7	來	來	ADV	RB	_	8	mark	_	_
-8	呼吸	呼吸	VERB	VV	_	6	xcomp	_	_
-9	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 海和天上的雲朵互相輝映。
-1	海	海	NOUN	NN	_	6	nmod	_	_
-2	和	和	CCONJ	CC	_	6	cc	_	_
-3	天	天	NOUN	NN	_	1	conj	_	_
-4	上	上	ADP	IN	_	3	acl	_	_
-5	的	的	PART	DEC	Case=Gen	1	case	_	_
-6	雲朵	雲朵	NOUN	NN	_	8	nsubj	_	_
-7	互相	互相	ADV	RB	_	8	advmod	_	_
-8	輝映	輝映	VERB	VV	_	0	root	_	_
-9	。	。	PUNCT	.	_	8	punct	_	_
-
-# sent_id = 1
-# text = 紙張和生鏽的銅錢被發掘出來。
-1	紙	紙	NOUN	NN	_	8	nsubj:pass	_	_
-2	張	張	PROPN	NNP	_	6	nmod	_	_
-3	和	和	CCONJ	CC	_	4	cc	_	_
-4	生鏽	生鏽	NOUN	NN	_	2	conj	_	_
-5	的	的	PART	DEC	Case=Gen	2	case	_	_
-6	銅錢	銅錢	NOUN	NN	_	8	nsubj:pass	_	_
-7	被	被	VERB	BB	Voice=Pass	8	aux:pass	_	_
-8	發掘	發掘	VERB	VV	_	0	root	_	_
-9	出來	出來	VERB	VV	_	8	mark	_	_
-10	。	。	PUNCT	.	_	8	punct	_	_
-
-# sent_id = 1
-# text = 醫生和病人的家屬耐心溝通。
-1	醫生	醫生	NOUN	NN	_	7	nsubj	_	_
-2	和	和	CCONJ	CC	_	5	cc	_	_
-3	病人	病人	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	家屬	家屬	NOUN	NN	_	1	conj	_	_
-6	耐心	耐心	ADV	RB	_	7	advmod	_	_
-7	溝通	溝通	VERB	VV	_	0	root	_	_
-8	。	。	PUNCT	.	_	7	punct	_	_
-
-# sent_id = 1
-# text = 領了我和你的結婚證。
-1	領	領	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	我	我	PRON	PRP	Person=1	1	obj	_	_
-4	和	和	CCONJ	CC	_	8	cc	_	_
-5	你	你	PRON	PRP	Person=2	8	det	_	_
-6	的	的	PART	DEC	Case=Gen	5	case	_	_
-7	結婚	結婚	VERB	VV	_	8	compound	_	_
-8	證	證	PART	SFN	_	3	conj	_	_
-9	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 照片裡是我和我的姐妹。
-1	照片	照片	NOUN	NN	_	4	nmod	_	_
-2	裡	裡	ADP	IN	_	1	acl	_	_
-3	是	是	AUX	VC	_	8	cop	_	_
-4	我	我	PRON	PRP	Person=1	8	nmod	_	_
-5	和	和	CCONJ	CC	_	8	cc	_	_
-6	我	我	PRON	PRP	Person=1	8	det	_	_
-7	的	的	PART	DEC	Case=Gen	6	case	_	_
-8	姐妹	姐妹	NOUN	NN	_	0	root	_	_
-9	。	。	PUNCT	.	_	8	punct	_	_
-
-# sent_id = 1
-# text = 男人和女人的臉都需要呵護。
-1	男人	男人	NOUN	NN	_	5	nmod	_	_
-2	和	和	CCONJ	CC	_	3	cc	_	_
-3	女人	女人	NOUN	NN	_	1	conj	_	_
-4	的	的	PART	DEC	Case=Gen	1	case	_	_
-5	臉	臉	NOUN	NN	_	8	nsubj	_	_
-6	都	都	ADV	RB	_	8	mark	_	_
-7	需要	需要	AUX	MD	_	8	aux	_	_
-8	呵護	呵護	NOUN	NN	_	0	root	_	_
-9	。	。	PUNCT	.	_	8	punct	_	_
-
-# sent_id = 1
-# text = 山和水的顏色很和諧。
-1	山	山	NOUN	NN	_	7	nsubj	_	_
-2	和	和	CCONJ	CC	_	5	cc	_	_
-3	水	水	NOUN	NN	_	1	conj	_	_
-4	的	的	PART	DEC	Case=Gen	1	case	_	_
-5	顏色	顏色	NOUN	NN	_	7	nsubj	_	_
-6	很	很	ADV	RB	_	7	advmod	_	_
-7	和諧	和諧	ADJ	JJ	_	0	root	_	_
-8	。	。	PUNCT	.	_	7	punct	_	_
-
-# sent_id = 1
-# text = 麵包和牛奶的產地是一樣的。
-1	麵包	麵包	NOUN	NN	_	7	nsubj	_	_
-2	和	和	CCONJ	CC	_	3	cc	_	_
-3	牛奶	牛奶	NOUN	NN	_	1	conj	_	_
-4	的	的	PART	DEC	Case=Gen	1	case	_	_
-5	產地	產地	NOUN	NN	_	1	conj	_	_
-6	是	是	AUX	VC	_	7	cop	_	_
-7	一樣	一樣	ADJ	JJ	_	0	root	_	_
-8	的	的	PART	UH	_	7	discourse	_	_
-9	。	。	PUNCT	.	_	7	punct	_	_
-
-# sent_id = 1
-# text = 鳥和海裡的魚相遇。
-1	鳥	鳥	NOUN	NN	_	6	nsubj	_	_
-2	和	和	CCONJ	CC	_	5	cc	_	_
-3	海裡	海裡	NOUN	NN	_	5	nmod	_	_
-4	的	的	PART	DEC	Case=Gen	3	case	_	_
-5	魚	魚	NOUN	NN	_	1	conj	_	_
-6	相遇	相遇	VERB	VV	_	0	root	_	_
-7	。	。	PUNCT	.	_	6	punct	_	_
-
-# sent_id = 1
-# text = 看到了天和海的交界。
-1	看到	看到	VERB	VV	_	0	root	_	_
-2	了	了	AUX	AS	Aspect=Perf	1	aux	_	_
-3	天	天	NOUN	NNB	_	7	nmod	_	_
-4	和	和	CCONJ	CC	_	5	cc	_	_
-5	海	海	NOUN	NN	_	3	conj	_	_
-6	的	的	PART	DEC	Case=Gen	3	case	_	_
-7	交界	交界	NOUN	NN	_	1	obj	_	_
-8	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 講解雞和鵝的區別。
-1	講	講	VERB	VV	_	0	root	_	_
-2	解雞	解雞	NOUN	NN	_	6	nmod	_	_
-3	和	和	CCONJ	CC	_	4	cc	_	_
-4	鵝	鵝	NOUN	NN	_	2	conj	_	_
-5	的	的	PART	DEC	Case=Gen	2	case	_	_
-6	區別	區別	NOUN	NN	_	1	obj	_	_
-7	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 講解原理和製作的步驟。
-1	講解	講解	VERB	VV	_	0	root	_	_
-2	原理	原理	NOUN	NN	_	1	obj	_	_
-3	和	和	CCONJ	CC	_	6	cc	_	_
-4	製作	製作	VERB	VV	_	6	acl:relcl	_	_
-5	的	的	PART	DEC	_	4	mark:rel	_	_
-6	步驟	步驟	NOUN	NN	_	2	conj	_	_
-7	。	。	PUNCT	.	_	1	punct	_	_
-
-# sent_id = 1
-# text = 對比鹿角和犀牛的角。
-1	對比	對比	VERB	VV	_	0	root	_	_
-2	鹿角	鹿角	NOUN	NN	_	6	nmod	_	_
-3	和	和	CCONJ	CC	_	4	cc	_	_
-4	犀牛	犀牛	NOUN	NN	_	2	conj	_	_
-5	的	的	PART	DEC	Case=Gen	2	case	_	_
-6	角	角	NOUN	NN	_	1	obj	_	_
-7	。	。	PUNCT	.	_	1	punct	_	_
+1	調研	調研	NOUN	NN	_	2	nmod	_	start_char=0|end_char=2
+2	鄉鎮	鄉鎮	NOUN	NN	_	6	nmod	_	start_char=2|end_char=4
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=4|end_char=5
+4	經濟	經濟	NOUN	NN	_	6	nmod	_	start_char=5|end_char=7
+5	發展	發展	NOUN	NN	_	6	nmod	_	start_char=7|end_char=9
+6	狀況	狀況	NOUN	NN	_	0	root	_	start_char=9|end_char=11
+7	。	。	PUNCT	.	_	6	punct	_	start_char=11|end_char=12
+
+1	調研	調研	NOUN	NN	_	2	nmod	_	start_char=14|end_char=16
+2	鄉鎮	鄉鎮	NOUN	NN	_	6	nmod	_	start_char=16|end_char=18
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=18|end_char=19
+4	經濟	經濟	NOUN	NN	_	5	compound	_	start_char=19|end_char=21
+5	學	學	PART	SFN	_	6	nmod	_	start_char=21|end_char=22
+6	教授	教授	NOUN	NN	_	0	root	_	start_char=22|end_char=24
+7	。	。	PUNCT	.	_	6	punct	_	start_char=24|end_char=25
+
+1	記錄	記錄	VERB	VV	_	0	root	_	start_char=27|end_char=29
+2	實驗	實驗	VERB	VV	_	4	nmod	_	start_char=29|end_char=31
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=31|end_char=32
+4	表格	表格	NOUN	NN	_	1	obj	_	start_char=32|end_char=34
+5	。	。	PUNCT	.	_	1	punct	_	start_char=34|end_char=35
+
+1	記錄	記錄	VERB	VV	_	0	root	_	start_char=37|end_char=39
+2	實驗	實驗	VERB	VV	_	4	nmod	_	start_char=39|end_char=41
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=41|end_char=42
+4	結果	結果	NOUN	NN	_	1	obj	_	start_char=42|end_char=44
+5	。	。	PUNCT	.	_	1	punct	_	start_char=44|end_char=45
+
+1	吃	吃	VERB	VV	_	0	root	_	start_char=47|end_char=48
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=48|end_char=49
+3	遊客	遊客	NOUN	NN	_	5	nmod	_	start_char=49|end_char=51
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=51|end_char=52
+5	鱷魚	鱷魚	NOUN	NN	_	1	obj	_	start_char=52|end_char=54
+6	。	。	PUNCT	.	_	1	punct	_	start_char=54|end_char=55
+
+1	吃	吃	VERB	VV	_	0	root	_	start_char=57|end_char=58
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=58|end_char=59
+3	遊客	遊客	NOUN	NN	_	5	nmod	_	start_char=59|end_char=61
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=61|end_char=62
+5	水果	水果	NOUN	NN	_	1	obj	_	start_char=62|end_char=64
+6	。	。	PUNCT	.	_	1	punct	_	start_char=64|end_char=65
+
+1	切西瓜	切西瓜	PROPN	NNP	_	3	nmod	_	start_char=67|end_char=70
+2	的	的	PART	DEC	Case=Gen	1	case	_	start_char=70|end_char=71
+3	刀	刀	NOUN	NN	_	0	root	_	start_char=71|end_char=72
+4	。	。	PUNCT	.	_	3	punct	_	start_char=72|end_char=73
+
+1	削西瓜	削西瓜	PROPN	NNP	_	3	nmod	_	start_char=75|end_char=78
+2	的	的	PART	DEC	Case=Gen	1	case	_	start_char=78|end_char=79
+3	皮	皮	NOUN	NN	_	0	root	_	start_char=79|end_char=80
+4	。	。	PUNCT	.	_	3	punct	_	start_char=80|end_char=81
+
+1	消除	消除	VERB	VV	_	4	acl:relcl	_	start_char=83|end_char=85
+2	健身	健身	NOUN	NN	_	1	obj	_	start_char=85|end_char=87
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=87|end_char=88
+4	疲勞	疲勞	NOUN	NN	_	0	root	_	start_char=88|end_char=90
+5	。	。	PUNCT	.	_	4	punct	_	start_char=90|end_char=91
+
+1	停止	停止	VERB	VV	_	4	acl:relcl	_	start_char=93|end_char=95
+2	健身	健身	NOUN	NN	_	1	obj	_	start_char=95|end_char=97
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=97|end_char=98
+4	後果	後果	NOUN	NN	_	0	root	_	start_char=98|end_char=100
+5	。	。	PUNCT	.	_	4	punct	_	start_char=100|end_char=101
+
+1	殺	殺	VERB	VV	_	0	root	_	start_char=103|end_char=104
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=104|end_char=105
+3	房東	房東	PROPN	NNP	_	5	nmod	_	start_char=105|end_char=107
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=107|end_char=108
+5	貓	貓	NOUN	NN	_	1	obj	_	start_char=108|end_char=109
+6	。	。	PUNCT	.	_	1	punct	_	start_char=109|end_char=110
+
+1	殺	殺	VERB	VV	_	0	root	_	start_char=112|end_char=113
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=113|end_char=114
+3	房東	房東	PROPN	NNP	_	5	nmod	_	start_char=114|end_char=116
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=116|end_char=117
+5	殺手	殺手	NOUN	NN	_	1	obj	_	start_char=117|end_char=119
+6	。	。	PUNCT	.	_	1	punct	_	start_char=119|end_char=120
+
+1	裝修	裝修	VERB	VV	_	0	root	_	start_char=122|end_char=124
+2	房子	房子	NOUN	NN	_	4	nmod	_	start_char=124|end_char=126
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=126|end_char=127
+4	人員	人員	NOUN	NN	_	1	obj	_	start_char=127|end_char=129
+5	。	。	PUNCT	.	_	1	punct	_	start_char=129|end_char=130
+
+1	裝修	裝修	VERB	VV	_	0	root	_	start_char=132|end_char=134
+2	房子	房子	NOUN	NN	_	4	nmod	_	start_char=134|end_char=136
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=136|end_char=137
+4	房間	房間	NOUN	NN	_	1	obj	_	start_char=137|end_char=139
+5	。	。	PUNCT	.	_	1	punct	_	start_char=139|end_char=140
+
+1	研究	研究	VERB	VV	_	0	root	_	start_char=142|end_char=144
+2	代碼	代碼	NOUN	NN	_	4	nmod	_	start_char=144|end_char=146
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=146|end_char=147
+4	架構	架構	NOUN	NN	_	1	obj	_	start_char=147|end_char=149
+5	。	。	PUNCT	.	_	1	punct	_	start_char=149|end_char=150
+
+1	研究	研究	VERB	VV	_	0	root	_	start_char=152|end_char=154
+2	代碼	代碼	NOUN	NN	_	5	nmod	_	start_char=154|end_char=156
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=156|end_char=157
+4	架構	架構	NOUN	NN	_	5	compound	_	start_char=157|end_char=159
+5	師	師	PART	SFN	_	1	obj	_	start_char=159|end_char=160
+6	。	。	PUNCT	.	_	1	punct	_	start_char=160|end_char=161
+
+1	打擊	打擊	VERB	VV	_	0	root	_	start_char=163|end_char=165
+2	經濟	經濟	NOUN	NN	_	3	nmod	_	start_char=165|end_char=167
+3	犯罪	犯罪	NOUN	NN	_	5	nmod	_	start_char=167|end_char=169
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=169|end_char=170
+5	團伙	團伙	NOUN	NN	_	1	obj	_	start_char=170|end_char=172
+6	。	。	PUNCT	.	_	1	punct	_	start_char=172|end_char=173
+
+1	打擊	打擊	VERB	VV	_	5	acl:relcl	_	start_char=175|end_char=177
+2	經濟	經濟	NOUN	NN	_	3	nmod	_	start_char=177|end_char=179
+3	犯罪	犯罪	NOUN	NN	_	1	obj	_	start_char=179|end_char=181
+4	的	的	PART	DEC	_	1	mark:rel	_	start_char=181|end_char=182
+5	警察	警察	NOUN	NN	_	0	root	_	start_char=182|end_char=184
+6	。	。	PUNCT	.	_	5	punct	_	start_char=184|end_char=185
+
+1	杯子	杯子	NOUN	NN	_	3	nsubj	_	start_char=187|end_char=189
+2	上	上	ADP	IN	_	1	acl	_	start_char=189|end_char=190
+3	有	有	VERB	VV	_	0	root	_	start_char=190|end_char=191
+4	一	一	NUM	CD	NumType=Card	5	nummod	_	start_char=191|end_char=192
+5	個	個	NOUN	NNB	_	12	clf	_	start_char=192|end_char=193
+6	戴	戴	VERB	VV	_	10	acl:relcl	_	start_char=193|end_char=194
+7	著	著	AUX	AS	Aspect=Prog	6	aux	_	start_char=194|end_char=195
+8	帽子	帽子	NOUN	NN	_	6	obj	_	start_char=195|end_char=197
+9	的	的	PART	DEC	_	6	mark:rel	_	start_char=197|end_char=198
+10	雪人	雪人	NOUN	NN	_	12	nmod	_	start_char=198|end_char=200
+11	的	的	PART	DEC	Case=Gen	10	case	_	start_char=200|end_char=201
+12	圖案	圖案	NOUN	NN	_	3	obj	_	start_char=201|end_char=203
+13	。	。	PUNCT	.	_	3	punct	_	start_char=203|end_char=204
+
+1	杯子	杯子	NOUN	NN	_	3	nsubj	_	start_char=206|end_char=208
+2	上	上	NOUN	NN	_	1	acl	_	start_char=208|end_char=209
+3	有	有	VERB	VV	_	0	root	_	start_char=209|end_char=210
+4	一	一	NUM	CD	NumType=Card	5	nummod	_	start_char=210|end_char=211
+5	個	個	NOUN	NNB	_	10	clf	_	start_char=211|end_char=212
+6	褪色	褪色	VERB	VV	_	10	acl:relcl	_	start_char=212|end_char=214
+7	的	的	PART	DEC	_	6	mark:rel	_	start_char=214|end_char=215
+8	雪人	雪人	NOUN	NN	_	6	obj	_	start_char=215|end_char=217
+9	的	的	PART	DEC	_	6	mark:rel	_	start_char=217|end_char=218
+10	圖案	圖案	NOUN	NN	_	3	obj	_	start_char=218|end_char=220
+11	。	。	PUNCT	.	_	3	punct	_	start_char=220|end_char=221
+
+1	改變	改變	VERB	VV	_	5	acl:relcl	_	start_char=223|end_char=225
+2	世界	世界	NOUN	NN	_	1	obj	_	start_char=225|end_char=227
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=227|end_char=228
+4	偉	偉	PROPN	NNP	_	5	compound	_	start_char=228|end_char=229
+5	人	人	PART	SFN	_	0	root	_	start_char=229|end_char=230
+6	。	。	PUNCT	.	_	5	punct	_	start_char=230|end_char=231
+
+1	改變	改變	VERB	VV	_	0	root	_	start_char=233|end_char=235
+2	世界	世界	NOUN	NN	_	4	nmod	_	start_char=235|end_char=237
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=237|end_char=238
+4	格局	格局	NOUN	NN	_	1	obj	_	start_char=238|end_char=240
+5	。	。	PUNCT	.	_	1	punct	_	start_char=240|end_char=241
+
+1	調查	調查	NOUN	NN	_	2	nmod	_	start_char=243|end_char=245
+2	事故	事故	NOUN	NN	_	4	nmod	_	start_char=245|end_char=247
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=247|end_char=248
+4	交警	交警	NOUN	NN	_	0	root	_	start_char=248|end_char=250
+5	。	。	PUNCT	.	_	4	punct	_	start_char=250|end_char=251
+
+1	調查	調查	NOUN	NN	_	2	nmod	_	start_char=253|end_char=255
+2	事故	事故	NOUN	NN	_	4	nmod	_	start_char=255|end_char=257
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=257|end_char=258
+4	起因	起因	NOUN	NN	_	0	root	_	start_char=258|end_char=260
+5	。	。	PUNCT	.	_	4	punct	_	start_char=260|end_char=261
+
+1	喜歡	喜歡	VERB	VV	_	4	acl:relcl	_	start_char=263|end_char=265
+2	旅行	旅行	VERB	VV	_	1	xcomp	_	start_char=265|end_char=267
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=267|end_char=268
+4	過程	過程	NOUN	NN	_	0	root	_	start_char=268|end_char=270
+5	。	。	PUNCT	.	_	4	punct	_	start_char=270|end_char=271
+
+1	喜歡	喜歡	VERB	VV	_	0	root	_	start_char=273|end_char=275
+2	旅行	旅行	VERB	VV	_	4	acl:relcl	_	start_char=275|end_char=277
+3	的	的	PART	DEC	_	2	mark:rel	_	start_char=277|end_char=278
+4	人們	人	NOUN	NN	Number=Plur	1	obj	_	start_char=278|end_char=280
+5	。	。	PUNCT	.	_	1	punct	_	start_char=280|end_char=281
+
+1	演奏	演奏	NOUN	NN	_	2	nmod	_	start_char=283|end_char=285
+2	樂曲	樂曲	NOUN	NN	_	5	nmod	_	start_char=285|end_char=287
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=287|end_char=288
+4	高潮	高潮	NOUN	NN	_	5	nmod	_	start_char=288|end_char=290
+5	部分	部分	NOUN	NN	_	0	root	_	start_char=290|end_char=292
+6	。	。	PUNCT	.	_	5	punct	_	start_char=292|end_char=293
+
+1	演奏	演奏	VERB	VV	_	2	nmod	_	start_char=295|end_char=297
+2	樂曲	樂曲	NOUN	NN	_	5	nmod	_	start_char=297|end_char=299
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=299|end_char=300
+4	鋼琴	鋼琴	NOUN	NN	_	5	compound	_	start_char=300|end_char=302
+5	家	家	PART	SFN	_	0	root	_	start_char=302|end_char=303
+6	。	。	PUNCT	.	_	5	punct	_	start_char=303|end_char=304
+
+1	計算	計算	NOUN	NN	_	2	nmod	_	start_char=306|end_char=308
+2	工資	工資	NOUN	NN	_	4	nmod	_	start_char=308|end_char=310
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=310|end_char=311
+4	總數	總數	NOUN	NN	_	0	root	_	start_char=311|end_char=313
+5	。	。	PUNCT	.	_	4	punct	_	start_char=313|end_char=314
+
+1	計算	計算	VERB	VV	_	0	root	_	start_char=316|end_char=318
+2	工資	工資	NOUN	NN	_	4	nmod	_	start_char=318|end_char=320
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=320|end_char=321
+4	會計	會計	NOUN	NN	_	1	obj	_	start_char=321|end_char=323
+5	。	。	PUNCT	.	_	1	punct	_	start_char=323|end_char=324
+
+1	賣	賣	VERB	VV	_	0	root	_	start_char=326|end_char=327
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=327|end_char=328
+3	獵人	獵人	NOUN	NN	_	5	nmod	_	start_char=328|end_char=330
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=330|end_char=331
+5	狗	狗	NOUN	NN	_	1	obj	_	start_char=331|end_char=332
+6	。	。	PUNCT	.	_	1	punct	_	start_char=332|end_char=333
+
+1	賣	賣	VERB	VV	_	0	root	_	start_char=335|end_char=336
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=336|end_char=337
+3	狗	狗	NOUN	NN	_	5	nmod	_	start_char=337|end_char=338
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=338|end_char=339
+5	獵人	獵人	NOUN	NN	_	1	obj	_	start_char=339|end_char=341
+6	。	。	PUNCT	.	_	1	punct	_	start_char=341|end_char=342
+
+1	援助	援助	VERB	VV	_	7	acl:relcl	_	start_char=344|end_char=346
+2	偏	偏	ADP	IN	_	4	case	_	start_char=346|end_char=347
+3	遠	遠	PART	PFA	_	4	case	_	start_char=347|end_char=348
+4	地區	地區	NOUN	NN	_	1	obl	_	start_char=348|end_char=350
+5	的	的	PART	DEC	_	1	mark:rel	_	start_char=350|end_char=351
+6	留守	留守	NOUN	NN	_	7	nmod	_	start_char=351|end_char=353
+7	兒童	兒童	NOUN	NN	_	0	root	_	start_char=353|end_char=355
+8	。	。	PUNCT	.	_	7	punct	_	start_char=355|end_char=356
+
+1	援助	援助	VERB	VV	_	7	acl:relcl	_	start_char=358|end_char=360
+2	偏	偏	VERB	VV	_	7	acl:relcl	_	start_char=360|end_char=361
+3	遠	遠	PART	PFA	_	4	case	_	start_char=361|end_char=362
+4	地區	地區	NOUN	NN	_	2	obj	_	start_char=362|end_char=364
+5	的	的	PART	DEC	_	2	mark:rel	_	start_char=364|end_char=365
+6	志願	志願	VERB	VV	_	7	compound	_	start_char=365|end_char=367
+7	者	者	PART	SFN	_	0	root	_	start_char=367|end_char=368
+8	。	。	PUNCT	.	_	7	punct	_	start_char=368|end_char=369
+
+1	擊中	擊中	VERB	VV	_	2	nmod	_	start_char=371|end_char=373
+2	靶子	靶子	NOUN	NN	_	5	nmod	_	start_char=373|end_char=375
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=375|end_char=376
+4	十	十	NUM	CD	NumType=Card	5	nummod	_	start_char=376|end_char=377
+5	環	環	NOUN	NN	_	0	root	_	start_char=377|end_char=378
+6	。	。	PUNCT	.	_	1	punct	_	start_char=378|end_char=379
+
+1	擊中	擊中	VERB	VV	_	0	root	_	start_char=381|end_char=383
+2	靶子	靶子	NOUN	NN	_	4	nmod	_	start_char=383|end_char=385
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=385|end_char=386
+4	射手	射手	NOUN	NN	_	1	obj	_	start_char=386|end_char=388
+5	。	。	PUNCT	.	_	1	punct	_	start_char=388|end_char=389
+
+1	檢查	檢查	VERB	VV	_	0	root	_	start_char=391|end_char=393
+2	槍支	槍支	NOUN	NN	_	4	nmod	_	start_char=393|end_char=395
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=395|end_char=396
+4	子彈	子彈	NOUN	NN	_	1	obj	_	start_char=396|end_char=398
+5	。	。	PUNCT	.	_	1	punct	_	start_char=398|end_char=399
+
+1	檢查	檢查	VERB	VV	_	0	root	_	start_char=401|end_char=403
+2	槍支	槍支	NOUN	NN	_	4	nmod	_	start_char=403|end_char=405
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=405|end_char=406
+4	警察	警察	NOUN	NN	_	1	obj	_	start_char=406|end_char=408
+5	。	。	PUNCT	.	_	1	punct	_	start_char=408|end_char=409
+
+1	學習	學習	VERB	VV	_	0	root	_	start_char=411|end_char=413
+2	課本	課本	NOUN	NN	_	4	nmod	_	start_char=413|end_char=415
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=415|end_char=416
+4	文章	文章	NOUN	NN	_	1	obj	_	start_char=416|end_char=418
+5	。	。	PUNCT	.	_	1	punct	_	start_char=418|end_char=419
+
+1	學習	學習	VERB	VV	_	0	root	_	start_char=421|end_char=423
+2	課本	課本	NOUN	NN	_	4	nmod	_	start_char=423|end_char=425
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=425|end_char=426
+4	學生	學生	NOUN	NN	_	1	obj	_	start_char=426|end_char=428
+5	。	。	PUNCT	.	_	1	punct	_	start_char=428|end_char=429
+
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	start_char=431|end_char=432
+2	條	條	NOUN	NNB	_	3	clf	_	start_char=432|end_char=433
+3	河裡	河裡	NOUN	NN	_	5	nmod	_	start_char=433|end_char=435
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=435|end_char=436
+5	石頭	石頭	NOUN	NN	_	0	root	_	start_char=436|end_char=438
+6	。	。	PUNCT	.	_	5	punct	_	start_char=438|end_char=439
+
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	start_char=441|end_char=442
+2	塊	塊	NOUN	NNB	_	3	clf	_	start_char=442|end_char=443
+3	河裡	河裡	NOUN	NN	_	5	nmod	_	start_char=443|end_char=445
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=445|end_char=446
+5	石頭	石頭	NOUN	NN	_	0	root	_	start_char=446|end_char=448
+6	。	。	PUNCT	.	_	5	punct	_	start_char=448|end_char=449
+
+1	四	四	NUM	CD	NumType=Card	2	nummod	_	start_char=451|end_char=452
+2	篇	篇	NOUN	NNB	_	3	clf	_	start_char=452|end_char=453
+3	報紙	報紙	NOUN	NN	_	6	nmod	_	start_char=453|end_char=455
+4	上	上	ADP	IN	_	3	acl	_	start_char=455|end_char=456
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=456|end_char=457
+6	文章	文章	NOUN	NN	_	0	root	_	start_char=457|end_char=459
+7	。	。	PUNCT	.	_	6	punct	_	start_char=459|end_char=460
+
+1	四	四	NUM	CD	NumType=Card	2	nummod	_	start_char=462|end_char=463
+2	張	張	NOUN	NNB	_	3	clf	_	start_char=463|end_char=464
+3	報紙	報紙	NOUN	NN	_	6	nmod	_	start_char=464|end_char=466
+4	上	上	ADP	IN	_	3	acl	_	start_char=466|end_char=467
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=467|end_char=468
+6	文章	文章	NOUN	NN	_	0	root	_	start_char=468|end_char=470
+7	。	。	PUNCT	.	_	6	punct	_	start_char=470|end_char=471
+
+1	兩	兩	NUM	CD	NumType=Card	2	nummod	_	start_char=473|end_char=474
+2	匹	匹	NOUN	NNB	_	3	clf	_	start_char=474|end_char=475
+3	草地	草地	NOUN	NN	_	6	nmod	_	start_char=475|end_char=477
+4	上	上	ADP	IN	_	3	acl	_	start_char=477|end_char=478
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=478|end_char=479
+6	馬	馬	NOUN	NN	_	0	root	_	start_char=479|end_char=480
+7	。	。	PUNCT	.	_	6	punct	_	start_char=480|end_char=481
+
+1	兩	兩	NUM	CD	NumType=Card	2	nummod	_	start_char=483|end_char=484
+2	片	片	NOUN	NNB	_	3	clf	_	start_char=484|end_char=485
+3	草地	草地	NOUN	NN	_	6	nmod	_	start_char=485|end_char=487
+4	上	上	NOUN	NN	_	3	acl	_	start_char=487|end_char=488
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=488|end_char=489
+6	馬	馬	NOUN	NN	_	0	root	_	start_char=489|end_char=490
+7	。	。	PUNCT	.	_	6	punct	_	start_char=490|end_char=491
+
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	start_char=493|end_char=494
+2	節	節	NOUN	NN	_	4	nmod	_	start_char=494|end_char=495
+3	玩具	玩具	NOUN	NN	_	4	compound	_	start_char=495|end_char=497
+4	車	車	PART	SFN	_	6	nmod	_	start_char=497|end_char=498
+5	的	的	PART	DEC	Case=Gen	4	case	_	start_char=498|end_char=499
+6	電池	電池	NOUN	NN	_	0	root	_	start_char=499|end_char=501
+7	。	。	PUNCT	.	_	6	punct	_	start_char=501|end_char=502
+
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	start_char=504|end_char=505
+2	輛	輛	NOUN	NNB	_	4	nmod	_	start_char=505|end_char=506
+3	玩具	玩具	NOUN	NN	_	4	compound	_	start_char=506|end_char=508
+4	車	車	PART	SFN	_	6	nmod	_	start_char=508|end_char=509
+5	的	的	PART	DEC	Case=Gen	4	case	_	start_char=509|end_char=510
+6	電池	電池	NOUN	NN	_	0	root	_	start_char=510|end_char=512
+7	。	。	PUNCT	.	_	6	punct	_	start_char=512|end_char=513
+
+1	一	一	NUM	CD	NumType=Card	2	nummod	_	start_char=515|end_char=516
+2	個	個	NOUN	NNB	_	3	clf	_	start_char=516|end_char=517
+3	瓶子	瓶子	NOUN	NN	_	6	nmod	_	start_char=517|end_char=519
+4	裡	裡	ADP	IN	_	3	acl	_	start_char=519|end_char=520
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=520|end_char=521
+6	花	花	NOUN	NN	_	0	root	_	start_char=521|end_char=522
+7	。	。	PUNCT	.	_	6	punct	_	start_char=522|end_char=523
+
+1	一	一	NUM	CD	NumType=Card	2	nummod	_	start_char=525|end_char=526
+2	束	束	NOUN	NNB	_	3	clf	_	start_char=526|end_char=527
+3	瓶子	瓶子	NOUN	NN	_	6	nmod	_	start_char=527|end_char=529
+4	裡	裡	ADP	IN	_	3	acl	_	start_char=529|end_char=530
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=530|end_char=531
+6	花	花	NOUN	NN	_	0	root	_	start_char=531|end_char=532
+7	。	。	PUNCT	.	_	6	punct	_	start_char=532|end_char=533
+
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	start_char=535|end_char=536
+2	座	座	NOUN	NNB	_	3	clf	_	start_char=536|end_char=537
+3	寺廟	寺廟	NOUN	NN	_	6	nmod	_	start_char=537|end_char=539
+4	裡	裡	NOUN	NN	_	3	acl	_	start_char=539|end_char=540
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=540|end_char=541
+6	和尚	和尚	NOUN	NN	_	0	root	_	start_char=541|end_char=543
+7	。	。	PUNCT	.	_	6	punct	_	start_char=543|end_char=544
+
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	start_char=546|end_char=547
+2	位	位	NOUN	NNB	_	3	clf	_	start_char=547|end_char=548
+3	寺廟	寺廟	NOUN	NN	_	6	nmod	_	start_char=548|end_char=550
+4	裡	裡	NOUN	NN	_	3	acl	_	start_char=550|end_char=551
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=551|end_char=552
+6	和尚	和尚	NOUN	NN	_	0	root	_	start_char=552|end_char=554
+7	。	。	PUNCT	.	_	6	punct	_	start_char=554|end_char=555
+
+1	八	八	NUM	CD	NumType=Card	2	nummod	_	start_char=557|end_char=558
+2	枚	枚	NOUN	NNB	_	3	clf	_	start_char=558|end_char=559
+3	錢包裡	錢包裡	NOUN	NN	_	5	nmod	_	start_char=559|end_char=562
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=562|end_char=563
+5	硬幣	硬幣	NOUN	NN	_	0	root	_	start_char=563|end_char=565
+6	。	。	PUNCT	.	_	5	punct	_	start_char=565|end_char=566
+
+1	八	八	NUM	CD	NumType=Card	3	nsubj	_	start_char=568|end_char=569
+2	只	只	ADV	RB	_	3	advmod	_	start_char=569|end_char=570
+3	錢	錢	VERB	VV	_	0	root	_	start_char=570|end_char=571
+4	包裡	包裡	VERB	VV	_	6	acl:relcl	_	start_char=571|end_char=573
+5	的	的	PART	DEC	_	4	mark:rel	_	start_char=573|end_char=574
+6	硬幣	硬幣	NOUN	NN	_	3	obj	_	start_char=574|end_char=576
+7	。	。	PUNCT	.	_	3	punct	_	start_char=576|end_char=577
+
+1	七朵	七朵	PROPN	NNP	_	2	nmod	_	start_char=579|end_char=581
+2	盆栽	盆栽	NOUN	NN	_	5	nmod	_	start_char=581|end_char=583
+3	裡	裡	ADP	IN	_	2	acl	_	start_char=583|end_char=584
+4	的	的	PART	DEC	Case=Gen	2	case	_	start_char=584|end_char=585
+5	鮮花	鮮花	NOUN	NN	_	0	root	_	start_char=585|end_char=587
+6	。	。	PUNCT	.	_	5	punct	_	start_char=587|end_char=588
+
+1	七	七	NUM	CD	NumType=Card	2	nummod	_	start_char=590|end_char=591
+2	盆	盆	NOUN	NN	_	3	nsubj	_	start_char=591|end_char=592
+3	盆栽	盆栽	VERB	VV	_	6	nmod	_	start_char=592|end_char=594
+4	裡	裡	ADP	IN	_	3	acl	_	start_char=594|end_char=595
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=595|end_char=596
+6	鮮花	鮮花	NOUN	NN	_	0	root	_	start_char=596|end_char=598
+7	。	。	PUNCT	.	_	6	punct	_	start_char=598|end_char=599
+
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	start_char=601|end_char=602
+2	位	位	NOUN	NNB	_	3	clf	_	start_char=602|end_char=603
+3	學校	學校	NOUN	NN	_	6	nmod	_	start_char=603|end_char=605
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=605|end_char=606
+5	研究	研究	VERB	VV	_	6	compound	_	start_char=606|end_char=608
+6	員	員	PART	SFN	_	0	root	_	start_char=608|end_char=609
+7	。	。	PUNCT	.	_	6	punct	_	start_char=609|end_char=610
+
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	start_char=612|end_char=613
+2	所	所	NOUN	NNB	_	3	clf	_	start_char=613|end_char=614
+3	學校	學校	NOUN	NN	_	6	nmod	_	start_char=614|end_char=616
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=616|end_char=617
+5	研究	研究	VERB	VV	_	6	compound	_	start_char=617|end_char=619
+6	員	員	PART	SFN	_	0	root	_	start_char=619|end_char=620
+7	。	。	PUNCT	.	_	6	punct	_	start_char=620|end_char=621
+
+1	六	六	NUM	CD	NumType=Card	2	nummod	_	start_char=623|end_char=624
+2	把	把	NOUN	NNB	_	3	clf	_	start_char=624|end_char=625
+3	房間	房間	NOUN	NN	_	6	nmod	_	start_char=625|end_char=627
+4	裡	裡	NOUN	NN	_	3	acl	_	start_char=627|end_char=628
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=628|end_char=629
+6	椅子	椅子	NOUN	NN	_	0	root	_	start_char=629|end_char=631
+7	。	。	PUNCT	.	_	6	punct	_	start_char=631|end_char=632
+
+1	六	六	NUM	CD	NumType=Card	2	nummod	_	start_char=634|end_char=635
+2	間	間	NOUN	NNB	_	3	clf	_	start_char=635|end_char=636
+3	房間	房間	NOUN	NN	_	6	nmod	_	start_char=636|end_char=638
+4	裡	裡	NOUN	NN	_	3	acl	_	start_char=638|end_char=639
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=639|end_char=640
+6	椅子	椅子	NOUN	NN	_	0	root	_	start_char=640|end_char=642
+7	。	。	PUNCT	.	_	6	punct	_	start_char=642|end_char=643
+
+1	兩	兩	NUM	CD	NumType=Card	2	nummod	_	start_char=645|end_char=646
+2	張	張	NOUN	NNB	_	4	nmod	_	start_char=646|end_char=647
+3	演唱	演唱	VERB	VV	_	4	compound	_	start_char=647|end_char=649
+4	會	會	PART	SFN	_	6	nmod	_	start_char=649|end_char=650
+5	的	的	PART	DEC	Case=Gen	4	case	_	start_char=650|end_char=651
+6	門票	門票	NOUN	NN	_	0	root	_	start_char=651|end_char=653
+7	。	。	PUNCT	.	_	6	punct	_	start_char=653|end_char=654
+
+1	兩	兩	NUM	CD	NumType=Card	2	nummod	_	start_char=656|end_char=657
+2	場	場	NOUN	NNB	_	4	nmod	_	start_char=657|end_char=658
+3	演唱	演唱	VERB	VV	_	4	compound	_	start_char=658|end_char=660
+4	會	會	PART	SFN	_	6	nmod	_	start_char=660|end_char=661
+5	的	的	PART	DEC	Case=Gen	4	case	_	start_char=661|end_char=662
+6	門票	門票	NOUN	NN	_	0	root	_	start_char=662|end_char=664
+7	。	。	PUNCT	.	_	6	punct	_	start_char=664|end_char=665
+
+1	五	五	NUM	CD	NumType=Card	3	nummod	_	start_char=667|end_char=668
+2	雙	雙	NUM	CD	NumType=Card	3	nummod	_	start_char=668|end_char=669
+3	抽屜	抽屜	NOUN	NN	_	6	nmod	_	start_char=669|end_char=671
+4	裡	裡	ADP	IN	_	3	acl	_	start_char=671|end_char=672
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=672|end_char=673
+6	襪子	襪子	NOUN	NN	_	0	root	_	start_char=673|end_char=675
+7	。	。	PUNCT	.	_	6	punct	_	start_char=675|end_char=676
+
+1	五	五	NUM	CD	NumType=Card	2	nummod	_	start_char=678|end_char=679
+2	個	個	NOUN	NNB	_	3	clf	_	start_char=679|end_char=680
+3	抽屜	抽屜	NOUN	NN	_	6	nmod	_	start_char=680|end_char=682
+4	裡	裡	ADP	IN	_	3	acl	_	start_char=682|end_char=683
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=683|end_char=684
+6	襪子	襪子	NOUN	NN	_	0	root	_	start_char=684|end_char=686
+7	。	。	PUNCT	.	_	6	punct	_	start_char=686|end_char=687
+
+1	四	四	NUM	CD	NumType=Card	2	nummod	_	start_char=689|end_char=690
+2	顆	顆	NOUN	NNB	_	3	clf	_	start_char=690|end_char=691
+3	瓶子	瓶子	NOUN	NN	_	6	nmod	_	start_char=691|end_char=693
+4	中	中	ADP	IN	_	3	acl	_	start_char=693|end_char=694
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=694|end_char=695
+6	藥丸	藥丸	NOUN	NN	_	0	root	_	start_char=695|end_char=697
+7	。	。	PUNCT	.	_	6	punct	_	start_char=697|end_char=698
+
+1	四	四	NUM	CD	NumType=Card	3	nummod	_	start_char=700|end_char=701
+2	只	只	ADV	RB	_	3	advmod	_	start_char=701|end_char=702
+3	瓶子	瓶子	NOUN	NN	_	6	nmod	_	start_char=702|end_char=704
+4	中	中	ADP	IN	_	3	acl	_	start_char=704|end_char=705
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=705|end_char=706
+6	藥丸	藥丸	NOUN	NN	_	0	root	_	start_char=706|end_char=708
+7	。	。	PUNCT	.	_	6	punct	_	start_char=708|end_char=709
+
+1	六	六	NUM	CD	NumType=Card	2	nummod	_	start_char=711|end_char=712
+2	個	個	NOUN	NNB	_	3	clf	_	start_char=712|end_char=713
+3	樹上	樹上	NOUN	NN	_	5	nmod	_	start_char=713|end_char=715
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=715|end_char=716
+5	核桃	核桃	NOUN	NN	_	0	root	_	start_char=716|end_char=718
+6	。	。	PUNCT	.	_	5	punct	_	start_char=718|end_char=719
+
+1	六	六	NUM	CD	NumType=Card	2	nummod	_	start_char=721|end_char=722
+2	棵	棵	NOUN	NNB	_	3	clf	_	start_char=722|end_char=723
+3	樹上	樹上	NOUN	NN	_	5	nmod	_	start_char=723|end_char=725
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=725|end_char=726
+5	核桃	核桃	NOUN	NN	_	0	root	_	start_char=726|end_char=728
+6	。	。	PUNCT	.	_	5	punct	_	start_char=728|end_char=729
+
+1	幾	幾	NUM	CD	NumType=Card	2	nummod	_	start_char=731|end_char=732
+2	本	本	NOUN	NNB	_	3	clf	_	start_char=732|end_char=733
+3	女生	女生	NOUN	NN	_	5	nmod	_	start_char=733|end_char=735
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=735|end_char=736
+5	日記	日記	NOUN	NN	_	0	root	_	start_char=736|end_char=738
+6	。	。	PUNCT	.	_	5	punct	_	start_char=738|end_char=739
+
+1	幾	幾	NUM	CD	NumType=Card	2	nummod	_	start_char=741|end_char=742
+2	個	個	NOUN	NNB	_	3	clf	_	start_char=742|end_char=743
+3	女生	女生	NOUN	NN	_	5	nmod	_	start_char=743|end_char=745
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=745|end_char=746
+5	日記	日記	NOUN	NN	_	0	root	_	start_char=746|end_char=748
+6	。	。	PUNCT	.	_	5	punct	_	start_char=748|end_char=749
+
+1	幾	幾	NUM	CD	NumType=Card	2	nummod	_	start_char=751|end_char=752
+2	支	支	NOUN	NNB	_	3	clf	_	start_char=752|end_char=753
+3	同學	同學	NOUN	NN	_	6	nmod	_	start_char=753|end_char=755
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=755|end_char=756
+5	鉛	鉛	NOUN	NN	_	6	compound	_	start_char=756|end_char=757
+6	筆	筆	PART	SFN	_	0	root	_	start_char=757|end_char=758
+7	。	。	PUNCT	.	_	6	punct	_	start_char=758|end_char=759
+
+1	幾	幾	NUM	CD	NumType=Card	2	nummod	_	start_char=761|end_char=762
+2	位	位	NOUN	NNB	_	3	clf	_	start_char=762|end_char=763
+3	同學	同學	NOUN	NN	_	6	nmod	_	start_char=763|end_char=765
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=765|end_char=766
+5	鉛	鉛	NOUN	NN	_	6	nmod	_	start_char=766|end_char=767
+6	筆	筆	NOUN	NN	_	0	root	_	start_char=767|end_char=768
+7	。	。	PUNCT	.	_	6	punct	_	start_char=768|end_char=769
+
+1	三頭	三頭	PROPN	NNP	_	2	nmod	_	start_char=771|end_char=773
+2	親戚	親戚	NOUN	NN	_	4	nmod	_	start_char=773|end_char=775
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=775|end_char=776
+4	牛	牛	NOUN	NN	_	0	root	_	start_char=776|end_char=777
+5	。	。	PUNCT	.	_	4	punct	_	start_char=777|end_char=778
+
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	start_char=780|end_char=781
+2	位	位	NOUN	NNB	_	3	clf	_	start_char=781|end_char=782
+3	親戚	親戚	NOUN	NN	_	5	nmod	_	start_char=782|end_char=784
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=784|end_char=785
+5	牛	牛	NOUN	NN	_	0	root	_	start_char=785|end_char=786
+6	。	。	PUNCT	.	_	5	punct	_	start_char=786|end_char=787
+
+1	四	四	NUM	CD	NumType=Card	2	nummod	_	start_char=789|end_char=790
+2	顆	顆	NOUN	NNB	_	3	clf	_	start_char=790|end_char=791
+3	牛	牛	NOUN	NN	_	5	nmod	_	start_char=791|end_char=792
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=792|end_char=793
+5	牙齒	牙齒	NOUN	NN	_	0	root	_	start_char=793|end_char=795
+6	。	。	PUNCT	.	_	5	punct	_	start_char=795|end_char=796
+
+1	四頭	四頭	NOUN	NN	_	2	compound	_	start_char=798|end_char=800
+2	牛	牛	PART	SFN	_	4	nmod	_	start_char=800|end_char=801
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=801|end_char=802
+4	牙齒	牙齒	NOUN	NN	_	0	root	_	start_char=802|end_char=804
+5	。	。	PUNCT	.	_	4	punct	_	start_char=804|end_char=805
+
+1	七	七	NUM	CD	NumType=Card	2	nummod	_	start_char=807|end_char=808
+2	粒	粒	NOUN	NN	_	3	nmod	_	start_char=808|end_char=809
+3	沙漠	沙漠	NOUN	NN	_	6	nmod	_	start_char=809|end_char=811
+4	裡	裡	NOUN	NN	_	3	acl	_	start_char=811|end_char=812
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=812|end_char=813
+6	沙	沙	NOUN	NN	_	0	root	_	start_char=813|end_char=814
+7	。	。	PUNCT	.	_	6	punct	_	start_char=814|end_char=815
+
+1	七	七	NUM	CD	NumType=Card	2	nummod	_	start_char=817|end_char=818
+2	片	片	NOUN	NNB	_	3	clf	_	start_char=818|end_char=819
+3	沙漠	沙漠	NOUN	NN	_	6	nmod	_	start_char=819|end_char=821
+4	裡	裡	NOUN	NN	_	3	acl	_	start_char=821|end_char=822
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=822|end_char=823
+6	沙	沙	NOUN	NN	_	0	root	_	start_char=823|end_char=824
+7	。	。	PUNCT	.	_	6	punct	_	start_char=824|end_char=825
+
+1	九	九	NUM	CD	NumType=Card	2	nummod	_	start_char=827|end_char=828
+2	個	個	NOUN	NNB	_	3	clf	_	start_char=828|end_char=829
+3	盒子	盒子	NOUN	NN	_	6	nmod	_	start_char=829|end_char=831
+4	裡	裡	ADP	IN	_	3	acl	_	start_char=831|end_char=832
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=832|end_char=833
+6	香水	香水	NOUN	NN	_	0	root	_	start_char=833|end_char=835
+7	。	。	PUNCT	.	_	6	punct	_	start_char=835|end_char=836
+
+1	九	九	NUM	CD	NumType=Card	2	nummod	_	start_char=838|end_char=839
+2	瓶	瓶	NOUN	NNB	_	3	clf	_	start_char=839|end_char=840
+3	盒子	盒子	NOUN	NN	_	6	nmod	_	start_char=840|end_char=842
+4	裡	裡	ADP	IN	_	3	acl	_	start_char=842|end_char=843
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=843|end_char=844
+6	香水	香水	NOUN	NN	_	0	root	_	start_char=844|end_char=846
+7	。	。	PUNCT	.	_	6	punct	_	start_char=846|end_char=847
+
+1	寫	寫	VERB	VV	_	0	root	_	start_char=849|end_char=850
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=850|end_char=851
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	start_char=851|end_char=852
+4	道	道	NOUN	NNB	_	5	clf	_	start_char=852|end_char=853
+5	題	題	NOUN	NN	_	1	obj	_	start_char=853|end_char=854
+6	。	。	PUNCT	.	_	1	punct	_	start_char=854|end_char=855
+
+1	寫	寫	VERB	VV	_	0	root	_	start_char=857|end_char=858
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=858|end_char=859
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	start_char=859|end_char=860
+4	分鐘	分鐘	NOUN	NNB	_	5	compound	_	start_char=860|end_char=862
+5	題	題	PART	SFN	_	1	obj	_	start_char=862|end_char=863
+6	。	。	PUNCT	.	_	1	punct	_	start_char=863|end_char=864
+
+1	挑選	挑選	VERB	VV	_	0	root	_	start_char=866|end_char=868
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=868|end_char=869
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	start_char=869|end_char=870
+4	小時	小時	NOUN	NNB	_	5	clf	_	start_char=870|end_char=872
+5	木材	木材	NOUN	NN	_	1	obj	_	start_char=872|end_char=874
+6	。	。	PUNCT	.	_	1	punct	_	start_char=874|end_char=875
+
+1	挑選	挑選	VERB	VV	_	0	root	_	start_char=877|end_char=879
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=879|end_char=880
+3	千	千	NUM	CD	NumType=Card	4	nummod	_	start_char=880|end_char=881
+4	年	年	NOUN	NNB	_	5	clf	_	start_char=881|end_char=882
+5	木材	木材	NOUN	NN	_	1	obj	_	start_char=882|end_char=884
+6	。	。	PUNCT	.	_	1	punct	_	start_char=884|end_char=885
+
+1	講	講	VERB	VV	_	0	root	_	start_char=887|end_char=888
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=888|end_char=889
+3	兩	兩	NUM	CD	NumType=Card	4	nummod	_	start_char=889|end_char=890
+4	小時	小時	NOUN	NNB	_	5	clf	_	start_char=890|end_char=892
+5	歷史	歷史	NOUN	NN	_	1	obj	_	start_char=892|end_char=894
+6	。	。	PUNCT	.	_	1	punct	_	start_char=894|end_char=895
+
+1	講	講	VERB	VV	_	0	root	_	start_char=897|end_char=898
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=898|end_char=899
+3	五千	五千	NUM	CD	NumType=Card	4	nummod	_	start_char=899|end_char=901
+4	年	年	NOUN	NNB	_	5	clf	_	start_char=901|end_char=902
+5	歷史	歷史	NOUN	NN	_	1	obj	_	start_char=902|end_char=904
+6	。	。	PUNCT	.	_	1	punct	_	start_char=904|end_char=905
+
+1	畫	畫	VERB	VV	_	0	root	_	start_char=907|end_char=908
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=908|end_char=909
+3	三	三	NUM	CD	NumType=Card	4	nummod	_	start_char=909|end_char=910
+4	分鐘	分鐘	NOUN	NNB	_	5	compound	_	start_char=910|end_char=912
+5	畫	畫	PART	SFN	_	1	obj	_	start_char=912|end_char=913
+6	。	。	PUNCT	.	_	1	punct	_	start_char=913|end_char=914
+
+1	畫	畫	VERB	VV	_	0	root	_	start_char=916|end_char=917
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=917|end_char=918
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	start_char=918|end_char=919
+4	幅	幅	NOUN	NNB	_	5	clf	_	start_char=919|end_char=920
+5	畫	畫	NOUN	NN	_	1	obj	_	start_char=920|end_char=921
+6	。	。	PUNCT	.	_	1	punct	_	start_char=921|end_char=922
+
+1	參觀	參觀	VERB	VV	_	0	root	_	start_char=924|end_char=926
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=926|end_char=927
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	start_char=927|end_char=928
+4	小時	小時	NOUN	NNB	_	5	clf	_	start_char=928|end_char=930
+5	建築	建築	NOUN	NN	_	1	obj	_	start_char=930|end_char=932
+6	。	。	PUNCT	.	_	1	punct	_	start_char=932|end_char=933
+
+1	參觀	參觀	VERB	VV	_	0	root	_	start_char=935|end_char=937
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=937|end_char=938
+3	百	百	NUM	CD	NumType=Card	4	nummod	_	start_char=938|end_char=939
+4	年	年	NOUN	NNB	_	5	clf	_	start_char=939|end_char=940
+5	建築	建築	NOUN	NN	_	1	obj	_	start_char=940|end_char=942
+6	。	。	PUNCT	.	_	1	punct	_	start_char=942|end_char=943
+
+1	寫	寫	VERB	VV	_	0	root	_	start_char=945|end_char=946
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=946|end_char=947
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	start_char=947|end_char=948
+4	張	張	NOUN	NNB	_	5	clf	_	start_char=948|end_char=949
+5	字帖	字帖	NOUN	NN	_	1	obj	_	start_char=949|end_char=951
+6	。	。	PUNCT	.	_	1	punct	_	start_char=951|end_char=952
+
+1	寫	寫	VERB	VV	_	0	root	_	start_char=954|end_char=955
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=955|end_char=956
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	start_char=956|end_char=957
+4	天	天	NOUN	NNB	_	6	nmod	_	start_char=957|end_char=958
+5	字	字	NOUN	NN	_	6	compound	_	start_char=958|end_char=959
+6	帖	帖	PART	SFN	_	1	obj	_	start_char=959|end_char=960
+7	。	。	PUNCT	.	_	1	punct	_	start_char=960|end_char=961
+
+1	學習	學習	VERB	VV	_	0	root	_	start_char=963|end_char=965
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=965|end_char=966
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	start_char=966|end_char=967
+4	小時	小時	NOUN	NNB	_	6	clf	_	start_char=967|end_char=969
+5	外語	外語	NOUN	NN	_	6	nmod	_	start_char=969|end_char=971
+6	課程	課程	NOUN	NN	_	1	obj	_	start_char=971|end_char=973
+7	。	。	PUNCT	.	_	1	punct	_	start_char=973|end_char=974
+
+1	學習	學習	VERB	VV	_	0	root	_	start_char=976|end_char=978
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=978|end_char=979
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	start_char=979|end_char=980
+4	門	門	NOUN	NNB	_	6	clf	_	start_char=980|end_char=981
+5	外語	外語	NOUN	NN	_	6	nmod	_	start_char=981|end_char=983
+6	課程	課程	NOUN	NN	_	1	obj	_	start_char=983|end_char=985
+7	。	。	PUNCT	.	_	1	punct	_	start_char=985|end_char=986
+
+1	欣賞	欣賞	VERB	VV	_	0	root	_	start_char=988|end_char=990
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=990|end_char=991
+3	幾	幾	NUM	CD	NumType=Card	4	nummod	_	start_char=991|end_char=992
+4	小時	小時	NOUN	NNB	_	5	clf	_	start_char=992|end_char=994
+5	村落	村落	NOUN	NN	_	1	obj	_	start_char=994|end_char=996
+6	。	。	PUNCT	.	_	1	punct	_	start_char=996|end_char=997
+
+1	欣賞	欣賞	VERB	VV	_	0	root	_	start_char=999|end_char=1001
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=1001|end_char=1002
+3	幾百	幾百	NUM	CD	NumType=Card	4	nummod	_	start_char=1002|end_char=1004
+4	年	年	NOUN	NNB	_	7	nmod	_	start_char=1004|end_char=1005
+5	前	前	ADP	IN	_	4	acl	_	start_char=1005|end_char=1006
+6	的	的	PART	DEC	Case=Gen	4	case	_	start_char=1006|end_char=1007
+7	村落	村落	NOUN	NN	_	1	obj	_	start_char=1007|end_char=1009
+8	。	。	PUNCT	.	_	1	punct	_	start_char=1009|end_char=1010
+
+1	彈奏	彈奏	VERB	VV	_	0	root	_	start_char=1012|end_char=1014
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=1014|end_char=1015
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	start_char=1015|end_char=1016
+4	首	首	NOUN	NNB	_	5	clf	_	start_char=1016|end_char=1017
+5	曲子	曲子	NOUN	NN	_	1	obj	_	start_char=1017|end_char=1019
+6	。	。	PUNCT	.	_	1	punct	_	start_char=1019|end_char=1020
+
+1	彈奏	彈奏	VERB	VV	_	0	root	_	start_char=1022|end_char=1024
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=1024|end_char=1025
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	start_char=1025|end_char=1026
+4	天	天	NOUN	NNB	_	5	clf	_	start_char=1026|end_char=1027
+5	曲子	曲子	NOUN	NN	_	1	obj	_	start_char=1027|end_char=1029
+6	。	。	PUNCT	.	_	1	punct	_	start_char=1029|end_char=1030
+
+1	我	我	PRON	PRP	Person=1	2	nsubj	_	start_char=1032|end_char=1033
+2	看	看	VERB	VV	_	0	root	_	start_char=1033|end_char=1034
+3	了	了	AUX	AS	Aspect=Perf	2	aux	_	start_char=1034|end_char=1035
+4	十	十	NUM	CD	NumType=Card	5	nummod	_	start_char=1035|end_char=1036
+5	天	天	NOUN	NNB	_	6	clf	_	start_char=1036|end_char=1037
+6	報紙	報紙	NOUN	NN	_	2	obj	_	start_char=1037|end_char=1039
+7	。	。	PUNCT	.	_	2	punct	_	start_char=1039|end_char=1040
+
+1	我	我	PRON	PRP	Person=1	2	nsubj	_	start_char=1042|end_char=1043
+2	看	看	VERB	VV	_	0	root	_	start_char=1043|end_char=1044
+3	了	了	AUX	AS	Aspect=Perf	2	aux	_	start_char=1044|end_char=1045
+4	十	十	NUM	CD	NumType=Card	5	nummod	_	start_char=1045|end_char=1046
+5	份	份	NOUN	NNB	_	6	clf	_	start_char=1046|end_char=1047
+6	報紙	報紙	NOUN	NN	_	2	obj	_	start_char=1047|end_char=1049
+7	。	。	PUNCT	.	_	2	punct	_	start_char=1049|end_char=1050
+
+1	毯子	毯子	NOUN	NN	_	7	nsubj	_	start_char=1052|end_char=1054
+2	和	和	CCONJ	CC	_	5	cc	_	start_char=1054|end_char=1055
+3	凳子	凳子	NOUN	NN	_	5	nmod	_	start_char=1055|end_char=1057
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=1057|end_char=1058
+5	腿	腿	NOUN	NN	_	1	conj	_	start_char=1058|end_char=1059
+6	都	都	ADV	RB	_	7	mark	_	start_char=1059|end_char=1060
+7	壞	壞	VERB	VV	_	0	root	_	start_char=1060|end_char=1061
+8	了	了	PART	UH	_	7	discourse	_	start_char=1061|end_char=1062
+9	。	。	PUNCT	.	_	7	punct	_	start_char=1062|end_char=1063
+
+1	他	他	PRON	PRP	Person=3	3	det	_	start_char=1065|end_char=1066
+2	的	的	PART	DEC	Case=Gen	1	case	_	start_char=1066|end_char=1067
+3	衣服	衣服	NOUN	NN	_	5	nmod	_	start_char=1067|end_char=1069
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=1069|end_char=1070
+5	袖子	袖子	NOUN	NN	_	9	nsubj	_	start_char=1070|end_char=1072
+6	和	和	CCONJ	CC	_	7	cc	_	start_char=1072|end_char=1073
+7	鞋	鞋	NOUN	NN	_	5	conj	_	start_char=1073|end_char=1074
+8	都	都	ADV	RB	_	9	mark	_	start_char=1074|end_char=1075
+9	臟	臟	VERB	VV	_	0	root	_	start_char=1075|end_char=1076
+10	了	了	PART	UH	_	9	discourse	_	start_char=1076|end_char=1077
+11	。	。	PUNCT	.	_	9	punct	_	start_char=1077|end_char=1078
+
+1	椅子	椅子	NOUN	NN	_	5	nmod	_	start_char=1080|end_char=1082
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=1082|end_char=1083
+3	電腦	電腦	NOUN	NN	_	1	conj	_	start_char=1083|end_char=1085
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=1085|end_char=1086
+5	屏幕	屏幕	NOUN	NN	_	8	nsubj	_	start_char=1086|end_char=1088
+6	需要	需要	AUX	MD	_	8	aux	_	start_char=1088|end_char=1090
+7	擺放	擺放	AUX	VV	_	8	cop	_	start_char=1090|end_char=1092
+8	整齊	整齊	ADJ	JJ	_	0	root	_	start_char=1092|end_char=1094
+9	。	。	PUNCT	.	_	8	punct	_	start_char=1094|end_char=1095
+
+1	桌子	桌子	NOUN	NN	_	6	nmod	_	start_char=1097|end_char=1099
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=1099|end_char=1100
+3	沙發	沙發	NOUN	NN	_	1	conj	_	start_char=1100|end_char=1102
+4	上	上	ADP	IN	_	3	acl	_	start_char=1102|end_char=1103
+5	的	的	PART	DEC	Case=Gen	1	case	_	start_char=1103|end_char=1104
+6	電腦	電腦	NOUN	NN	_	9	nsubj	_	start_char=1104|end_char=1106
+7	都	都	ADV	RB	_	9	mark	_	start_char=1106|end_char=1107
+8	要	要	AUX	MD	_	9	aux	_	start_char=1107|end_char=1108
+9	開機	開機	VERB	VV	_	0	root	_	start_char=1108|end_char=1110
+10	。	。	PUNCT	.	_	9	punct	_	start_char=1110|end_char=1111
+
+1	警察	警察	NOUN	NN	_	5	nmod	_	start_char=1113|end_char=1115
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=1115|end_char=1116
+3	商場	商場	NOUN	NN	_	1	conj	_	start_char=1116|end_char=1118
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=1118|end_char=1119
+5	保安	保安	NOUN	NN	_	9	nsubj	_	start_char=1119|end_char=1121
+6	在	在	VERB	VV	_	9	advcl	_	start_char=1121|end_char=1122
+7	大樓	大樓	NOUN	NN	_	6	obj	_	start_char=1122|end_char=1124
+8	外面	外面	NOUN	NN	_	6	obj	_	start_char=1124|end_char=1126
+9	交流	交流	VERB	VV	_	0	root	_	start_char=1126|end_char=1128
+10	。	。	PUNCT	.	_	9	punct	_	start_char=1128|end_char=1129
+
+1	魚	魚	NOUN	NN	_	6	nmod	_	start_char=1131|end_char=1132
+2	和	和	CCONJ	CC	_	6	cc	_	start_char=1132|end_char=1133
+3	天空	天空	NOUN	NN	_	1	conj	_	start_char=1133|end_char=1135
+4	中	中	ADP	IN	_	3	acl	_	start_char=1135|end_char=1136
+5	的	的	PART	DEC	Case=Gen	1	case	_	start_char=1136|end_char=1137
+6	小鳥	小鳥	NOUN	NN	_	11	nsubj	_	start_char=1137|end_char=1139
+7	都是	都是	AUX	VC	_	11	cop	_	start_char=1139|end_char=1141
+8	他	他	PRON	PRP	Person=3	11	det	_	start_char=1141|end_char=1142
+9	的	的	PART	DEC	Case=Gen	8	case	_	start_char=1142|end_char=1143
+10	捕獵	捕獵	NOUN	NN	_	11	nmod	_	start_char=1143|end_char=1145
+11	對象	對象	NOUN	NN	_	0	root	_	start_char=1145|end_char=1147
+12	。	。	PUNCT	.	_	11	punct	_	start_char=1147|end_char=1148
+
+1	人	人	NOUN	NN	_	5	nmod	_	start_char=1150|end_char=1151
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=1151|end_char=1152
+3	動物	動物	NOUN	NN	_	1	conj	_	start_char=1152|end_char=1154
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=1154|end_char=1155
+5	肺都	肺都	NOUN	NN	_	6	nsubj	_	start_char=1155|end_char=1157
+6	用	用	VERB	VV	_	0	root	_	start_char=1157|end_char=1158
+7	來	來	ADV	RB	_	8	mark	_	start_char=1158|end_char=1159
+8	呼吸	呼吸	VERB	VV	_	6	xcomp	_	start_char=1159|end_char=1161
+9	。	。	PUNCT	.	_	6	punct	_	start_char=1161|end_char=1162
+
+1	海	海	NOUN	NN	_	6	nmod	_	start_char=1164|end_char=1165
+2	和	和	CCONJ	CC	_	6	cc	_	start_char=1165|end_char=1166
+3	天	天	NOUN	NN	_	1	conj	_	start_char=1166|end_char=1167
+4	上	上	ADP	IN	_	3	acl	_	start_char=1167|end_char=1168
+5	的	的	PART	DEC	Case=Gen	1	case	_	start_char=1168|end_char=1169
+6	雲朵	雲朵	NOUN	NN	_	8	nsubj	_	start_char=1169|end_char=1171
+7	互相	互相	ADV	RB	_	8	advmod	_	start_char=1171|end_char=1173
+8	輝映	輝映	VERB	VV	_	0	root	_	start_char=1173|end_char=1175
+9	。	。	PUNCT	.	_	8	punct	_	start_char=1175|end_char=1176
+
+1	紙	紙	NOUN	NN	_	8	nsubj:pass	_	start_char=1178|end_char=1179
+2	張	張	PROPN	NNP	_	6	nmod	_	start_char=1179|end_char=1180
+3	和	和	CCONJ	CC	_	4	cc	_	start_char=1180|end_char=1181
+4	生鏽	生鏽	NOUN	NN	_	2	conj	_	start_char=1181|end_char=1183
+5	的	的	PART	DEC	Case=Gen	2	case	_	start_char=1183|end_char=1184
+6	銅錢	銅錢	NOUN	NN	_	8	nsubj:pass	_	start_char=1184|end_char=1186
+7	被	被	VERB	BB	Voice=Pass	8	aux:pass	_	start_char=1186|end_char=1187
+8	發掘	發掘	VERB	VV	_	0	root	_	start_char=1187|end_char=1189
+9	出來	出來	VERB	VV	_	8	mark	_	start_char=1189|end_char=1191
+10	。	。	PUNCT	.	_	8	punct	_	start_char=1191|end_char=1192
+
+1	醫生	醫生	NOUN	NN	_	7	nsubj	_	start_char=1194|end_char=1196
+2	和	和	CCONJ	CC	_	5	cc	_	start_char=1196|end_char=1197
+3	病人	病人	NOUN	NN	_	5	nmod	_	start_char=1197|end_char=1199
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=1199|end_char=1200
+5	家屬	家屬	NOUN	NN	_	1	conj	_	start_char=1200|end_char=1202
+6	耐心	耐心	ADV	RB	_	7	advmod	_	start_char=1202|end_char=1204
+7	溝通	溝通	VERB	VV	_	0	root	_	start_char=1204|end_char=1206
+8	。	。	PUNCT	.	_	7	punct	_	start_char=1206|end_char=1207
+
+1	領	領	VERB	VV	_	0	root	_	start_char=1209|end_char=1210
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=1210|end_char=1211
+3	我	我	PRON	PRP	Person=1	1	obj	_	start_char=1211|end_char=1212
+4	和	和	CCONJ	CC	_	8	cc	_	start_char=1212|end_char=1213
+5	你	你	PRON	PRP	Person=2	8	det	_	start_char=1213|end_char=1214
+6	的	的	PART	DEC	Case=Gen	5	case	_	start_char=1214|end_char=1215
+7	結婚	結婚	VERB	VV	_	8	compound	_	start_char=1215|end_char=1217
+8	證	證	PART	SFN	_	3	conj	_	start_char=1217|end_char=1218
+9	。	。	PUNCT	.	_	1	punct	_	start_char=1218|end_char=1219
+
+1	照片	照片	NOUN	NN	_	4	nmod	_	start_char=1221|end_char=1223
+2	裡	裡	ADP	IN	_	1	acl	_	start_char=1223|end_char=1224
+3	是	是	AUX	VC	_	8	cop	_	start_char=1224|end_char=1225
+4	我	我	PRON	PRP	Person=1	8	nmod	_	start_char=1225|end_char=1226
+5	和	和	CCONJ	CC	_	8	cc	_	start_char=1226|end_char=1227
+6	我	我	PRON	PRP	Person=1	8	det	_	start_char=1227|end_char=1228
+7	的	的	PART	DEC	Case=Gen	6	case	_	start_char=1228|end_char=1229
+8	姐妹	姐妹	NOUN	NN	_	0	root	_	start_char=1229|end_char=1231
+9	。	。	PUNCT	.	_	8	punct	_	start_char=1231|end_char=1232
+
+1	男人	男人	NOUN	NN	_	5	nmod	_	start_char=1234|end_char=1236
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=1236|end_char=1237
+3	女人	女人	NOUN	NN	_	1	conj	_	start_char=1237|end_char=1239
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=1239|end_char=1240
+5	臉	臉	NOUN	NN	_	8	nsubj	_	start_char=1240|end_char=1241
+6	都	都	ADV	RB	_	8	mark	_	start_char=1241|end_char=1242
+7	需要	需要	AUX	MD	_	8	aux	_	start_char=1242|end_char=1244
+8	呵護	呵護	NOUN	NN	_	0	root	_	start_char=1244|end_char=1246
+9	。	。	PUNCT	.	_	8	punct	_	start_char=1246|end_char=1247
+
+1	山	山	NOUN	NN	_	7	nsubj	_	start_char=1249|end_char=1250
+2	和	和	CCONJ	CC	_	5	cc	_	start_char=1250|end_char=1251
+3	水	水	NOUN	NN	_	1	conj	_	start_char=1251|end_char=1252
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=1252|end_char=1253
+5	顏色	顏色	NOUN	NN	_	7	nsubj	_	start_char=1253|end_char=1255
+6	很	很	ADV	RB	_	7	advmod	_	start_char=1255|end_char=1256
+7	和諧	和諧	ADJ	JJ	_	0	root	_	start_char=1256|end_char=1258
+8	。	。	PUNCT	.	_	7	punct	_	start_char=1258|end_char=1259
+
+1	麵包	麵包	NOUN	NN	_	7	nsubj	_	start_char=1261|end_char=1263
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=1263|end_char=1264
+3	牛奶	牛奶	NOUN	NN	_	1	conj	_	start_char=1264|end_char=1266
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=1266|end_char=1267
+5	產地	產地	NOUN	NN	_	1	conj	_	start_char=1267|end_char=1269
+6	是	是	AUX	VC	_	7	cop	_	start_char=1269|end_char=1270
+7	一樣	一樣	ADJ	JJ	_	0	root	_	start_char=1270|end_char=1272
+8	的	的	PART	UH	_	7	discourse	_	start_char=1272|end_char=1273
+9	。	。	PUNCT	.	_	7	punct	_	start_char=1273|end_char=1274
+
+1	鳥	鳥	NOUN	NN	_	6	nsubj	_	start_char=1276|end_char=1277
+2	和	和	CCONJ	CC	_	5	cc	_	start_char=1277|end_char=1278
+3	海裡	海裡	NOUN	NN	_	5	nmod	_	start_char=1278|end_char=1280
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=1280|end_char=1281
+5	魚	魚	NOUN	NN	_	1	conj	_	start_char=1281|end_char=1282
+6	相遇	相遇	VERB	VV	_	0	root	_	start_char=1282|end_char=1284
+7	。	。	PUNCT	.	_	6	punct	_	start_char=1284|end_char=1285
+
+1	看到	看到	VERB	VV	_	0	root	_	start_char=1287|end_char=1289
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=1289|end_char=1290
+3	天	天	NOUN	NNB	_	7	nmod	_	start_char=1290|end_char=1291
+4	和	和	CCONJ	CC	_	5	cc	_	start_char=1291|end_char=1292
+5	海	海	NOUN	NN	_	3	conj	_	start_char=1292|end_char=1293
+6	的	的	PART	DEC	Case=Gen	3	case	_	start_char=1293|end_char=1294
+7	交界	交界	NOUN	NN	_	1	obj	_	start_char=1294|end_char=1296
+8	。	。	PUNCT	.	_	1	punct	_	start_char=1296|end_char=1297
+
+1	講	講	VERB	VV	_	0	root	_	start_char=1299|end_char=1300
+2	解雞	解雞	NOUN	NN	_	6	nmod	_	start_char=1300|end_char=1302
+3	和	和	CCONJ	CC	_	4	cc	_	start_char=1302|end_char=1303
+4	鵝	鵝	NOUN	NN	_	2	conj	_	start_char=1303|end_char=1304
+5	的	的	PART	DEC	Case=Gen	2	case	_	start_char=1304|end_char=1305
+6	區別	區別	NOUN	NN	_	1	obj	_	start_char=1305|end_char=1307
+7	。	。	PUNCT	.	_	1	punct	_	start_char=1307|end_char=1308
+
+1	講解	講解	VERB	VV	_	0	root	_	start_char=1310|end_char=1312
+2	原理	原理	NOUN	NN	_	1	obj	_	start_char=1312|end_char=1314
+3	和	和	CCONJ	CC	_	6	cc	_	start_char=1314|end_char=1315
+4	製作	製作	VERB	VV	_	6	acl:relcl	_	start_char=1315|end_char=1317
+5	的	的	PART	DEC	_	4	mark:rel	_	start_char=1317|end_char=1318
+6	步驟	步驟	NOUN	NN	_	2	conj	_	start_char=1318|end_char=1320
+7	。	。	PUNCT	.	_	1	punct	_	start_char=1320|end_char=1321
+
+1	對比	對比	VERB	VV	_	0	root	_	start_char=1323|end_char=1325
+2	鹿角	鹿角	NOUN	NN	_	6	nmod	_	start_char=1325|end_char=1327
+3	和	和	CCONJ	CC	_	4	cc	_	start_char=1327|end_char=1328
+4	犀牛	犀牛	NOUN	NN	_	2	conj	_	start_char=1328|end_char=1330
+5	的	的	PART	DEC	Case=Gen	2	case	_	start_char=1330|end_char=1331
+6	角	角	NOUN	NN	_	1	obj	_	start_char=1331|end_char=1332
+7	。	。	PUNCT	.	_	1	punct	_	start_char=1332|end_char=1333
 
