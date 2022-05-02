@@ -154,34 +154,21 @@
 6	。	。	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 1.10
-# text = 杯子上有一个戴着帽子的雪人的图案。
-1	杯子	杯子	NOUN	_	_	3	nsubj	_	_
-2	上	上	NOUN	_	_	1	acl	_	_
-3	有	有	VERB	_	_	0	root	_	_
-4	一	一	NUM	_	_	5	nummod	_	_
-5	个	个	NOUN	_	_	12	clf	_	_
-6	戴	戴	VERB	_	_	10	acl	_	_
-7	着	着	AUX	_	_	6	aux	_	_
-8	帽子	帽子	NOUN	_	_	6	obj	_	_
-9	的	的	PART	_	_	6	mark	_	_
-10	雪人	雪人	NOUN	_	_	12	nmod	_	_
-11	的	的	PART	_	_	10	case	_	_
-12	图案	图案	NOUN	_	_	3	obj	_	_
-13	。	。	PUNCT	_	_	3	punct	_	_
+# text = 吃食物的仓鼠。
+1	吃	吃	VERB	_	_	4	acl	_	_
+2	食物	食物	NOUN	_	_	1	obj	_	_
+3	的	的	PART	_	_	1	mark	_	_
+4	仓鼠	仓鼠	NOUN	_	_	0	root	_	_
+5	。	。	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 
-# text = 杯子上有一个褪色的雪人的图案。
-1	杯子	杯子	NOUN	_	_	3	nsubj	_	_
-2	上	上	NOUN	_	_	1	acl	_	_
-3	有	有	VERB	_	_	0	root	_	_
-4	一	一	NUM	_	_	5	nummod	_	_
-5	个	个	NOUN	_	_	10	clf	_	_
-6	褪色	褪色	VERB	_	_	10	acl	_	_
-7	的	的	PART	_	_	6	mark	_	_
-8	雪人	雪人	NOUN	_	_	10	nmod	_	_
-9	的	的	PART	_	_	8	case	_	_
-10	图案	图案	NOUN	_	_	3	obj	_	_
-11	。	。	PUNCT	_	_	3	punct	_	_
+# text = 养灰色的仓鼠。
+1	养	养	VERB	_	_	0	root	_	_
+2	灰色	灰色	NOUN	_	_	4	nmod	_	_
+3	的	的	PART	_	_	2	case	_	_
+4	仓鼠	仓鼠	NOUN	_	_	1	obj	_	_
+5	。	。	PUNCT	_	_	1	punct	_	_
+
 
 # sent_id = 1.11
 # text = 改变世界的伟人。
