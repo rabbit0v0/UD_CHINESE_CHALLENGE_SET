@@ -154,34 +154,20 @@
 6	。	。	PUNCT	.	_	5	punct	_	_
 
 # sent_id = 1.10
-# text = 杯子上有一個戴著帽子的雪人的圖案。
-1	杯子	杯子	NOUN	NN	_	3	advmod	_	_
-2	上	上	ADP	IN	_	1	acl	_	_
-3	有	有	VERB	VV	_	0	root	_	_
-4	一	一	NUM	CD	NumType=Card	5	nummod	_	_
-5	個	個	NOUN	NNB	_	12	clf	_	_
-6	戴	戴	VERB	VV	_	12	acl:relcl	_	_
-7	著	著	PART	AS	Aspect=Prog	6	case:aspect	_	_
-8	帽子	帽子	NOUN	NN	_	10	nmod	_	_
-9	的	的	PART	DEC	Case=Gen	8	case:dec	_	_
-10	雪人	雪人	NOUN	NN	_	6	obj	_	_
-11	的	的	PART	DEC	Case=Gen	6	mark:relcl	_	_
-12	圖案	圖案	NOUN	NN	_	3	obj	_	_
-13	。	。	PUNCT	.	_	3	punct	_	_
+# text = 吃食物的倉鼠。
+1	吃	吃	VERB	VV	_	4	acl:relcl	_	_
+2	食物	食物	NOUN	NN	_	1	obj	_	_
+3	的	的	PART	DEC	_	1	mark:relcl	_	_
+4	倉鼠	倉鼠	NOUN	NN	_	0	root	_	_
+5	。	。	PUNCT	.	_	4	punct	_	_
 
 # sent_id = 
-# text = 杯子上有一個褪色的雪人的圖案。
-1	杯子	杯子	NOUN	NN	_	3	advmod	_	_
-2	上	上	ADP	IN	_	1	acl	_	_
-3	有	有	VERB	VV	_	0	root	_	_
-4	一	一	NUM	CD	NumType=Card	5	nummod	_	_
-5	個	個	NOUN	NNB	_	8	clf	_	_
-6	褪色	褪色	ADJ	JJ	_	8	amod	_	_
-7	的	的	PART	DEC	_	6	mark:relcl	_	_
-8	雪人	雪人	NOUN	NN	_	10	nmod	_	_
-9	的	的	PART	DEC	Case=Gen	8	case:dec	_	_
-10	圖案	圖案	NOUN	NN	_	3	obj	_	_
-11	。	。	PUNCT	.	_	3	punct	_	_
+# text = 養灰色的倉鼠。
+1	養	養	NOUN	NN	_	2	nmod	_	_
+2	灰色	灰色	NOUN	NN	_	4	nmod	_	_
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	_
+4	倉鼠	倉鼠	NOUN	NN	_	0	root	_	_
+5	。	。	PUNCT	.	_	4	punct	_	_
 
 # sent_id = 1.11
 # text = 改變世界的偉人。
