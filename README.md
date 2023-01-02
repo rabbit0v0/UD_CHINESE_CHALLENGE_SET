@@ -1,6 +1,6 @@
 # UD_CHINESE_CHALLENGE_SET
 
-Description: 120 sentences in four templates.
+Description: 40+40+20+40=140 sentences in four templates.
 
 Based on the contextless syntactic ambiguity dataset of commonMT from https://github.com/tjunlp-lab/CommonMT. The sentenses have ambiguities resolved by selectional preferences and commonsense reasoning, which can be inferred from their dependency trees.
 
