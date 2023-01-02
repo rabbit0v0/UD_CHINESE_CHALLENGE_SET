@@ -1,0 +1,186 @@
+# sent_id = 3.1
+# text = 写了五道题。
+1	写	写	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	道	道	NOUN	_	_	5	clf	_	_
+5	题	题	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = ** 修炼千年/休息5分钟后 advmod
+# text = 写了五分钟题。
+1	写	写	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	题	题	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.2
+# text = 挑选了一小时木材。
+1	挑选	挑选	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	木材	木材	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = * 透过数千年悠久历史 clf
+# text = 挑选了千年木材。
+1	挑选	挑选	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	千	千	NUM	_	_	4	nummod	_	_
+4	年	年	NOUN	_	_	5	clf	_	_
+5	木材	木材	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.3
+# text = 讲了两小时历史。
+1	讲	讲	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	两	两	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	历史	历史	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 讲了五千年历史。
+1	讲	讲	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五千	五千	NUM	_	_	4	nummod	_	_
+4	年	年	NOUN	_	_	5	clf	_	_
+5	历史	历史	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.4
+# text = 画了三分钟画。
+1	画	画	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	三	三	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	画	画	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 画了六幅画。
+1	画	画	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	六	六	NUM	_	_	4	nummod	_	_
+4	幅	幅	NOUN	_	_	5	clf	_	_
+5	画	画	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.5
+# text = 参观了五小时建筑。
+1	参观	参观	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	建筑	建筑	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 参观了百年建筑。
+1	参观	参观	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	百	百	NUM	_	_	4	nummod	_	_
+4	年	年	NOUN	_	_	5	clf	_	_
+5	建筑	建筑	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.6
+# text = 写了六张字帖。
+1	写	写	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	六	六	NUM	_	_	4	nummod	_	_
+4	张	张	NOUN	_	_	5	clf	_	_
+5	字帖	字帖	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 写了六天字帖。
+1	写	写	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	六	六	NUM	_	_	4	nummod	_	_
+4	天	天	NOUN	_	_	1	obl	_	_
+5	字帖	字帖	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.7
+# text = 学习了五小时外语课程。
+1	学习	学习	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	外语	外语	NOUN	_	_	6	nmod	_	_
+6	课程	课程	NOUN	_	_	1	obj	_	_
+7	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 学习了五门外语课程。
+1	学习	学习	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	门	门	NOUN	_	_	6	clf	_	_
+5	外语	外语	NOUN	_	_	6	nmod	_	_
+6	课程	课程	NOUN	_	_	1	obj	_	_
+7	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.8
+# text = 欣赏了几小时村落。
+1	欣赏	欣赏	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	几	几	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	村落	村落	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 欣赏了几百年前的村落。
+1	欣赏	欣赏	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	几百	几百	NUM	_	_	4	nummod	_	_
+4	年	年	NOUN	_	_	7	nmod	_	_
+5	前	前	ADP	_	_	4	acl	_	_
+6	的	的	PART	_	_	4	case	_	_
+7	村落	村落	NOUN	_	_	1	obj	_	_
+8	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.9
+# text = 弹奏了一首曲子。
+1	弹奏	弹奏	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	首	首	NOUN	_	_	5	clf	_	_
+5	曲子	曲子	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 
+# text = 弹奏了一天曲子。
+1	弹奏	弹奏	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	天	天	NOUN	_	_	1	obl	_	_
+5	曲子	曲子	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3.10
+# text = 我看了十天报纸。
+1	我	我	PRON	_	_	2	nsubj	_	_
+2	看	看	VERB	_	_	0	root	_	_
+3	了	了	AUX	_	_	2	aux	_	_
+4	十	十	NUM	_	_	5	nummod	_	_
+5	天	天	NOUN	_	_	2	obl	_	_
+6	报纸	报纸	NOUN	_	_	2	obj	_	_
+7	。	。	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 
+# text = 我看了十份报纸。
+1	我	我	PRON	_	_	2	nsubj	_	_
+2	看	看	VERB	_	_	0	root	_	_
+3	了	了	AUX	_	_	2	aux	_	_
+4	十	十	NUM	_	_	5	nummod	_	_
+5	份	份	NOUN	_	_	6	clf	_	_
+6	报纸	报纸	NOUN	_	_	2	obj	_	_
+7	。	。	PUNCT	_	_	2	punct	_	_
+

@@ -1,0 +1,208 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 写了五道题。
+1	写	写	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	道	道	NOUN	NN	_	5	compound	_	SpaceAfter=No
+5	题	题	PART	SFN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 2
+# text = 写了五分钟题。
+1	写	写	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	分钟	分钟	NOUN	NN	_	5	compound	_	SpaceAfter=No
+5	题	题	PART	SFN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 3
+# text = 挑选了一小时木材。
+1	挑选	挑选	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	小时	小时	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	木材	木材	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 4
+# text = 挑选了千年木材。
+1	挑选	挑选	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	千	千	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	年	年	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	木材	木材	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 5
+# text = 讲了两小时历史。
+1	讲	讲	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	小时	小时	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	历史	历史	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 6
+# text = 讲了五千年历史。
+1	讲	讲	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	五千	五千	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	年	年	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	历史	历史	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 7
+# text = 画了三分钟画。
+1	画	画	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	三	三	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	分钟	分钟	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	画	画	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 8
+# text = 画了六幅画。
+1	画	画	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	幅画	幅画	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 9
+# text = 参观了五小时建筑。
+1	参观	参观	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	小时	小时	NOUN	NN	_	5	clf	_	SpaceAfter=No
+5	建筑	建筑	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 10
+# text = 参观了百年建筑。
+1	参观	参观	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	百	百	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	年	年	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	建筑	建筑	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 11
+# text = 写了六张字帖。
+1	写	写	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	张	张	NOUN	NNB	_	5	compound	_	SpaceAfter=No
+5	字	字	PART	SFN	_	6	nmod	_	SpaceAfter=No
+6	帖	帖	NOUN	NN	_	1	obj	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 12
+# text = 写了六天字帖。
+1	写	写	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	天	天	NOUN	NNB	_	5	compound	_	SpaceAfter=No
+5	字	字	PART	SFN	_	6	nmod	_	SpaceAfter=No
+6	帖	帖	NOUN	NN	_	1	obj	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 13
+# text = 学习了五小时外语课程。
+1	学习	学习	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	小时	小时	NOUN	NNB	_	6	clf	_	SpaceAfter=No
+5	外语	外语	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+6	课程	课程	NOUN	NN	_	1	obj	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 14
+# text = 学习了五门外语课程。
+1	学习	学习	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	门	门	NOUN	NNB	_	6	clf	_	SpaceAfter=No
+5	外语	外语	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+6	课程	课程	NOUN	NN	_	1	obj	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 15
+# text = 欣赏了几小时村落。
+1	欣赏	欣赏	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	几	几	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	小时	小时	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	村落	村落	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 16
+# text = 欣赏了几百年前的村落。
+1	欣赏	欣赏	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	几百	几百	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	年	年	NOUN	NNB	_	7	nmod	_	SpaceAfter=No
+5	前	前	ADP	IN	_	4	acl	_	SpaceAfter=No
+6	的	的	PART	DEC	Case=Gen	4	case:dec	_	SpaceAfter=No
+7	村落	村落	NOUN	NN	_	1	obj	_	SpaceAfter=No
+8	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 17
+# text = 弹奏了一首曲子。
+1	弹奏	弹奏	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	首	首	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	曲子	曲子	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 18
+# text = 弹奏了一天曲子。
+1	弹奏	弹奏	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	天	天	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	曲子	曲子	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 19
+# text = 我看了十天报纸。
+1	我	我	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No
+2	看	看	VERB	VV	_	0	root	_	SpaceAfter=No
+3	了	了	PART	AS	Aspect=Perf	2	case:aspect	_	SpaceAfter=No
+4	十	十	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
+5	天	天	NOUN	NNB	_	6	clf	_	SpaceAfter=No
+6	报纸	报纸	NOUN	NN	_	2	obj	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	2	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 20
+# text = 我看了十份报纸。
+1	我	我	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No
+2	看	看	VERB	VV	_	0	root	_	SpaceAfter=No
+3	了	了	PART	AS	Aspect=Perf	2	case:aspect	_	SpaceAfter=No
+4	十	十	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
+5	份	份	NOUN	NNB	_	6	clf	_	SpaceAfter=No
+6	报纸	报纸	NOUN	NN	_	2	obj	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	2	punct	_	SpacesAfter=\r\n\r\n
+

@@ -1,0 +1,383 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = chinese-gsdsimp-ud-2.6-200830
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = 调研乡镇的经济发展状况。
+1	调研	调研	VERB	VV	_	0	root	_	SpaceAfter=No
+2	乡镇	乡镇	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	经济	经济	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+5	发展	发展	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+6	状况	状况	NOUN	NN	_	1	obj	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 2
+# text = 调研乡镇的经济学教授。
+1	调研	调研	VERB	VV	_	0	root	_	SpaceAfter=No
+2	乡镇	乡镇	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	经济	经济	NOUN	NN	_	5	compound	_	SpaceAfter=No
+5	学	学	PART	SFN	_	6	nmod	_	SpaceAfter=No
+6	教授	教授	NOUN	NN	_	1	obj	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 3
+# text = 记录实验的表格。
+1	记录	记录	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	实验	实验	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	表格	表格	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 4
+# text = 记录实验的结果。
+1	记录	记录	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	实验	实验	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	结果	结果	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 5
+# text = 吃了游客的鳄鱼。
+1	吃	吃	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	游客	游客	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
+5	鳄鱼	鳄鱼	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 6
+# text = 吃了游客的水果。
+1	吃	吃	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	游客	游客	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
+5	水果	水果	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 7
+# text = 切西瓜的刀。
+1	切西瓜	切西瓜	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
+3	刀	刀	NOUN	NN	_	0	root	_	SpaceAfter=No
+4	。	。	PUNCT	.	_	3	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 8
+# text = 削西瓜的皮。
+1	削西	削西	VERB	VV	_	0	root	_	SpaceAfter=No
+2	瓜	瓜	PART	SFN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	皮	皮	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 9
+# text = 消除健身的疲劳。
+1	消除	消除	VERB	VV	_	0	root	_	SpaceAfter=No
+2	健身	健身	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	疲劳	疲劳	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 10
+# text = 停止健身的后果。
+1	停止	停止	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	健身	健身	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+4	后果	后果	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 11
+# text = 杀了房东的猫。
+1	杀	杀	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	房东	房东	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
+5	猫	猫	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 12
+# text = 杀了房东的杀手。
+1	杀	杀	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	房东	房东	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
+5	杀手	杀手	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 13
+# text = 装修房子的人员。
+1	装修	装修	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	房子	房子	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+4	人员	人员	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 14
+# text = 装修房子的房间。
+1	装修	装修	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	房子	房子	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+4	房间	房间	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 15
+# text = 研究代码的架构。
+1	研究	研究	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	代码	代码	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	架构	架构	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 16
+# text = 研究代码的架构师。
+1	研究	研究	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No
+2	代码	代码	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+4	架构	架构	NOUN	NN	_	5	compound	_	SpaceAfter=No
+5	师	师	PART	SFN	_	0	root	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 17
+# text = 打击经济犯罪的团伙。
+1	打击	打击	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No
+2	经济	经济	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	犯罪	犯罪	NOUN	NN	_	1	obj	_	SpaceAfter=No
+4	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+5	团伙	团伙	NOUN	NN	_	0	root	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 18
+# text = 打击经济犯罪的警察。
+1	打击	打击	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No
+2	经济	经济	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	犯罪	犯罪	NOUN	NN	_	1	obj	_	SpaceAfter=No
+4	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+5	警察	警察	NOUN	NN	_	0	root	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 19
+# text = 吃食物的仓鼠。
+1	吃	吃	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	食物	食物	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+4	仓鼠	仓鼠	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 20
+# text = 养灰色的仓鼠。
+1	养灰	养灰	NOUN	NN	_	2	compound	_	SpaceAfter=No
+2	色	色	PART	SFN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	仓鼠	仓鼠	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 21
+# text = 改变世界的伟人。
+1	改变	改变	VERB	VV	_	0	root	_	SpaceAfter=No
+2	世界	世界	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	伟人	伟人	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 22
+# text = 改变世界的格局。
+1	改变	改变	VERB	VV	_	0	root	_	SpaceAfter=No
+2	世界	世界	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的格	的格	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+4	局	局	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 23
+# text = 调查事故的交警。
+1	调查	调查	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	事故	事故	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	交警	交警	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 24
+# text = 调查事故的起因。
+1	调查	调查	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	事故	事故	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	起因	起因	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 25
+# text = 喜欢旅行的过程。
+1	喜欢	喜欢	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	旅行	旅行	VERB	VV	_	1	xcomp	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+4	过程	过程	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 26
+# text = 喜欢旅行的人们。
+1	喜欢	喜欢	VERB	VV	_	0	root	_	SpaceAfter=No
+2	旅行	旅行	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
+4	人们	人	NOUN	NN	Number=Plur	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 27
+# text = 演奏乐曲的高潮部分。
+1	演奏	演奏	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	乐曲	乐曲	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	高潮	高潮	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+5	部分	部分	NOUN	NN	_	0	root	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 28
+# text = 演奏乐曲的钢琴家。
+1	演奏	演奏	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No
+2	乐曲	乐曲	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+4	钢琴	钢琴	NOUN	NN	_	5	compound	_	SpaceAfter=No
+5	家	家	PART	SFN	_	0	root	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 29
+# text = 计算工资的总数。
+1	计算	计算	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	工资	工资	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	总数	总数	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 30
+# text = 计算工资的会计。
+1	计算	计算	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	工资	工资	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	会计	会计	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 31
+# text = 卖了猎人的狗。
+1	卖	卖	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	猎人	猎人	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
+5	狗	狗	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 32
+# text = 卖了狗的猎人。
+1	卖	卖	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	狗	狗	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
+5	猎人	猎人	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 33
+# text = 援助偏远地区的留守儿童。
+1	援助	援助	VERB	VV	_	0	root	_	SpaceAfter=No
+2	偏远	偏远	ADJ	JJ	_	3	amod	_	SpaceAfter=No
+3	地区	地区	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
+5	留守	留守	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+6	儿童	儿童	NOUN	NN	_	1	obj	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 34
+# text = 援助偏远地区的志愿者。
+1	援助	援助	VERB	VV	_	0	root	_	SpaceAfter=No
+2	偏远	偏远	ADJ	JJ	_	3	amod	_	SpaceAfter=No
+3	地区	地区	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
+5	志愿	志愿	VERB	VV	_	6	compound	_	SpaceAfter=No
+6	者	者	PART	SFN	_	1	obj	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 35
+# text = 击中靶子的十环。
+1	击中	击中	VERB	VV	_	0	root	_	SpaceAfter=No
+2	靶子	靶子	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	十	十	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
+5	环	环	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 36
+# text = 击中靶子的射手。
+1	击中	击中	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	靶子	靶子	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+4	射手	射手	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 37
+# text = 检查枪支的子弹。
+1	检查	检查	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	枪支	枪支	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+4	子弹	子弹	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 38
+# text = 检查枪支的警察。
+1	检查	检查	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	枪支	枪支	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+4	警察	警察	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 39
+# text = 学习课本的文章。
+1	学习	学习	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	课本	课本	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+4	文章	文章	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+# newpar
+# sent_id = 40
+# text = 学习课本的学生。
+1	学习	学习	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	课本	课本	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+4	学生	学生	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
