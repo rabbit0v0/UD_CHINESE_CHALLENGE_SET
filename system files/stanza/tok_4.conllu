@@ -1,0 +1,389 @@
+1	毯子	毯子	NOUN	NN	_	5	nmod	_	start_char=0|end_char=2|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=3|end_char=4|ner=O
+3	凳子	凳子	NOUN	NN	_	1	conj	_	start_char=5|end_char=7|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=8|end_char=9|ner=O
+5	腿	腿	NOUN	NN	_	7	nsubj	_	start_char=10|end_char=11|ner=O
+6	都	都	ADV	RB	_	7	mark	_	start_char=12|end_char=13|ner=O
+7	坏	坏	ADJ	JJ	_	0	root	_	start_char=14|end_char=15|ner=O
+8	了	了	PART	UH	_	7	discourse	_	start_char=16|end_char=17|ner=O
+9	。	。	PUNCT	.	_	7	punct	_	start_char=18|end_char=19|ner=O
+
+1	椅子	椅子	NOUN	NN	_	7	nsubj	_	start_char=20|end_char=22|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=23|end_char=24|ner=O
+3	桌子	桌子	NOUN	NN	_	1	conj	_	start_char=25|end_char=27|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=28|end_char=29|ner=O
+5	表面	表面	NOUN	NN	_	1	conj	_	start_char=30|end_char=32|ner=O
+6	都	都	ADV	RB	_	7	mark	_	start_char=33|end_char=34|ner=O
+7	有	有	VERB	VV	_	0	root	_	start_char=35|end_char=36|ner=O
+8	灰	灰	NOUN	NN	_	7	obj	_	start_char=37|end_char=38|ner=O
+9	。	。	PUNCT	.	_	7	punct	_	start_char=39|end_char=40|ner=O
+
+1	椅子	椅子	NOUN	NN	_	5	nmod	_	start_char=41|end_char=43|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=44|end_char=45|ner=O
+3	电脑	电脑	NOUN	NN	_	1	conj	_	start_char=46|end_char=48|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=49|end_char=50|ner=O
+5	屏幕	屏幕	NOUN	NN	_	8	nsubj	_	start_char=51|end_char=53|ner=O
+6	需要	需要	AUX	MD	_	8	aux	_	start_char=54|end_char=56|ner=O
+7	摆放	摆放	AUX	VV	_	8	cop	_	start_char=57|end_char=59|ner=O
+8	整齐	整齐	ADJ	JJ	_	0	root	_	start_char=60|end_char=62|ner=O
+9	。	。	PUNCT	.	_	8	punct	_	start_char=63|end_char=64|ner=O
+
+1	班长	班长	NOUN	NN	_	5	nmod	_	start_char=65|end_char=67|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=68|end_char=69|ner=O
+3	同桌	同桌	NOUN	NN	_	1	conj	_	start_char=70|end_char=72|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=73|end_char=74|ner=O
+5	课本	课本	NOUN	NN	_	8	nsubj	_	start_char=75|end_char=77|ner=O
+6	需要	需要	AUX	MD	_	8	aux	_	start_char=78|end_char=80|ner=O
+7	摆放	摆放	AUX	VV	_	8	cop	_	start_char=81|end_char=83|ner=O
+8	整齐	整齐	ADJ	JJ	_	0	root	_	start_char=84|end_char=86|ner=O
+9	。	。	PUNCT	.	_	8	punct	_	start_char=87|end_char=88|ner=O
+
+1	桌子	桌子	NOUN	NN	_	6	nmod	_	start_char=89|end_char=91|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=92|end_char=93|ner=O
+3	沙发	沙发	NOUN	NN	_	1	conj	_	start_char=94|end_char=96|ner=O
+4	上	上	ADP	IN	_	1	acl	_	start_char=97|end_char=98|ner=O
+5	的	的	PART	DEC	Case=Gen	1	case	_	start_char=99|end_char=100|ner=O
+6	电脑	电脑	NOUN	NN	_	9	nsubj	_	start_char=101|end_char=103|ner=O
+7	都	都	ADV	RB	_	9	mark	_	start_char=104|end_char=105|ner=O
+8	要	要	AUX	MD	_	9	aux	_	start_char=106|end_char=107|ner=O
+9	开机	开机	VERB	VV	_	0	root	_	start_char=108|end_char=110|ner=O
+10	。	。	PUNCT	.	_	9	punct	_	start_char=111|end_char=112|ner=O
+
+1	裙子	裙子	NOUN	NN	_	6	nmod	_	start_char=113|end_char=115|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=116|end_char=117|ner=O
+3	沙发	沙发	NOUN	NN	_	1	conj	_	start_char=118|end_char=120|ner=O
+4	上	上	ADP	IN	_	1	acl	_	start_char=121|end_char=122|ner=O
+5	的	的	PART	DEC	Case=Gen	1	case	_	start_char=123|end_char=124|ner=O
+6	外套	外套	NOUN	NN	_	9	nsubj	_	start_char=125|end_char=127|ner=O
+7	都	都	ADV	RB	_	9	mark	_	start_char=128|end_char=129|ner=O
+8	要	要	AUX	MD	_	9	aux	_	start_char=130|end_char=131|ner=O
+9	洗	洗	VERB	VV	_	0	root	_	start_char=132|end_char=133|ner=O
+10	。	。	PUNCT	.	_	9	punct	_	start_char=134|end_char=135|ner=O
+
+1	警察	警察	NOUN	NN	_	5	nmod	_	start_char=136|end_char=138|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=139|end_char=140|ner=O
+3	商场	商场	NOUN	NN	_	1	conj	_	start_char=141|end_char=143|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=144|end_char=145|ner=O
+5	保安	保安	NOUN	NN	_	9	nsubj	_	start_char=146|end_char=148|ner=O
+6	在	在	VERB	VV	_	9	advcl	_	start_char=149|end_char=150|ner=O
+7	大楼	大楼	NOUN	NN	_	8	nmod	_	start_char=151|end_char=153|ner=O
+8	外面	外面	NOUN	NN	_	6	obj	_	start_char=154|end_char=156|ner=O
+9	交流	交流	VERB	VV	_	0	root	_	start_char=157|end_char=159|ner=O
+10	。	。	PUNCT	.	_	9	punct	_	start_char=160|end_char=161|ner=O
+
+1	报纸	报纸	NOUN	NN	_	5	nmod	_	start_char=162|end_char=164|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=165|end_char=166|ner=O
+3	电台	电台	NOUN	NN	_	1	conj	_	start_char=167|end_char=169|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=170|end_char=171|ner=O
+5	记者	记者	NOUN	NN	_	9	nsubj	_	start_char=172|end_char=174|ner=O
+6	在	在	VERB	VV	_	9	advcl	_	start_char=175|end_char=176|ner=O
+7	大楼	大楼	NOUN	NN	_	8	nmod	_	start_char=177|end_char=179|ner=O
+8	外面	外面	NOUN	NN	_	6	obj	_	start_char=180|end_char=182|ner=O
+9	交流	交流	VERB	VV	_	0	root	_	start_char=183|end_char=185|ner=O
+10	。	。	PUNCT	.	_	9	punct	_	start_char=186|end_char=187|ner=O
+
+1	鱼	鱼	NOUN	NN	_	6	nmod	_	start_char=188|end_char=189|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=190|end_char=191|ner=O
+3	天空	天空	NOUN	NN	_	1	conj	_	start_char=192|end_char=194|ner=O
+4	中	中	ADP	IN	_	1	acl	_	start_char=195|end_char=196|ner=O
+5	的	的	PART	DEC	Case=Gen	1	case	_	start_char=197|end_char=198|ner=O
+6	小鸟	小鸟	NOUN	NN	_	12	nsubj	_	start_char=199|end_char=201|ner=O
+7	都	都	ADV	RB	_	12	mark	_	start_char=202|end_char=203|ner=O
+8	是	是	AUX	VC	_	12	cop	_	start_char=204|end_char=205|ner=O
+9	他	他	PRON	PRP	Person=3	12	det	_	start_char=206|end_char=207|ner=O
+10	的	的	PART	DEC	Case=Gen	9	case	_	start_char=208|end_char=209|ner=O
+11	捕猎	捕猎	NOUN	NN	_	12	nmod	_	start_char=210|end_char=212|ner=O
+12	对象	对象	NOUN	NN	_	0	root	_	start_char=213|end_char=215|ner=O
+13	。	。	PUNCT	.	_	12	punct	_	start_char=216|end_char=217|ner=O
+
+1	海洋	海洋	NOUN	NN	_	6	nmod	_	start_char=218|end_char=220|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=221|end_char=222|ner=O
+3	天空	天空	NOUN	NN	_	1	conj	_	start_char=223|end_char=225|ner=O
+4	中	中	ADP	IN	_	1	acl	_	start_char=226|end_char=227|ner=O
+5	的	的	PART	DEC	Case=Gen	1	case	_	start_char=228|end_char=229|ner=O
+6	动物	动物	NOUN	NN	_	12	nsubj	_	start_char=230|end_char=232|ner=O
+7	都	都	ADV	RB	_	12	mark	_	start_char=233|end_char=234|ner=O
+8	是	是	AUX	VC	_	12	cop	_	start_char=235|end_char=236|ner=O
+9	他	他	PRON	PRP	Person=3	12	det	_	start_char=237|end_char=238|ner=O
+10	的	的	PART	DEC	Case=Gen	9	case	_	start_char=239|end_char=240|ner=O
+11	捕猎	捕猎	NOUN	NN	_	12	nmod	_	start_char=241|end_char=243|ner=O
+12	对象	对象	NOUN	NN	_	0	root	_	start_char=244|end_char=246|ner=O
+13	。	。	PUNCT	.	_	12	punct	_	start_char=247|end_char=248|ner=O
+
+1	人	人	NOUN	NN	_	5	nmod	_	start_char=249|end_char=250|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=251|end_char=252|ner=O
+3	动物	动物	NOUN	NN	_	1	conj	_	start_char=253|end_char=255|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=256|end_char=257|ner=O
+5	肺	肺	NOUN	NN	_	7	nsubj	_	start_char=258|end_char=259|ner=O
+6	都	都	ADV	RB	_	7	mark	_	start_char=260|end_char=261|ner=O
+7	用	用	VERB	VV	_	0	root	_	start_char=262|end_char=263|ner=O
+8	来	来	ADV	RB	_	7	mark	_	start_char=264|end_char=265|ner=O
+9	呼吸	呼吸	VERB	VV	_	7	xcomp	_	start_char=266|end_char=268|ner=O
+10	。	。	PUNCT	.	_	7	punct	_	start_char=269|end_char=270|ner=O
+
+1	腮	腮	NOUN	NN	_	5	nmod	_	start_char=271|end_char=272|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=273|end_char=274|ner=O
+3	动物	动物	NOUN	NN	_	1	conj	_	start_char=275|end_char=277|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=278|end_char=279|ner=O
+5	肺	肺	NOUN	NN	_	7	nsubj	_	start_char=280|end_char=281|ner=O
+6	都	都	ADV	RB	_	7	mark	_	start_char=282|end_char=283|ner=O
+7	用	用	VERB	VV	_	0	root	_	start_char=284|end_char=285|ner=O
+8	来	来	ADV	RB	_	7	mark	_	start_char=286|end_char=287|ner=O
+9	呼吸	呼吸	VERB	VV	_	7	xcomp	_	start_char=288|end_char=290|ner=O
+10	。	。	PUNCT	.	_	7	punct	_	start_char=291|end_char=292|ner=O
+
+1	海	海	NOUN	NN	_	3	nmod	_	start_char=293|end_char=294|ner=O
+2	和	和	PROPN	NNP	_	3	nmod	_	start_char=295|end_char=296|ner=O
+3	天	天	NOUN	NN	_	6	nmod	_	start_char=297|end_char=298|ner=O
+4	上	上	ADP	IN	_	3	acl	_	start_char=299|end_char=300|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=301|end_char=302|ner=O
+6	云朵	云朵	NOUN	NN	_	8	nsubj	_	start_char=303|end_char=305|ner=O
+7	互相	互相	ADV	RB	_	8	advmod	_	start_char=306|end_char=308|ner=O
+8	辉映	辉映	VERB	VV	_	0	root	_	start_char=309|end_char=311|ner=O
+9	。	。	PUNCT	.	_	8	punct	_	start_char=312|end_char=313|ner=O
+
+1	海	海	NOUN	NN	_	3	nmod	_	start_char=314|end_char=315|ner=O
+2	和	和	NOUN	NN	_	3	nmod	_	start_char=316|end_char=317|ner=O
+3	天	天	NOUN	NN	_	5	nmod	_	start_char=318|end_char=319|ner=O
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=320|end_char=321|ner=O
+5	颜色	颜色	NOUN	NN	_	7	nsubj	_	start_char=322|end_char=324|ner=O
+6	互相	互相	ADV	RB	_	7	advmod	_	start_char=325|end_char=327|ner=O
+7	辉映	辉映	VERB	VV	_	0	root	_	start_char=328|end_char=330|ner=O
+8	。	。	PUNCT	.	_	7	punct	_	start_char=331|end_char=332|ner=O
+
+1	领	领	VERB	VV	_	0	root	_	start_char=333|end_char=334|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=335|end_char=336|ner=O
+3	先生	先生	NOUN	NN	_	8	nmod	_	start_char=337|end_char=339|ner=O
+4	和	和	CCONJ	CC	_	5	cc	_	start_char=340|end_char=341|ner=O
+5	女士	女士	NOUN	NN	_	3	conj	_	start_char=342|end_char=344|ner=O
+6	的	的	PART	DEC	Case=Gen	3	case	_	start_char=345|end_char=346|ner=O
+7	结婚	结婚	VERB	VV	_	8	compound	_	start_char=347|end_char=349|ner=O
+8	证	证	PART	SFN	_	1	obj	_	start_char=350|end_char=351|ner=O
+9	。	。	PUNCT	.	_	1	punct	_	start_char=352|end_char=353|ner=O
+
+1	领	领	VERB	VV	_	0	root	_	start_char=354|end_char=355|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=356|end_char=357|ner=O
+3	喜糖	喜糖	NOUN	NN	_	8	nmod	_	start_char=358|end_char=360|ner=O
+4	和	和	CCONJ	CC	_	5	cc	_	start_char=361|end_char=362|ner=O
+5	女士	女士	NOUN	NN	_	3	conj	_	start_char=363|end_char=365|ner=O
+6	的	的	PART	DEC	Case=Gen	3	case	_	start_char=366|end_char=367|ner=O
+7	结婚	结婚	VERB	VV	_	8	compound	_	start_char=368|end_char=370|ner=O
+8	证	证	PART	SFN	_	1	obj	_	start_char=371|end_char=372|ner=O
+9	。	。	PUNCT	.	_	1	punct	_	start_char=373|end_char=374|ner=O
+
+1	照片	照片	NOUN	NN	_	8	advmod	_	start_char=375|end_char=377|ner=O
+2	里	里	ADP	IN	_	1	acl	_	start_char=378|end_char=379|ner=O
+3	是	是	AUX	VC	_	8	cop	_	start_char=380|end_char=381|ner=O
+4	妈妈	妈妈	NOUN	NN	_	8	nmod	_	start_char=382|end_char=384|ner=O
+5	和	和	CCONJ	CC	_	6	cc	_	start_char=385|end_char=386|ner=O
+6	妈妈	妈妈	NOUN	NN	_	4	conj	_	start_char=387|end_char=389|ner=O
+7	的	的	PART	DEC	Case=Gen	4	case	_	start_char=390|end_char=391|ner=O
+8	姐姐	姐姐	NOUN	NN	_	0	root	_	start_char=392|end_char=394|ner=O
+9	。	。	PUNCT	.	_	8	punct	_	start_char=395|end_char=396|ner=O
+
+1	照片	照片	NOUN	NN	_	8	advmod	_	start_char=397|end_char=399|ner=O
+2	里	里	ADP	IN	_	1	acl	_	start_char=400|end_char=401|ner=O
+3	是	是	AUX	VC	_	8	cop	_	start_char=402|end_char=403|ner=O
+4	小姨	小姨	NOUN	NN	_	8	nmod	_	start_char=404|end_char=406|ner=O
+5	和	和	CCONJ	CC	_	6	cc	_	start_char=407|end_char=408|ner=O
+6	妈妈	妈妈	NOUN	NN	_	4	conj	_	start_char=409|end_char=411|ner=O
+7	的	的	PART	DEC	Case=Gen	4	case	_	start_char=412|end_char=413|ner=O
+8	姐姐	姐姐	NOUN	NN	_	0	root	_	start_char=414|end_char=416|ner=O
+9	。	。	PUNCT	.	_	8	punct	_	start_char=417|end_char=418|ner=O
+
+1	男人	男人	NOUN	NN	_	5	nmod	_	start_char=419|end_char=421|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=422|end_char=423|ner=O
+3	女人	女人	NOUN	NN	_	1	conj	_	start_char=424|end_char=426|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=427|end_char=428|ner=O
+5	脸	脸	NOUN	NN	_	8	nsubj	_	start_char=429|end_char=430|ner=O
+6	都	都	ADV	RB	_	8	mark	_	start_char=431|end_char=432|ner=O
+7	需要	需要	AUX	MD	_	8	aux	_	start_char=433|end_char=435|ner=O
+8	呵护	呵护	VERB	VV	_	0	root	_	start_char=436|end_char=438|ner=O
+9	。	。	PUNCT	.	_	8	punct	_	start_char=439|end_char=440|ner=O
+
+1	手	手	NOUN	NN	_	5	nmod	_	start_char=441|end_char=442|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=443|end_char=444|ner=O
+3	女人	女人	NOUN	NN	_	1	conj	_	start_char=445|end_char=447|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=448|end_char=449|ner=O
+5	脸	脸	NOUN	NN	_	8	nsubj	_	start_char=450|end_char=451|ner=O
+6	都	都	ADV	RB	_	8	mark	_	start_char=452|end_char=453|ner=O
+7	需要	需要	AUX	MD	_	8	aux	_	start_char=454|end_char=456|ner=O
+8	呵护	呵护	VERB	VV	_	0	root	_	start_char=457|end_char=459|ner=O
+9	。	。	PUNCT	.	_	8	punct	_	start_char=460|end_char=461|ner=O
+
+1	山	山	NOUN	NN	_	5	nmod	_	start_char=462|end_char=463|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=464|end_char=465|ner=O
+3	水	水	NOUN	NN	_	1	conj	_	start_char=466|end_char=467|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=468|end_char=469|ner=O
+5	颜色	颜色	NOUN	NN	_	7	nsubj	_	start_char=470|end_char=472|ner=O
+6	很	很	ADV	RB	_	7	advmod	_	start_char=473|end_char=474|ner=O
+7	和谐	和谐	ADJ	JJ	_	0	root	_	start_char=475|end_char=477|ner=O
+8	。	。	PUNCT	.	_	7	punct	_	start_char=478|end_char=479|ner=O
+
+1	山	山	NOUN	NN	_	5	nmod	_	start_char=480|end_char=481|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=482|end_char=483|ner=O
+3	水	水	NOUN	NN	_	1	conj	_	start_char=484|end_char=485|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=486|end_char=487|ner=O
+5	波纹	波纹	NOUN	NN	_	7	nsubj	_	start_char=488|end_char=490|ner=O
+6	很	很	ADV	RB	_	7	advmod	_	start_char=491|end_char=492|ner=O
+7	和谐	和谐	ADJ	JJ	_	0	root	_	start_char=493|end_char=495|ner=O
+8	。	。	PUNCT	.	_	7	punct	_	start_char=496|end_char=497|ner=O
+
+1	面包	面包	NOUN	NN	_	5	nmod	_	start_char=498|end_char=500|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=501|end_char=502|ner=O
+3	牛奶	牛奶	NOUN	NN	_	1	conj	_	start_char=503|end_char=505|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=506|end_char=507|ner=O
+5	产地	产地	NOUN	NN	_	6	nsubj	_	start_char=508|end_char=510|ner=O
+6	是	是	VERB	VC	_	0	root	_	start_char=511|end_char=512|ner=O
+7	一样	一样	ADJ	JJ	_	6	xcomp	_	start_char=513|end_char=515|ner=O
+8	的	的	PART	UH	_	6	discourse	_	start_char=516|end_char=517|ner=O
+9	。	。	PUNCT	.	_	6	punct	_	start_char=518|end_char=519|ner=O
+
+1	地址	地址	NOUN	NN	_	5	nmod	_	start_char=520|end_char=522|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=523|end_char=524|ner=O
+3	牛奶	牛奶	NOUN	NN	_	1	conj	_	start_char=525|end_char=527|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=528|end_char=529|ner=O
+5	产地	产地	NOUN	NN	_	6	nsubj	_	start_char=530|end_char=532|ner=O
+6	是	是	VERB	VC	_	0	root	_	start_char=533|end_char=534|ner=O
+7	一样	一样	ADJ	JJ	_	6	xcomp	_	start_char=535|end_char=537|ner=O
+8	的	的	PART	UH	_	6	discourse	_	start_char=538|end_char=539|ner=O
+9	。	。	PUNCT	.	_	6	punct	_	start_char=540|end_char=541|ner=O
+
+1	鸟	鸟	NOUN	NN	_	7	nsubj	_	start_char=542|end_char=543|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=544|end_char=545|ner=O
+3	海	海	NOUN	NN	_	1	conj	_	start_char=546|end_char=547|ner=O
+4	里	里	ADP	IN	_	3	acl	_	start_char=548|end_char=549|ner=O
+5	的	的	PART	DEC	Case=Gen	1	case	_	start_char=550|end_char=551|ner=O
+6	鱼	鱼	NOUN	NN	_	7	nsubj	_	start_char=552|end_char=553|ner=O
+7	相遇	相遇	VERB	VV	_	0	root	_	start_char=554|end_char=556|ner=O
+8	。	。	PUNCT	.	_	7	punct	_	start_char=557|end_char=558|ner=O
+
+1	江	江	PROPN	NNP	_	3	nmod	_	start_char=559|end_char=560|ner=O
+2	和	和	PROPN	NNP	_	3	compound	_	start_char=561|end_char=562|ner=O
+3	海	海	PART	SFN	_	6	nmod	_	start_char=563|end_char=564|ner=O
+4	里	里	ADP	IN	_	3	acl	_	start_char=565|end_char=566|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	start_char=567|end_char=568|ner=O
+6	鱼	鱼	NOUN	NN	_	7	nsubj	_	start_char=569|end_char=570|ner=O
+7	相遇	相遇	VERB	VV	_	0	root	_	start_char=571|end_char=573|ner=O
+8	。	。	PUNCT	.	_	7	punct	_	start_char=574|end_char=575|ner=O
+
+1	看到	看到	VERB	VV	_	0	root	_	start_char=576|end_char=578|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=579|end_char=580|ner=O
+3	天	天	PROPN	NNP	_	7	nmod	_	start_char=581|end_char=582|ner=O
+4	和	和	CCONJ	CC	_	5	cc	_	start_char=583|end_char=584|ner=O
+5	海	海	PART	SFN	_	3	conj	_	start_char=585|end_char=586|ner=O
+6	的	的	PART	DEC	Case=Gen	3	case	_	start_char=587|end_char=588|ner=O
+7	交界	交界	NOUN	NN	_	1	obj	_	start_char=589|end_char=591|ner=O
+8	。	。	PUNCT	.	_	1	punct	_	start_char=592|end_char=593|ner=O
+
+1	看到	看到	VERB	VV	_	0	root	_	start_char=594|end_char=596|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=597|end_char=598|ner=O
+3	天空	天空	NOUN	NN	_	7	nmod	_	start_char=599|end_char=601|ner=O
+4	和	和	CCONJ	CC	_	5	cc	_	start_char=602|end_char=603|ner=O
+5	海	海	NOUN	NN	_	3	conj	_	start_char=604|end_char=605|ner=O
+6	的	的	PART	DEC	Case=Gen	3	case	_	start_char=606|end_char=607|ner=O
+7	浪花	浪花	NOUN	NN	_	1	obj	_	start_char=608|end_char=610|ner=O
+8	。	。	PUNCT	.	_	1	punct	_	start_char=611|end_char=612|ner=O
+
+1	观察	观察	VERB	VV	_	0	root	_	start_char=613|end_char=615|ner=O
+2	蛇	蛇	NOUN	NN	_	6	nmod	_	start_char=616|end_char=617|ner=O
+3	和	和	CCONJ	CC	_	4	cc	_	start_char=618|end_char=619|ner=O
+4	鹅	鹅	NOUN	NN	_	2	conj	_	start_char=620|end_char=621|ner=O
+5	的	的	PART	DEC	Case=Gen	2	case	_	start_char=622|end_char=623|ner=O
+6	区别	区别	NOUN	NN	_	1	obj	_	start_char=624|end_char=626|ner=O
+7	。	。	PUNCT	.	_	1	punct	_	start_char=627|end_char=628|ner=O
+
+1	观察	观察	VERB	VV	_	0	root	_	start_char=629|end_char=631|ner=O
+2	蛇	蛇	NOUN	NN	_	6	nmod	_	start_char=632|end_char=633|ner=O
+3	和	和	CCONJ	CC	_	4	cc	_	start_char=634|end_char=635|ner=O
+4	鹅	鹅	NOUN	NN	_	2	conj	_	start_char=636|end_char=637|ner=O
+5	的	的	PART	DEC	Case=Gen	2	case	_	start_char=638|end_char=639|ner=O
+6	翅膀	翅膀	NOUN	NN	_	1	obj	_	start_char=640|end_char=642|ner=O
+7	。	。	PUNCT	.	_	1	punct	_	start_char=643|end_char=644|ner=O
+
+1	对比	对比	VERB	VV	_	0	root	_	start_char=645|end_char=647|ner=O
+2	鹿角	鹿角	NOUN	NN	_	6	nmod	_	start_char=648|end_char=650|ner=O
+3	和	和	CCONJ	CC	_	4	cc	_	start_char=651|end_char=652|ner=O
+4	犀牛	犀牛	NOUN	NN	_	2	conj	_	start_char=653|end_char=655|ner=O
+5	的	的	PART	DEC	Case=Gen	2	case	_	start_char=656|end_char=657|ner=O
+6	角	角	NOUN	NN	_	1	obj	_	start_char=658|end_char=659|ner=O
+7	。	。	PUNCT	.	_	1	punct	_	start_char=660|end_char=661|ner=O
+
+1	对比	对比	ADP	IN	_	6	det	_	start_char=662|end_char=664|ner=O
+2	鹿	鹿	NOUN	NN	_	6	nmod	_	start_char=665|end_char=666|ner=O
+3	和	和	CCONJ	CC	_	4	cc	_	start_char=667|end_char=668|ner=O
+4	犀牛	犀牛	NOUN	NN	_	2	conj	_	start_char=669|end_char=671|ner=O
+5	的	的	PART	DEC	Case=Gen	2	case	_	start_char=672|end_char=673|ner=O
+6	差异	差异	NOUN	NN	_	0	root	_	start_char=674|end_char=676|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	start_char=677|end_char=678|ner=O
+
+1	医生	医生	NOUN	NN	_	5	nmod	_	start_char=679|end_char=681|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=682|end_char=683|ner=O
+3	病人	病人	NOUN	NN	_	1	conj	_	start_char=684|end_char=686|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=687|end_char=688|ner=O
+5	家属	家属	NOUN	NN	_	7	nsubj	_	start_char=689|end_char=691|ner=O
+6	耐心	耐心	ADV	RB	_	7	advmod	_	start_char=692|end_char=694|ner=O
+7	沟通	沟通	VERB	VV	_	0	root	_	start_char=695|end_char=697|ner=O
+8	。	。	PUNCT	.	_	7	punct	_	start_char=698|end_char=699|ner=O
+
+1	医生	医生	NOUN	NN	_	5	nmod	_	start_char=700|end_char=702|ner=O
+2	和	和	CCONJ	CC	_	3	cc	_	start_char=703|end_char=704|ner=O
+3	病人	病人	NOUN	NN	_	1	conj	_	start_char=705|end_char=707|ner=O
+4	的	的	PART	DEC	Case=Gen	1	case	_	start_char=708|end_char=709|ner=O
+5	关系	关系	NOUN	NN	_	7	nsubj	_	start_char=710|end_char=712|ner=O
+6	十分	十分	ADV	RB	_	7	advmod	_	start_char=713|end_char=715|ner=O
+7	友好	友好	ADJ	JJ	_	0	root	_	start_char=716|end_char=718|ner=O
+8	。	。	PUNCT	.	_	7	punct	_	start_char=719|end_char=720|ner=O
+
+1	寻找	寻找	VERB	VV	_	6	acl:relcl	_	start_char=721|end_char=723|ner=O
+2	山羊	山羊	NOUN	NN	_	1	obj	_	start_char=724|end_char=726|ner=O
+3	和	和	CCONJ	CC	_	4	cc	_	start_char=727|end_char=728|ner=O
+4	知了	知了	VERB	VV	_	1	conj	_	start_char=729|end_char=731|ner=O
+5	的	的	PART	DEC	_	1	mark:rel	_	start_char=732|end_char=733|ner=O
+6	蜕	蜕	NOUN	NN	_	0	root	_	start_char=734|end_char=735|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	start_char=736|end_char=737|ner=O
+
+1	寻找	寻找	VERB	VV	_	6	acl:relcl	_	start_char=738|end_char=740|ner=O
+2	山羊	山羊	NOUN	NN	_	1	obj	_	start_char=741|end_char=743|ner=O
+3	和	和	CCONJ	CC	_	4	cc	_	start_char=744|end_char=745|ner=O
+4	知了	知了	VERB	VV	_	1	conj	_	start_char=746|end_char=748|ner=O
+5	的	的	PART	DEC	_	1	mark:rel	_	start_char=749|end_char=750|ner=O
+6	踪影	踪影	NOUN	NN	_	0	root	_	start_char=751|end_char=753|ner=O
+7	。	。	PUNCT	.	_	1	punct	_	start_char=754|end_char=755|ner=O
+
+1	看到	看到	VERB	VV	_	0	root	_	start_char=756|end_char=758|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=759|end_char=760|ner=O
+3	马	马	PROPN	NNP	_	7	nmod	_	start_char=761|end_char=762|ner=S-PERSON
+4	和	和	PROPN	NNP	_	3	flat:name	_	start_char=763|end_char=764|ner=O
+5	驴	驴	PROPN	NNP	_	3	flat:name	_	start_char=765|end_char=766|ner=O
+6	的	的	PART	DEC	Case=Gen	3	case	_	start_char=767|end_char=768|ner=O
+7	后代	后代	NOUN	NN	_	1	obj	_	start_char=769|end_char=771|ner=O
+8	。	。	PUNCT	.	_	1	punct	_	start_char=772|end_char=773|ner=O
+
+1	看到	看到	VERB	VV	_	0	root	_	start_char=774|end_char=776|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=777|end_char=778|ner=O
+3	草	草	NOUN	NN	_	7	nmod	_	start_char=779|end_char=780|ner=O
+4	和	和	CCONJ	CC	_	5	cc	_	start_char=781|end_char=782|ner=O
+5	树	树	NOUN	NN	_	3	conj	_	start_char=783|end_char=784|ner=O
+6	的	的	PART	DEC	Case=Gen	3	case	_	start_char=785|end_char=786|ner=O
+7	枝桠	枝桠	NOUN	NN	_	1	obj	_	start_char=787|end_char=789|ner=O
+8	。	。	PUNCT	.	_	1	punct	_	start_char=790|end_char=791|ner=O
+
+1	领	领	VERB	VV	_	0	root	_	start_char=792|end_char=793|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=794|end_char=795|ner=O
+3	冠军	冠军	NOUN	NN	_	1	obj	_	start_char=796|end_char=798|ner=O
+4	和	和	CCONJ	CC	_	5	cc	_	start_char=799|end_char=800|ner=O
+5	亚军	亚军	NOUN	NN	_	3	conj	_	start_char=801|end_char=803|ner=O
+6	的	的	PART	DEC	_	1	mark:rel	_	start_char=804|end_char=805|ner=O
+7	奖杯	奖杯	NOUN	NN	_	1	obj	_	start_char=806|end_char=808|ner=O
+8	。	。	PUNCT	.	_	1	punct	_	start_char=809|end_char=810|ner=O
+
+1	领	领	VERB	VV	_	7	acl:relcl	_	start_char=811|end_char=812|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=813|end_char=814|ner=O
+3	奖状	奖状	NOUN	NN	_	1	obj	_	start_char=815|end_char=817|ner=O
+4	和	和	CCONJ	CC	_	5	cc	_	start_char=818|end_char=819|ner=O
+5	冠军	冠军	NOUN	NN	_	3	conj	_	start_char=820|end_char=822|ner=O
+6	的	的	PART	DEC	_	1	mark:rel	_	start_char=823|end_char=824|ner=O
+7	奖杯	奖杯	NOUN	NN	_	0	root	_	start_char=825|end_char=827|ner=O
+8	。	。	PUNCT	.	_	1	punct	_	start_char=828|end_char=829|ner=O
+

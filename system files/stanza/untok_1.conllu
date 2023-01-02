@@ -1,0 +1,259 @@
+1	调研	调研	VERB	VV	_	0	root	_	start_char=0|end_char=2|ner=O
+2	乡镇	乡镇	NOUN	NN	_	6	nmod	_	start_char=2|end_char=4|ner=O
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=4|end_char=5|ner=O
+4	经济	经济	NOUN	NN	_	6	nmod	_	start_char=5|end_char=7|ner=O
+5	发展	发展	NOUN	NN	_	6	nmod	_	start_char=7|end_char=9|ner=O
+6	状况	状况	NOUN	NN	_	1	obj	_	start_char=9|end_char=11|ner=O
+7	。	。	PUNCT	.	_	1	punct	_	start_char=11|end_char=12|ner=O
+
+1	调研	调研	VERB	VV	_	0	root	_	start_char=14|end_char=16|ner=O
+2	乡镇	乡镇	NOUN	NN	_	6	nmod	_	start_char=16|end_char=18|ner=O
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=18|end_char=19|ner=O
+4	经济	经济	NOUN	NN	_	5	compound	_	start_char=19|end_char=21|ner=O
+5	学	学	PART	SFN	_	6	nmod	_	start_char=21|end_char=22|ner=O
+6	教授	教授	NOUN	NN	_	1	obj	_	start_char=22|end_char=24|ner=O
+7	。	。	PUNCT	.	_	1	punct	_	start_char=24|end_char=25|ner=O
+
+1	记录	记录	VERB	VV	_	0	root	_	start_char=27|end_char=29|ner=O
+2	实验	实验	VERB	VV	_	4	acl:relcl	_	start_char=29|end_char=31|ner=O
+3	的	的	PART	DEC	_	2	mark:rel	_	start_char=31|end_char=32|ner=O
+4	表格	表格	NOUN	NN	_	1	obj	_	start_char=32|end_char=34|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	start_char=34|end_char=35|ner=O
+
+1	记录	记录	VERB	VV	_	0	root	_	start_char=37|end_char=39|ner=O
+2	实验	实验	VERB	VV	_	4	acl:relcl	_	start_char=39|end_char=41|ner=O
+3	的	的	PART	DEC	_	2	mark:rel	_	start_char=41|end_char=42|ner=O
+4	结果	结果	NOUN	NN	_	1	obj	_	start_char=42|end_char=44|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	start_char=44|end_char=45|ner=O
+
+1	吃	吃	VERB	VV	_	0	root	_	start_char=47|end_char=48|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=48|end_char=49|ner=O
+3	游客	游客	NOUN	NN	_	1	obj	_	start_char=49|end_char=51|ner=O
+4	的	的	PART	DEC	_	1	mark:rel	_	start_char=51|end_char=52|ner=O
+5	鳄鱼	鳄鱼	NOUN	NN	_	1	obj	_	start_char=52|end_char=54|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=54|end_char=55|ner=O
+
+1	吃了	吃了	VERB	VV	_	4	acl:relcl	_	start_char=57|end_char=59|ner=O
+2	游客	游客	NOUN	NN	_	1	obj	_	start_char=59|end_char=61|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=61|end_char=62|ner=O
+4	水果	水果	NOUN	NN	_	0	root	_	start_char=62|end_char=64|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	start_char=64|end_char=65|ner=O
+
+1	切西瓜	切西瓜	PROPN	NNP	_	3	nmod	_	start_char=67|end_char=70|ner=O
+2	的	的	PART	DEC	Case=Gen	1	case	_	start_char=70|end_char=71|ner=O
+3	刀	刀	NOUN	NN	_	0	root	_	start_char=71|end_char=72|ner=O
+4	。	。	PUNCT	.	_	3	punct	_	start_char=72|end_char=73|ner=O
+
+1	削	削	VERB	VV	_	4	acl:relcl	_	start_char=75|end_char=76|ner=O
+2	西瓜	西瓜	NOUN	NN	_	1	obj	_	start_char=76|end_char=78|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=78|end_char=79|ner=O
+4	皮	皮	NOUN	NN	_	0	root	_	start_char=79|end_char=80|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	start_char=80|end_char=81|ner=O
+
+1	消除	消除	VERB	VV	_	0	root	_	start_char=83|end_char=85|ner=O
+2	健身	健身	VERB	VV	_	4	acl:relcl	_	start_char=85|end_char=87|ner=O
+3	的	的	PART	DEC	_	2	mark:rel	_	start_char=87|end_char=88|ner=O
+4	疲劳	疲劳	NOUN	NN	_	1	obj	_	start_char=88|end_char=90|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	start_char=90|end_char=91|ner=O
+
+1	停止	停止	VERB	VV	_	0	root	_	start_char=93|end_char=95|ner=O
+2	健身	健身	VERB	VV	_	4	acl:relcl	_	start_char=95|end_char=97|ner=O
+3	的	的	PART	DEC	_	2	mark:rel	_	start_char=97|end_char=98|ner=O
+4	后果	后果	NOUN	NN	_	1	obj	_	start_char=98|end_char=100|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	start_char=100|end_char=101|ner=O
+
+1	杀	杀	VERB	VV	_	0	root	_	start_char=103|end_char=104|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=104|end_char=105|ner=O
+3	房东	房东	NOUN	NN	_	5	nmod	_	start_char=105|end_char=107|ner=O
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=107|end_char=108|ner=O
+5	猫	猫	NOUN	NN	_	1	obj	_	start_char=108|end_char=109|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=109|end_char=110|ner=O
+
+1	杀	杀	VERB	VV	_	0	root	_	start_char=112|end_char=113|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=113|end_char=114|ner=O
+3	房东	房东	NOUN	NN	_	5	nmod	_	start_char=114|end_char=116|ner=O
+4	的	的	PART	DEC	Case=Gen	3	case	_	start_char=116|end_char=117|ner=O
+5	杀手	杀手	NOUN	NN	_	1	obj	_	start_char=117|end_char=119|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=119|end_char=120|ner=O
+
+1	装修	装修	VERB	VV	_	4	acl:relcl	_	start_char=122|end_char=124|ner=O
+2	房子	房子	NOUN	NN	_	1	obj	_	start_char=124|end_char=126|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=126|end_char=127|ner=O
+4	人员	人员	NOUN	NN	_	0	root	_	start_char=127|end_char=129|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	start_char=129|end_char=130|ner=O
+
+1	装修	装修	VERB	VV	_	4	acl:relcl	_	start_char=132|end_char=134|ner=O
+2	房子	房子	NOUN	NN	_	1	obj	_	start_char=134|end_char=136|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=136|end_char=137|ner=O
+4	房间	房间	NOUN	NN	_	0	root	_	start_char=137|end_char=139|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	start_char=139|end_char=140|ner=O
+
+1	研究	研究	VERB	VV	_	0	root	_	start_char=142|end_char=144|ner=O
+2	代码	代码	NOUN	NN	_	4	nmod	_	start_char=144|end_char=146|ner=O
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=146|end_char=147|ner=O
+4	架构	架构	NOUN	NN	_	1	obj	_	start_char=147|end_char=149|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	start_char=149|end_char=150|ner=O
+
+1	研究	研究	VERB	VV	_	5	acl:relcl	_	start_char=152|end_char=154|ner=O
+2	代码	代码	NOUN	NN	_	1	obj	_	start_char=154|end_char=156|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=156|end_char=157|ner=O
+4	架构	架构	VERB	VV	_	5	compound	_	start_char=157|end_char=159|ner=O
+5	师	师	PART	SFN	_	0	root	_	start_char=159|end_char=160|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	start_char=160|end_char=161|ner=O
+
+1	打击	打击	VERB	VV	_	5	acl:relcl	_	start_char=163|end_char=165|ner=O
+2	经济	经济	NOUN	NN	_	3	nmod	_	start_char=165|end_char=167|ner=O
+3	犯罪	犯罪	NOUN	NN	_	1	obj	_	start_char=167|end_char=169|ner=O
+4	的	的	PART	DEC	_	1	mark:rel	_	start_char=169|end_char=170|ner=O
+5	团伙	团伙	NOUN	NN	_	0	root	_	start_char=170|end_char=172|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	start_char=172|end_char=173|ner=O
+
+1	打击	打击	VERB	VV	_	5	acl:relcl	_	start_char=175|end_char=177|ner=O
+2	经济	经济	NOUN	NN	_	3	nmod	_	start_char=177|end_char=179|ner=O
+3	犯罪	犯罪	NOUN	NN	_	1	obj	_	start_char=179|end_char=181|ner=O
+4	的	的	PART	DEC	_	1	mark:rel	_	start_char=181|end_char=182|ner=O
+5	警察	警察	NOUN	NN	_	0	root	_	start_char=182|end_char=184|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	start_char=184|end_char=185|ner=O
+
+1	吃	吃	VERB	VV	_	4	acl:relcl	_	start_char=187|end_char=188|ner=O
+2	食物	食物	NOUN	NN	_	1	obj	_	start_char=188|end_char=190|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=190|end_char=191|ner=O
+4	仓鼠	仓鼠	NOUN	NN	_	0	root	_	start_char=191|end_char=193|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	start_char=193|end_char=194|ner=O
+
+1	养	养	VERB	VV	_	4	acl:relcl	_	start_char=196|end_char=197|ner=O
+2	灰色	灰色	NOUN	NN	_	1	obj	_	start_char=197|end_char=199|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=199|end_char=200|ner=O
+4	仓鼠	仓鼠	NOUN	NN	_	0	root	_	start_char=200|end_char=202|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	start_char=202|end_char=203|ner=O
+
+1	改变	改变	VERB	VV	_	4	acl:relcl	_	start_char=205|end_char=207|ner=O
+2	世界	世界	NOUN	NN	_	1	obj	_	start_char=207|end_char=209|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=209|end_char=210|ner=O
+4	伟人	伟人	NOUN	NN	_	0	root	_	start_char=210|end_char=212|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	start_char=212|end_char=213|ner=O
+
+1	改变	改变	VERB	VV	_	4	acl:relcl	_	start_char=215|end_char=217|ner=O
+2	世界	世界	NOUN	NN	_	1	obj	_	start_char=217|end_char=219|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=219|end_char=220|ner=O
+4	格局	格局	NOUN	NN	_	0	root	_	start_char=220|end_char=222|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	start_char=222|end_char=223|ner=O
+
+1	调查	调查	VERB	VV	_	4	acl:relcl	_	start_char=225|end_char=227|ner=O
+2	事故	事故	NOUN	NN	_	1	obj	_	start_char=227|end_char=229|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=229|end_char=230|ner=O
+4	交警	交警	NOUN	NN	_	0	root	_	start_char=230|end_char=232|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	start_char=232|end_char=233|ner=O
+
+1	调查	调查	VERB	VV	_	0	root	_	start_char=235|end_char=237|ner=O
+2	事故	事故	NOUN	NN	_	4	nmod	_	start_char=237|end_char=239|ner=O
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=239|end_char=240|ner=O
+4	起因	起因	NOUN	NN	_	1	obj	_	start_char=240|end_char=242|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	start_char=242|end_char=243|ner=O
+
+1	喜欢	喜欢	VERB	VV	_	0	root	_	start_char=245|end_char=247|ner=O
+2	旅行	旅行	VERB	VV	_	4	acl:relcl	_	start_char=247|end_char=249|ner=O
+3	的	的	PART	DEC	_	2	mark:rel	_	start_char=249|end_char=250|ner=O
+4	过程	过程	NOUN	NN	_	1	obj	_	start_char=250|end_char=252|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	start_char=252|end_char=253|ner=O
+
+1	喜欢	喜欢	VERB	VV	_	0	root	_	start_char=255|end_char=257|ner=O
+2	旅行	旅行	VERB	VV	_	4	acl:relcl	_	start_char=257|end_char=259|ner=O
+3	的	的	PART	DEC	_	2	mark:rel	_	start_char=259|end_char=260|ner=O
+4	人们	人	NOUN	NN	Number=Plur	1	obj	_	start_char=260|end_char=262|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	start_char=262|end_char=263|ner=O
+
+1	演奏	演奏	VERB	VV	_	2	amod	_	start_char=265|end_char=267|ner=O
+2	乐曲	乐曲	NOUN	NN	_	5	nmod	_	start_char=267|end_char=269|ner=O
+3	的	的	PART	DEC	Case=Gen	2	case	_	start_char=269|end_char=270|ner=O
+4	高潮	高潮	NOUN	NN	_	5	nmod	_	start_char=270|end_char=272|ner=O
+5	部分	部分	NOUN	NN	_	0	root	_	start_char=272|end_char=274|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=274|end_char=275|ner=O
+
+1	演奏	演奏	VERB	VV	_	5	acl:relcl	_	start_char=277|end_char=279|ner=O
+2	乐曲	乐曲	NOUN	NN	_	1	obj	_	start_char=279|end_char=281|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=281|end_char=282|ner=O
+4	钢琴	钢琴	NOUN	NN	_	5	compound	_	start_char=282|end_char=284|ner=O
+5	家	家	PART	SFN	_	0	root	_	start_char=284|end_char=285|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	start_char=285|end_char=286|ner=O
+
+1	计算	计算	VERB	VV	_	4	acl:relcl	_	start_char=288|end_char=290|ner=O
+2	工资	工资	NOUN	NN	_	1	obj	_	start_char=290|end_char=292|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=292|end_char=293|ner=O
+4	总数	总数	NOUN	NN	_	0	root	_	start_char=293|end_char=295|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	start_char=295|end_char=296|ner=O
+
+1	计算	计算	VERB	VV	_	4	acl:relcl	_	start_char=298|end_char=300|ner=O
+2	工资	工资	NOUN	NN	_	1	obj	_	start_char=300|end_char=302|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=302|end_char=303|ner=O
+4	会计	会计	NOUN	NN	_	0	root	_	start_char=303|end_char=305|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	start_char=305|end_char=306|ner=O
+
+1	卖	卖	VERB	VV	_	5	acl:relcl	_	start_char=308|end_char=309|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=309|end_char=310|ner=O
+3	猎人	猎人	NOUN	NN	_	1	obj	_	start_char=310|end_char=312|ner=O
+4	的	的	PART	DEC	_	1	mark:rel	_	start_char=312|end_char=313|ner=O
+5	狗	狗	NOUN	NN	_	0	root	_	start_char=313|end_char=314|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=314|end_char=315|ner=O
+
+1	卖	卖	VERB	VV	_	5	acl:relcl	_	start_char=317|end_char=318|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=318|end_char=319|ner=O
+3	狗	狗	NOUN	NN	_	1	obj	_	start_char=319|end_char=320|ner=O
+4	的	的	PART	DEC	_	1	mark:rel	_	start_char=320|end_char=321|ner=O
+5	猎人	猎人	NOUN	NN	_	0	root	_	start_char=321|end_char=323|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=323|end_char=324|ner=O
+
+1	援助	援助	VERB	VV	_	6	acl:relcl	_	start_char=326|end_char=328|ner=O
+2	偏远	偏远	NOUN	NN	_	3	nmod	_	start_char=328|end_char=330|ner=O
+3	地区	地区	NOUN	NN	_	1	obj	_	start_char=330|end_char=332|ner=O
+4	的	的	PART	DEC	_	1	mark:rel	_	start_char=332|end_char=333|ner=O
+5	留守	留守	NOUN	NN	_	6	nmod	_	start_char=333|end_char=335|ner=O
+6	儿童	儿童	NOUN	NN	_	0	root	_	start_char=335|end_char=337|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	start_char=337|end_char=338|ner=O
+
+1	援助	援助	VERB	VV	_	6	acl:relcl	_	start_char=340|end_char=342|ner=O
+2	偏远	偏远	NOUN	NN	_	3	nmod	_	start_char=342|end_char=344|ner=O
+3	地区	地区	NOUN	NN	_	1	obj	_	start_char=344|end_char=346|ner=O
+4	的	的	PART	DEC	_	1	mark:rel	_	start_char=346|end_char=347|ner=O
+5	志愿	志愿	VERB	VV	_	6	compound	_	start_char=347|end_char=349|ner=O
+6	者	者	PART	SFN	_	0	root	_	start_char=349|end_char=350|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	start_char=350|end_char=351|ner=O
+
+1	击中	击中	VERB	VV	_	5	acl:relcl	_	start_char=353|end_char=355|ner=O
+2	靶子	靶子	NOUN	NN	_	1	obj	_	start_char=355|end_char=357|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=357|end_char=358|ner=O
+4	十	十	NUM	CD	NumType=Card	5	nummod	_	start_char=358|end_char=359|ner=S-CARDINAL
+5	环	环	NOUN	NN	_	0	root	_	start_char=359|end_char=360|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	start_char=360|end_char=361|ner=O
+
+1	击中	击中	VERB	VV	_	4	acl:relcl	_	start_char=363|end_char=365|ner=O
+2	靶子	靶子	NOUN	NN	_	1	obj	_	start_char=365|end_char=367|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=367|end_char=368|ner=O
+4	射手	射手	NOUN	NN	_	0	root	_	start_char=368|end_char=370|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	start_char=370|end_char=371|ner=O
+
+1	检查	检查	VERB	VV	_	4	acl:relcl	_	start_char=373|end_char=375|ner=O
+2	枪支	枪支	NOUN	NN	_	1	obj	_	start_char=375|end_char=377|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=377|end_char=378|ner=O
+4	子弹	子弹	NOUN	NN	_	0	root	_	start_char=378|end_char=380|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	start_char=380|end_char=381|ner=O
+
+1	检查	检查	VERB	VV	_	2	compound	_	start_char=383|end_char=385|ner=O
+2	枪	枪	PART	SFN	_	3	compound	_	start_char=385|end_char=386|ner=O
+3	支	支	PART	SFN	_	5	acl:relcl	_	start_char=386|end_char=387|ner=O
+4	的	的	PART	DEC	_	3	mark:rel	_	start_char=387|end_char=388|ner=O
+5	警察	警察	NOUN	NN	_	0	root	_	start_char=388|end_char=390|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	start_char=390|end_char=391|ner=O
+
+1	学习	学习	VERB	VV	_	4	acl:relcl	_	start_char=393|end_char=395|ner=O
+2	课本	课本	NOUN	NN	_	1	obj	_	start_char=395|end_char=397|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=397|end_char=398|ner=O
+4	文章	文章	NOUN	NN	_	0	root	_	start_char=398|end_char=400|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	start_char=400|end_char=401|ner=O
+
+1	学习	学习	VERB	VV	_	4	acl:relcl	_	start_char=403|end_char=405|ner=O
+2	课本	课本	NOUN	NN	_	1	obj	_	start_char=405|end_char=407|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	start_char=407|end_char=408|ner=O
+4	学生	学生	NOUN	NN	_	0	root	_	start_char=408|end_char=410|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	start_char=410|end_char=411|ner=O
+

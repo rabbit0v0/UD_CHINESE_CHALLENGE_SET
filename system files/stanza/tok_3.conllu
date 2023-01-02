@@ -1,0 +1,146 @@
+1	写	写	VERB	VV	_	0	root	_	start_char=0|end_char=1|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=2|end_char=3|ner=O
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	start_char=4|end_char=5|ner=S-CARDINAL
+4	道	道	NOUN	NNB	_	5	clf	_	start_char=6|end_char=7|ner=O
+5	题	题	NOUN	NN	_	1	obj	_	start_char=8|end_char=9|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=10|end_char=11|ner=O
+
+1	写	写	VERB	VV	_	0	root	_	start_char=12|end_char=13|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=14|end_char=15|ner=O
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	start_char=16|end_char=17|ner=B-TIME
+4	分钟	分钟	NOUN	NNB	_	5	clf	_	start_char=18|end_char=20|ner=E-TIME
+5	题	题	NOUN	NN	_	1	obj	_	start_char=21|end_char=22|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=23|end_char=24|ner=O
+
+1	挑选	挑选	VERB	VV	_	0	root	_	start_char=25|end_char=27|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=28|end_char=29|ner=O
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	start_char=30|end_char=31|ner=B-TIME
+4	小时	小时	NOUN	NNB	_	5	clf	_	start_char=32|end_char=34|ner=E-TIME
+5	木材	木材	NOUN	NN	_	1	obj	_	start_char=35|end_char=37|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=38|end_char=39|ner=O
+
+1	挑选	挑选	VERB	VV	_	0	root	_	start_char=40|end_char=42|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=43|end_char=44|ner=O
+3	千	千	NUM	CD	NumType=Card	4	nummod	_	start_char=45|end_char=46|ner=B-DATE
+4	年	年	NOUN	NNB	_	5	clf	_	start_char=47|end_char=48|ner=E-DATE
+5	木材	木材	NOUN	NN	_	1	obj	_	start_char=49|end_char=51|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=52|end_char=53|ner=O
+
+1	讲	讲	VERB	VV	_	0	root	_	start_char=54|end_char=55|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=56|end_char=57|ner=O
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	start_char=58|end_char=59|ner=B-TIME
+4	小时	小时	NOUN	NNB	_	5	clf	_	start_char=60|end_char=62|ner=E-TIME
+5	历史	历史	NOUN	NN	_	1	obj	_	start_char=63|end_char=65|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=66|end_char=67|ner=O
+
+1	讲	讲	VERB	VV	_	0	root	_	start_char=68|end_char=69|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=70|end_char=71|ner=O
+3	五千	五千	NUM	CD	NumType=Card	4	nummod	_	start_char=72|end_char=74|ner=B-DATE
+4	年	年	NOUN	NNB	_	5	clf	_	start_char=75|end_char=76|ner=E-DATE
+5	历史	历史	NOUN	NN	_	1	obj	_	start_char=77|end_char=79|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=80|end_char=81|ner=O
+
+1	画	画	VERB	VV	_	0	root	_	start_char=82|end_char=83|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=84|end_char=85|ner=O
+3	三	三	NUM	CD	NumType=Card	4	nummod	_	start_char=86|end_char=87|ner=B-TIME
+4	分钟	分钟	NOUN	NNB	_	5	clf	_	start_char=88|end_char=90|ner=E-TIME
+5	画	画	NOUN	NN	_	1	obj	_	start_char=91|end_char=92|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=93|end_char=94|ner=O
+
+1	画	画	VERB	VV	_	0	root	_	start_char=95|end_char=96|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=97|end_char=98|ner=O
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	start_char=99|end_char=100|ner=S-CARDINAL
+4	幅	幅	NOUN	NNB	_	5	clf	_	start_char=101|end_char=102|ner=O
+5	画	画	NOUN	NN	_	1	obj	_	start_char=103|end_char=104|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=105|end_char=106|ner=O
+
+1	参观	参观	VERB	VV	_	0	root	_	start_char=107|end_char=109|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=110|end_char=111|ner=O
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	start_char=112|end_char=113|ner=B-TIME
+4	小时	小时	NOUN	NNB	_	5	clf	_	start_char=114|end_char=116|ner=E-TIME
+5	建筑	建筑	NOUN	NN	_	1	obj	_	start_char=117|end_char=119|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=120|end_char=121|ner=O
+
+1	参观	参观	VERB	VV	_	0	root	_	start_char=122|end_char=124|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=125|end_char=126|ner=O
+3	百	百	NUM	CD	NumType=Card	4	nummod	_	start_char=127|end_char=128|ner=B-DATE
+4	年	年	NOUN	NNB	_	5	clf	_	start_char=129|end_char=130|ner=E-DATE
+5	建筑	建筑	NOUN	NN	_	1	obj	_	start_char=131|end_char=133|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=134|end_char=135|ner=O
+
+1	写	写	VERB	VV	_	0	root	_	start_char=136|end_char=137|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=138|end_char=139|ner=O
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	start_char=140|end_char=141|ner=S-CARDINAL
+4	张	张	NOUN	NNB	_	5	clf	_	start_char=142|end_char=143|ner=O
+5	字帖	字帖	NOUN	NN	_	1	obj	_	start_char=144|end_char=146|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=147|end_char=148|ner=O
+
+1	写	写	VERB	VV	_	0	root	_	start_char=149|end_char=150|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=151|end_char=152|ner=O
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	start_char=153|end_char=154|ner=B-DATE
+4	天	天	NOUN	NNB	_	5	clf	_	start_char=155|end_char=156|ner=E-DATE
+5	字帖	字帖	NOUN	NN	_	1	obj	_	start_char=157|end_char=159|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=160|end_char=161|ner=O
+
+1	学习	学习	VERB	VV	_	0	root	_	start_char=162|end_char=164|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=165|end_char=166|ner=O
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	start_char=167|end_char=168|ner=B-TIME
+4	小时	小时	NOUN	NNB	_	6	clf	_	start_char=169|end_char=171|ner=E-TIME
+5	外语	外语	NOUN	NN	_	6	nmod	_	start_char=172|end_char=174|ner=O
+6	课程	课程	NOUN	NN	_	1	obj	_	start_char=175|end_char=177|ner=O
+7	。	。	PUNCT	.	_	1	punct	_	start_char=178|end_char=179|ner=O
+
+1	学习	学习	VERB	VV	_	0	root	_	start_char=180|end_char=182|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=183|end_char=184|ner=O
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	start_char=185|end_char=186|ner=S-CARDINAL
+4	门	门	NOUN	NNB	_	6	clf	_	start_char=187|end_char=188|ner=O
+5	外语	外语	NOUN	NN	_	6	nmod	_	start_char=189|end_char=191|ner=O
+6	课程	课程	NOUN	NN	_	1	obj	_	start_char=192|end_char=194|ner=O
+7	。	。	PUNCT	.	_	1	punct	_	start_char=195|end_char=196|ner=O
+
+1	欣赏	欣赏	VERB	VV	_	0	root	_	start_char=197|end_char=199|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=200|end_char=201|ner=O
+3	几	几	NUM	CD	NumType=Card	4	nummod	_	start_char=202|end_char=203|ner=B-TIME
+4	小时	小时	NOUN	NNB	_	5	clf	_	start_char=204|end_char=206|ner=E-TIME
+5	村落	村落	NOUN	NN	_	1	obj	_	start_char=207|end_char=209|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=210|end_char=211|ner=O
+
+1	欣赏	欣赏	VERB	VV	_	0	root	_	start_char=212|end_char=214|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=215|end_char=216|ner=O
+3	几百	几百	NUM	CD	NumType=Card	4	nummod	_	start_char=217|end_char=219|ner=B-DATE
+4	年	年	NOUN	NNB	_	7	nmod	_	start_char=220|end_char=221|ner=I-DATE
+5	前	前	ADP	IN	_	4	acl	_	start_char=222|end_char=223|ner=E-DATE
+6	的	的	PART	DEC	Case=Gen	4	case	_	start_char=224|end_char=225|ner=O
+7	村落	村落	NOUN	NN	_	1	obj	_	start_char=226|end_char=228|ner=O
+8	。	。	PUNCT	.	_	1	punct	_	start_char=229|end_char=230|ner=O
+
+1	弹奏	弹奏	VERB	VV	_	0	root	_	start_char=231|end_char=233|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=234|end_char=235|ner=O
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	start_char=236|end_char=237|ner=O
+4	首	首	NOUN	NNB	_	5	clf	_	start_char=238|end_char=239|ner=O
+5	曲子	曲子	NOUN	NN	_	1	obj	_	start_char=240|end_char=242|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=243|end_char=244|ner=O
+
+1	弹奏	弹奏	VERB	VV	_	0	root	_	start_char=245|end_char=247|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	start_char=248|end_char=249|ner=O
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	start_char=250|end_char=251|ner=B-DATE
+4	天	天	NOUN	NNB	_	5	clf	_	start_char=252|end_char=253|ner=E-DATE
+5	曲子	曲子	NOUN	NN	_	1	obj	_	start_char=254|end_char=256|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	start_char=257|end_char=258|ner=O
+
+1	我	我	PRON	PRP	Person=1	2	nsubj	_	start_char=259|end_char=260|ner=O
+2	看	看	VERB	VV	_	0	root	_	start_char=261|end_char=262|ner=O
+3	了	了	AUX	AS	Aspect=Perf	2	aux	_	start_char=263|end_char=264|ner=O
+4	十	十	NUM	CD	NumType=Card	5	nummod	_	start_char=265|end_char=266|ner=B-DATE
+5	天	天	NOUN	NNB	_	6	clf	_	start_char=267|end_char=268|ner=E-DATE
+6	报纸	报纸	NOUN	NN	_	2	obj	_	start_char=269|end_char=271|ner=O
+7	。	。	PUNCT	.	_	2	punct	_	start_char=272|end_char=273|ner=O
+
+1	我	我	PRON	PRP	Person=1	2	nsubj	_	start_char=274|end_char=275|ner=O
+2	看	看	VERB	VV	_	0	root	_	start_char=276|end_char=277|ner=O
+3	了	了	AUX	AS	Aspect=Perf	2	aux	_	start_char=278|end_char=279|ner=O
+4	十	十	NUM	CD	NumType=Card	5	nummod	_	start_char=280|end_char=281|ner=S-CARDINAL
+5	份	份	NOUN	NNB	_	6	clf	_	start_char=282|end_char=283|ner=O
+6	报纸	报纸	NOUN	NN	_	2	obj	_	start_char=284|end_char=286|ner=O
+7	。	。	PUNCT	.	_	2	punct	_	start_char=287|end_char=288|ner=O
+
