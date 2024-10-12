@@ -1,0 +1,499 @@
+# sent_id = 
+# text = 三块河里的石头。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	块	块	NOUN	_	_	6	clf	_	_
+3	河	河	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	石头	石头	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = 四篇报纸上的文章。
+1	四	四	NUM	_	_	2	nummod	_	_
+2	篇	篇	NOUN	_	_	6	clf	_	_
+3	报纸	报纸	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	文章	文章	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = 两匹草地上的马。
+1	两	两	NUM	_	_	2	nummod	_	_
+2	匹	匹	NOUN	_	_	6	clf	_	_
+3	草地	草地	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	马	马	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = 三节车里的电池。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	节	节	NOUN	_	_	6	clf	_	_
+3	车	车	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	电池	电池	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 一束瓶子里的花。
+1	一	一	NUM	_	_	2	nummod	_	_
+2	束	束	NOUN	_	_	6	clf	_	_
+3	瓶子	瓶子	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	花	花	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 三位寺庙里的和尚。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	位	位	NOUN	_	_	6	clf	_	_
+3	寺庙	寺庙	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	和尚	和尚	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = 八枚钱包里的硬币。
+1	八	八	NUM	_	_	2	nummod	_	_
+2	枚	枚	NOUN	_	_	6	clf	_	_
+3	钱包	钱包	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	硬币	硬币	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = 七朵盆栽里的鲜花。
+1	七	七	NUM	_	_	2	nummod	_	_
+2	朵	朵	NOUN	_	_	6	clf	_	_
+3	盆栽	盆栽	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	鲜花	鲜花	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 五位楼里的技工。
+1	五	五	NUM	_	_	2	nummod	_	_
+2	位	位	NOUN	_	_	6	clf	_	_
+3	楼	楼	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	技工	技工	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = 六把房间里的椅子。
+1	六	六	NUM	_	_	2	nummod	_	_
+2	把	把	NOUN	_	_	6	clf	_	_
+3	房间	房间	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	椅子	椅子	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = 两张票夹里的门票。
+1	两	两	NUM	_	_	2	nummod	_	_
+2	张	张	NOUN	_	_	6	clf	_	_
+3	票夹	票夹	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	门票	门票	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = 五双抽屉里的袜子。
+1	五	五	NUM	_	_	2	nummod	_	_
+2	双	双	NOUN	_	_	6	clf	_	_
+3	抽屉	抽屉	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	袜子	袜子	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = 四颗瓶子中的药丸。
+1	四	四	NUM	_	_	2	nummod	_	_
+2	颗	颗	NOUN	_	_	6	clf	_	_
+3	瓶子	瓶子	NOUN	_	_	6	nmod	_	_
+4	中	中	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	药丸	药丸	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = 六个树上的核桃。
+1	六	六	NUM	_	_	2	nummod	_	_
+2	个	个	NOUN	_	_	6	clf	_	_
+3	树	树	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	核桃	核桃	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = 几本书架上的日记。
+1	几	几	NUM	_	_	2	nummod	_	_
+2	本	本	NOUN	_	_	6	clf	_	_
+3	书架	书架	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	日记	日记	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = 几支笔筒里的铅笔。
+1	几	几	NUM	_	_	2	nummod	_	_
+2	支	支	NOUN	_	_	6	clf	_	_
+3	笔筒	笔筒	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	铅笔	铅笔	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = 三头棚子里的牛。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	头	头	NOUN	_	_	6	clf	_	_
+3	棚子	棚子	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	牛	牛	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = 四颗嘴里的牙齿。
+1	四	四	NUM	_	_	2	nummod	_	_
+2	颗	颗	NOUN	_	_	6	clf	_	_
+3	嘴	嘴	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	牙齿	牙齿	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id =
+# text = 七粒沙漠里的沙。
+1	七	七	NUM	_	_	2	nummod	_	_
+2	粒	粒	NOUN	_	_	6	clf	_	_
+3	沙漠	沙漠	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	沙	沙	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 九瓶盒子里的香水。
+1	九	九	NUM	_	_	2	nummod	_	_
+2	瓶	瓶	NOUN	_	_	6	clf	_	_
+3	盒子	盒子	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	香水	香水	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 四片罐子里的薯片。
+1	四	四	NUM	_	_	2	nummod	_	_
+2	片	片	NOUN	_	_	6	clf	_	_
+3	罐子	罐子	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	薯片	薯片	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 一滴勺子里的油。
+1	一	一	NUM	_	_	2	nummod	_	_
+2	滴	滴	NOUN	_	_	6	clf	_	_
+3	勺子	勺子	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	油	油	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 两包手里的零食。
+1	两	两	NUM	_	_	2	nummod	_	_
+2	包	包	NOUN	_	_	6	clf	_	_
+3	手	手	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	零食	零食	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 八只山上的鸟。
+1	八	八	NUM	_	_	2	nummod	_	_
+2	只	只	NOUN	_	_	6	clf	_	_
+3	山	山	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	鸟	鸟	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 五只洞穴里的蝙蝠。
+1	五	五	NUM	_	_	2	nummod	_	_
+2	只	只	NOUN	_	_	6	clf	_	_
+3	洞穴	洞穴	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	蝙蝠	蝙蝠	NOUN	_	_	0	root	_	_
+
+# sent_id = 
+# text = 一团灯下的阴影。
+1	一	一	NUM	_	_	2	nummod	_	_
+2	团	团	NOUN	_	_	6	clf	_	_
+3	灯	灯	NOUN	_	_	6	nmod	_	_
+4	下	下	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	阴影	阴影	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 九根头上的头发。
+1	九	九	NUM	_	_	2	nummod	_	_
+2	根	根	NOUN	_	_	6	clf	_	_
+3	头	头	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	头发	头发	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 三片树上的叶子。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	片	片	NOUN	_	_	6	clf	_	_
+3	树	树	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	叶子	叶子	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 六只池塘里的鸭子。
+1	六	六	NUM	_	_	2	nummod	_	_
+2	只	只	NOUN	_	_	6	clf	_	_
+3	池塘	池塘	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	鸭子	鸭子	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 七只桌子上的蚂蚁。
+1	七	七	NUM	_	_	2	nummod	_	_
+2	只	只	NOUN	_	_	6	clf	_	_
+3	桌子	桌子	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	蚂蚁	蚂蚁	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 五件衣柜里的衣服。
+1	五	五	NUM	_	_	2	nummod	_	_
+2	件	件	NOUN	_	_	6	clf	_	_
+3	衣柜	衣柜	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	衣服	衣服	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 四条店里的裙子。
+1	四	四	NUM	_	_	2	nummod	_	_
+2	条	条	NOUN	_	_	6	clf	_	_
+3	店	店	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	裙子	裙子	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 八张网站上的图片。
+1	八	八	NUM	_	_	2	nummod	_	_
+2	张	张	NOUN	_	_	6	clf	_	_
+3	网站	网站	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	图片	图片	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 三双照片里的鞋子。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	双	双	NOUN	_	_	6	clf	_	_
+3	照片	照片	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	鞋子	鞋子	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 一个梦里的人。
+1	一	一	NUM	_	_	2	nummod	_	_
+2	个	个	NOUN	_	_	6	clf	_	_
+3	梦	梦	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	人	人	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 七棵院子里的草。
+1	七	七	NUM	_	_	2	nummod	_	_
+2	棵	棵	NOUN	_	_	6	clf	_	_
+3	院子	院子	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	草	草	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 几只冰箱里的虾。
+1	几	几	NUM	_	_	2	nummod	_	_
+2	只	只	NOUN	_	_	6	clf	_	_
+3	冰箱	冰箱	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	虾	虾	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 一群飞机上的人。
+1	一	一	NUM	_	_	2	nummod	_	_
+2	群	群	NOUN	_	_	6	clf	_	_
+3	飞机	飞机	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	人	人	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 一伙学校里的学生。
+1	一	一	NUM	_	_	2	nummod	_	_
+2	伙	伙	NOUN	_	_	6	clf	_	_
+3	学校	学校	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	学生	学生	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 八块地窖里的砖。
+1	八	八	NUM	_	_	2	nummod	_	_
+2	块	块	NOUN	_	_	6	clf	_	_
+3	地窖	地窖	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	砖	砖	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 七块山下的岩石。
+1	七	七	NUM	_	_	2	nummod	_	_
+2	块	块	NOUN	_	_	6	clf	_	_
+3	山	山	NOUN	_	_	6	nmod	_	_
+4	下	下	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	岩石	岩石	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 六捆仓库里的干草。
+1	六	六	NUM	_	_	2	nummod	_	_
+2	捆	捆	NOUN	_	_	6	clf	_	_
+3	仓库	仓库	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	干草	干草	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 三份实验后的记录。
+1	三	三	NUM	_	_	2	nummod	_	_
+2	份	份	NOUN	_	_	6	clf	_	_
+3	实验	实验	NOUN	_	_	6	nmod	_	_
+4	后	后	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	记录	记录	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 八根田地里的麦秆。
+1	八	八	NUM	_	_	2	nummod	_	_
+2	根	根	NOUN	_	_	6	clf	_	_
+3	田地	田地	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	麦秆	麦秆	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 五束花园里的鲜花。
+1	五	五	NUM	_	_	2	nummod	_	_
+2	束	束	NOUN	_	_	6	clf	_	_
+3	花园	花园	NOUN	_	_	6	nmod	_	_
+4	里	里	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	鲜花	鲜花	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 一首列表上的歌曲。
+1	一	一	NUM	_	_	2	nummod	_	_
+2	首	首	NOUN	_	_	6	clf	_	_
+3	列表	列表	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	歌曲	歌曲	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 两个曲谱上的音符。
+1	两	两	NUM	_	_	2	nummod	_	_
+2	个	个	NOUN	_	_	6	clf	_	_
+3	曲谱	曲谱	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	音符	音符	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 一张脚下的白纸。
+1	一	一	NUM	_	_	2	nummod	_	_
+2	张	张	NOUN	_	_	6	clf	_	_
+3	脚	脚	NOUN	_	_	6	nmod	_	_
+4	下	下	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	白纸	白纸	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 几根脑袋上的毛发。
+1	几	几	NUM	_	_	2	nummod	_	_
+2	根	根	NOUN	_	_	6	clf	_	_
+3	脑袋	脑袋	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	毛发	毛发	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 
+# text = 四顶架子上的帽子。
+1	四	四	NUM	_	_	2	nummod	_	_
+2	顶	顶	NOUN	_	_	6	clf	_	_
+3	架子	架子	NOUN	_	_	6	nmod	_	_
+4	上	上	ADP	_	_	3	acl	_	_
+5	的	的	PART	_	_	3	case	_	_
+6	帽子	帽子	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
+

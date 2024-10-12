@@ -1,0 +1,450 @@
+# sent_id =
+# text = 写了五分钟题。
+1	写	写	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	题	题	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 说了两分钟话。
+1	说	说	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	两	两	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	话	话	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 做了四分钟瑜伽。
+1	做	做	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	四	四	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	瑜伽	瑜伽	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 画了三分钟画。
+1	画	画	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	三	三	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	画	画	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 讲了一小时课。
+1	讲	讲	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	课	课	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 写了六天字帖。
+1	写	写	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	六	六	NUM	_	_	4	nummod	_	_
+4	天	天	NOUN	_	_	1	obl	_	_
+5	字帖	字帖	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 学了五小时语言。
+1	学	学	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	语言	语言	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 听了一天音乐。
+1	听	听	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	天	天	NOUN	_	_	1	obl	_	_
+5	音乐	音乐	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 弹奏了一天曲子。
+1	弹奏	弹奏	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	天	天	NOUN	_	_	1	obl	_	_
+5	曲子	曲子	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 看了十天报纸。
+1	看	看	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	十	十	NUM	_	_	4	nummod	_	_
+4	天	天	NOUN	_	_	1	obl	_	_
+5	报纸	报纸	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 做了一小时饭。
+1	做	做	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	饭	饭	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 开了一小时窗。
+1	开	开	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	窗	窗	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 玩了五分钟游戏。
+1	玩	玩	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	游戏	游戏	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 试了两小时衣服。
+1	试	试	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	两	两	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	衣服	衣服	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 跳了十年舞。
+1	跳	跳	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	十	十	NUM	_	_	4	nummod	_	_
+4	年	年	NOUN	_	_	1	obl	_	_
+5	舞	舞	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 看了两小时电影。
+1	看	看	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	两	两	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	电影	电影	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 读了一天报告。
+1	读	读	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	天	天	NOUN	_	_	1	obl	_	_
+5	报告	报告	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 举了一分钟手。
+1	举	举	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	手	手	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 做了五天手工。
+1	做	做	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	天	天	NOUN	_	_	1	obl	_	_
+5	手工	手工	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 抱了三分钟娃娃。
+1	抱	抱	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	三	三	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	娃娃	娃娃	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 写了七小时文章。
+1	写	写	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	七	七	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	文章	文章	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 炸了十分钟薯条。
+1	炸	炸	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	十	十	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	薯条	薯条	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 打了两分钟电话。
+1	打	打	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	两	两	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	电话	电话	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 打了三天工。
+1	打	打	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	三	三	NUM	_	_	4	nummod	_	_
+4	天	天	NOUN	_	_	1	obl	_	_
+5	工	工	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 做了一小时表格。
+1	做	做	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	表格	表格	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 拨了几秒琴弦。
+1	拨	拨	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	几	几	NUM	_	_	4	nummod	_	_
+4	秒	秒	NOUN	_	_	1	obl	_	_
+5	琴弦	琴弦	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 做了两小时手术。
+1	做	做	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	两	两	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	手术	手术	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 跑了六小时马拉松。
+1	跑	跑	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	六	六	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	马拉松	马拉松	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 开了九小时灯。
+1	开	开	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	九	九	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	灯	灯	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 曡了四分钟被子。
+1	曡	曡	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	四	四	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	被子	被子	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 走了五小时路。
+1	走	走	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	路	路	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 看了三小时小说。
+1	看	看	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	三	三	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	小说	小说	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 织了六小时毛衣。
+1	织	织	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	六	六	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	毛衣	毛衣	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 研究了两小时课题。
+1	研究	研究	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	两	两	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	课题	课题	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 做了四小时实验。
+1	做	做	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	四	四	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	实验	实验	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 打了七小时比赛。
+1	打	打	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	七	七	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	比赛	比赛	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 翻了十小时文献。
+1	翻	翻	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	十	十	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	文献	文献	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 逛了三小时街。
+1	逛	逛	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	三	三	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	街	街	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 追了五分钟罪犯。
+1	追	追	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	五	五	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	罪犯	罪犯	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 开了一小时车。
+1	开	开	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	车	车	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 看了七小时屏幕。
+1	看	看	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	七	七	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	屏幕	屏幕	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 造了三年房子。
+1	造	造	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	三	三	NUM	_	_	4	nummod	_	_
+4	年	年	NOUN	_	_	1	obl	_	_
+5	房子	房子	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 拍了八年电影。
+1	拍	拍	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	八	八	NUM	_	_	4	nummod	_	_
+4	年	年	NOUN	_	_	1	obl	_	_
+5	电影	电影	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 检查了三分钟仪器。
+1	检查	检查	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	三	三	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	仪器	仪器	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 按摩了两分钟腿。
+1	按摩	按摩	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	两	两	NUM	_	_	4	nummod	_	_
+4	分钟	分钟	NOUN	_	_	1	obl	_	_
+5	腿	腿	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 做了四小时饼干。
+1	做	做	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	四	四	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	饼干	饼干	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 欣赏了几小时花。
+1	欣赏	欣赏	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	几	几	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	花	花	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 喝了两小时酒。
+1	喝	喝	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	两	两	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	酒	酒	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 造了一年岛。
+1	造	造	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	一	一	NUM	_	_	4	nummod	_	_
+4	年	年	NOUN	_	_	1	obl	_	_
+5	岛	岛	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
+# sent_id =
+# text = 修了六小时吉他。
+1	修	修	VERB	_	_	0	root	_	_
+2	了	了	AUX	_	_	1	aux	_	_
+3	六	六	NUM	_	_	4	nummod	_	_
+4	小时	小时	NOUN	_	_	1	obl	_	_
+5	吉他	吉他	NOUN	_	_	1	obj	_	_
+6	。	。	PUNCT	_	_	1	punct	_	_
+
