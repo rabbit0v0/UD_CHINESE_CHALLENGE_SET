@@ -1,0 +1,404 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = chinese-gsdsimp-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = 咬狐狸的尾巴。
+1	咬	咬	VERB	VV	_	0	root	_	SpaceAfter=No
+2	狐狸	狐狸	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	尾巴	尾巴	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 2
+# text = 记录实验的结果。
+1	记录	记录	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	实验	实验	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	结果	结果	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 3
+# text = 吃游客的水果。
+1	吃	吃	VERB	VV	_	0	root	_	SpaceAfter=No
+2	游客	游客	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	水果	水果	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 4
+# text = 削西瓜的皮。
+1	削西	削西	VERB	VV	_	2	compound	_	SpaceAfter=No
+2	瓜	瓜	PART	SFN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	皮	皮	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 5
+# text = 摸房东的猫。
+1	摸房	摸房	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	东	东	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	1	mark:rel	_	SpaceAfter=No
+4	猫	猫	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 6
+# text = 看天空的星星。
+1	看	看	VERB	VV	_	0	root	_	SpaceAfter=No
+2	天空	天空	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	星星	星星	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 7
+# text = 装修房子的房间。
+1	装修	装修	VERB	VV	_	0	root	_	SpaceAfter=No
+2	房子	房子	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	房间	房间	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 8
+# text = 研究代码的架构。
+1	研究	研究	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	代码	代码	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	架构	架构	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 9
+# text = 打击犯罪的团伙。
+1	打击	打击	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	犯罪	犯罪	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
+4	团伙	团伙	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 10
+# text = 养灰色的仓鼠。
+1	养灰	养灰	NOUN	NN	_	2	compound	_	SpaceAfter=No
+2	色	色	PART	SFN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	仓鼠	仓鼠	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 11
+# text = 改变世界的格局。
+1	改变	改变	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	世界	世界	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的格	的格	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
+4	局	局	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 12
+# text = 调查事故的起因。
+1	调查	调查	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	事故	事故	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	起因	起因	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 13
+# text = 喜欢旅行的过程。
+1	喜欢	喜欢	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	旅行	旅行	VERB	VV	_	1	xcomp	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
+4	过程	过程	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 14
+# text = 演奏乐曲的高潮。
+1	演奏	演奏	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	乐曲	乐曲	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	高潮	高潮	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 15
+# text = 计算工资的总数。
+1	计算	计算	NOUN	NN	_	2	nmod	_	SpaceAfter=No
+2	工资	工资	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	总数	总数	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 16
+# text = 卖猎人的狗。
+1	卖猎	卖猎	VERB	VV	_	0	root	_	SpaceAfter=No
+2	人	人	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	狗	狗	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 17
+# text = 援助灾区的儿童。
+1	援助	援助	VERB	VV	_	0	root	_	SpaceAfter=No
+2	灾区	灾区	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	儿童	儿童	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 18
+# text = 击中靶子的中心。
+1	击中	击中	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	靶子	靶子	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
+4	中心	中心	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 19
+# text = 检查枪支的子弹。
+1	检查	检查	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	枪支	枪支	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
+4	子弹	子弹	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 20
+# text = 学习课本的文章。
+1	学习	学习	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	课本	课本	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
+4	文章	文章	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 21
+# text = 欣赏展馆的文物。
+1	欣赏	欣赏	NOUN	NN	_	0	root	_	SpaceAfter=No
+2	展馆	展馆	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	文物	文物	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 22
+# text = 闻气味的来源。
+1	闻	闻	VERB	VV	_	0	root	_	SpaceAfter=No
+2	气味	气味	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
+4	来源	来源	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 23
+# text = 摇尾巴的末梢。
+1	摇尾巴	摇尾巴	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
+3	末	末	PART	PFA	_	4	case	_	SpaceAfter=No
+4	梢	梢	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 24
+# text = 按门铃的按钮。
+1	按门	按门	NOUN	NN	_	2	compound	_	SpaceAfter=No
+2	铃	铃	PART	SFN	_	5	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	按	按	VERB	VV	_	5	compound	_	SpaceAfter=No
+5	钮	钮	PART	NN	_	0	root	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\r\n
+
+# sent_id = 25
+# text = 读报告的标题。
+1	读	读	VERB	VV	_	0	root	_	SpaceAfter=No
+2	报告	报告	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	标题	标题	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 26
+# text = 抬桌子的腿。
+1	抬	抬	VERB	VV	_	0	root	_	SpaceAfter=No
+2	桌子	桌子	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	腿	腿	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 27
+# text = 查单词的意思。
+1	查	查	DET	PFA	_	3	det	_	SpaceAfter=No
+2	单	单	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
+3	词	词	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No
+5	意思	意思	NOUN	NN	_	0	root	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\r\n
+
+# sent_id = 28
+# text = 享受夜晚的月光。
+1	享受	享受	VERB	VV	_	0	root	_	SpaceAfter=No
+2	夜晚	夜晚	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	月光	月光	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 29
+# text = 遮太阳的光芒。
+1	遮太阳	遮太阳	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
+3	光	光	NOUN	NN	_	4	compound	_	SpaceAfter=No
+4	芒	芒	PART	SFN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 30
+# text = 舔手指的伤口。
+1	舔	舔	VERB	VV	_	0	root	_	SpaceAfter=No
+2	手指	手指	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	伤口	伤口	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 31
+# text = 吃饼干的碎屑。
+1	吃	吃	VERB	VV	_	0	root	_	SpaceAfter=No
+2	饼干	饼干	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	的碎屑	的碎屑	NOUN	NN	_	1	obj	_	SpaceAfter=No
+4	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 32
+# text = 种蔬菜的种子。
+1	种	种	NOUN	NNB	_	2	nmod	_	SpaceAfter=No
+2	蔬菜	蔬菜	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	种子	种子	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 33
+# text = 踢足球的边缘。
+1	踢	踢	VERB	VV	_	0	root	_	SpaceAfter=No
+2	足球	足球	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	边缘	边缘	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 34
+# text = 放杯子的盖子。
+1	放	放	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	杯子	杯子	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
+4	盖子	盖子	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 35
+# text = 存食物的样本。
+1	存	存	VERB	VV	_	0	root	_	SpaceAfter=No
+2	食物	食物	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	样本	样本	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 36
+# text = 做蛋糕的胚子。
+1	做	做	VERB	VV	_	0	root	_	SpaceAfter=No
+2	蛋糕	蛋糕	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	胚子	胚子	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 37
+# text = 修汽车的轮胎。
+1	修	修	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	汽车	汽车	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
+4	轮胎	轮胎	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 38
+# text = 修眉毛的杂毛。
+1	修眉	修眉	VERB	VV	_	2	compound	_	SpaceAfter=No
+2	毛	毛	PART	SFN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	杂毛	杂毛	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 39
+# text = 听心跳的频率。
+1	听心	听心	VERB	VV	_	2	advcl	_	SpaceAfter=No
+2	跳	跳	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No
+4	频率	频率	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 40
+# text = 打开门的锁。
+1	打	打	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	开门	开门	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No
+4	锁	锁	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 41
+# text = 追风筝的影子。
+1	追风	追风	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	筝	筝	PART	SFN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
+4	影子	影子	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 42
+# text = 看海的波涛。
+1	看海	看海	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No
+2	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
+3	波涛	波涛	NOUN	NN	_	0	root	_	SpaceAfter=No
+4	。	。	PUNCT	.	_	3	punct	_	SpacesAfter=\r\n
+
+# sent_id = 43
+# text = 写信的结尾。
+1	写信	写信	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
+3	结尾	结尾	NOUN	NN	_	0	root	_	SpaceAfter=No
+4	。	。	PUNCT	.	_	3	punct	_	SpacesAfter=\r\n
+
+# sent_id = 44
+# text = 画树的叶子。
+1	画树	画树	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
+3	叶子	叶子	NOUN	NN	_	0	root	_	SpaceAfter=No
+4	。	。	PUNCT	.	_	3	punct	_	SpacesAfter=\r\n
+
+# sent_id = 45
+# text = 爬树的枝桠。
+1	爬树	爬树	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
+3	枝	枝	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
+4	桠	桠	VERB	VV	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 46
+# text = 观察昆虫的触角。
+1	观察	观察	VERB	VV	_	0	root	_	SpaceAfter=No
+2	昆虫	昆虫	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	触角	触角	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 47
+# text = 维护机器的零件。
+1	维护	维护	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
+2	机器	机器	NOUN	NN	_	1	obj	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
+4	零件	零件	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 48
+# text = 玩手机的游戏。
+1	玩手	玩手	NOUN	NN	_	2	compound	_	SpaceAfter=No
+2	机	机	PART	SFN	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	游戏	游戏	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 49
+# text = 查看邮件的标题。
+1	查	查	VERB	MD	_	2	nsubj	_	SpaceAfter=No
+2	看	看	VERB	VV	_	0	root	_	SpaceAfter=No
+3	邮件	邮件	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No
+5	标题	标题	NOUN	NN	_	2	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	2	punct	_	SpacesAfter=\r\n
+
+# sent_id = 50
+# text = 吃苹果的果肉。
+1	吃	吃	VERB	VV	_	0	root	_	SpaceAfter=No
+2	苹果	苹果	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
+4	果肉	果肉	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+

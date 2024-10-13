@@ -1,0 +1,347 @@
+1	写	写	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=0|end_char=1|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=1|end_char=2|ner=O
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=2|end_char=3|ner=S-CARDINAL
+4	道	道	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=3|end_char=4|ner=O
+5	题	题	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=4|end_char=5|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=5|end_char=6|ner=O
+
+1	说	说	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=8|end_char=9|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=9|end_char=10|ner=O
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=10|end_char=11|ner=S-CARDINAL
+4	句	句	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=11|end_char=12|ner=O
+5	话	话	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=12|end_char=13|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=13|end_char=14|ner=O
+
+1	做	做	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=16|end_char=17|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=17|end_char=18|ner=O
+3	四	四	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=18|end_char=19|ner=S-CARDINAL
+4	次	次	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=19|end_char=20|ner=O
+5	瑜伽	瑜伽	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=20|end_char=22|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=22|end_char=23|ner=O
+
+1	画	画	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=25|end_char=26|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=26|end_char=27|ner=O
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=27|end_char=28|ner=S-CARDINAL
+4	幅	幅	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=28|end_char=29|ner=O
+5	画	画	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=29|end_char=30|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=30|end_char=31|ner=O
+
+1	讲	讲	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=33|end_char=34|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=34|end_char=35|ner=O
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=35|end_char=36|ner=O
+4	节	节	NOUN	NN	_	5	compound	_	SpaceAfter=No|start_char=36|end_char=37|ner=O
+5	课	课	PART	SFN	_	1	obj	_	SpaceAfter=No|start_char=37|end_char=38|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=38|end_char=39|ner=O
+
+1	写	写	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=41|end_char=42|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=42|end_char=43|ner=O
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=43|end_char=44|ner=S-CARDINAL
+4	张	张	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=44|end_char=45|ner=O
+5	字帖	字帖	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=45|end_char=47|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=47|end_char=48|ner=O
+
+1	学	学	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=50|end_char=51|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=51|end_char=52|ner=O
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=52|end_char=53|ner=S-CARDINAL
+4	门	门	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=53|end_char=54|ner=O
+5	语言	语言	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=54|end_char=56|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=56|end_char=57|ner=O
+
+1	听	听	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=59|end_char=60|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=60|end_char=61|ner=O
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=61|end_char=62|ner=O
+4	首	首	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=62|end_char=63|ner=O
+5	音乐	音乐	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=63|end_char=65|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=65|end_char=66|ner=O
+
+1	弹奏	弹奏	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=68|end_char=70|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=70|end_char=71|ner=O
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=71|end_char=72|ner=O
+4	首	首	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=72|end_char=73|ner=O
+5	曲子	曲子	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=73|end_char=75|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=75|end_char=76|ner=O
+
+1	看	看	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=78|end_char=79|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=79|end_char=80|ner=O
+3	十	十	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=80|end_char=81|ner=S-CARDINAL
+4	份	份	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=81|end_char=82|ner=O
+5	报纸	报纸	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=82|end_char=84|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=84|end_char=85|ner=O
+
+1	做	做	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=87|end_char=88|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=88|end_char=89|ner=O
+3	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|start_char=89|end_char=90|ner=O
+4	餐	餐	NOUN	NN	_	5	compound	_	SpaceAfter=No|start_char=90|end_char=91|ner=O
+5	饭	饭	PART	SFN	_	1	obj	_	SpaceAfter=No|start_char=91|end_char=92|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=92|end_char=93|ner=O
+
+1	写	写	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=95|end_char=96|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=96|end_char=97|ner=O
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=97|end_char=98|ner=S-CARDINAL
+4	道	道	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=98|end_char=99|ner=O
+5	题	题	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=99|end_char=100|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=100|end_char=101|ner=O
+
+1	开	开	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=103|end_char=104|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=104|end_char=105|ner=O
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=105|end_char=106|ner=O
+4	扇窗	扇窗	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=106|end_char=108|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=108|end_char=109|ner=O
+
+1	玩	玩	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=111|end_char=112|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=112|end_char=113|ner=O
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=113|end_char=114|ner=S-CARDINAL
+4	款	款	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=114|end_char=115|ner=O
+5	游戏	游戏	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=115|end_char=117|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=117|end_char=118|ner=O
+
+1	试	试	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=120|end_char=121|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=121|end_char=122|ner=O
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=122|end_char=123|ner=S-CARDINAL
+4	件	件	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=123|end_char=124|ner=O
+5	衣服	衣服	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=124|end_char=126|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=126|end_char=127|ner=O
+
+1	跳	跳	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=129|end_char=130|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=130|end_char=131|ner=O
+3	十	十	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=131|end_char=132|ner=S-CARDINAL
+4	支	支	NOUN	NNB	_	5	compound	_	SpaceAfter=No|start_char=132|end_char=133|ner=O
+5	舞	舞	PART	SFN	_	1	obj	_	SpaceAfter=No|start_char=133|end_char=134|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=134|end_char=135|ner=O
+
+1	看了	看了	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=137|end_char=139|ner=O
+2	两	两	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|start_char=139|end_char=140|ner=S-CARDINAL
+3	部	部	NOUN	NNB	_	4	clf	_	SpaceAfter=No|start_char=140|end_char=141|ner=O
+4	电影	电影	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=141|end_char=143|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=143|end_char=144|ner=O
+
+1	读	读	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=146|end_char=147|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=147|end_char=148|ner=O
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=148|end_char=149|ner=O
+4	份	份	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=149|end_char=150|ner=O
+5	报告	报告	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=150|end_char=152|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=152|end_char=153|ner=O
+
+1	举	举	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=155|end_char=156|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=156|end_char=157|ner=O
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=157|end_char=158|ner=O
+4	只	只	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=158|end_char=159|ner=O
+5	手	手	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=159|end_char=160|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=160|end_char=161|ner=O
+
+1	做	做	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=163|end_char=164|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=164|end_char=165|ner=O
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=165|end_char=166|ner=S-CARDINAL
+4	次	次	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=166|end_char=167|ner=O
+5	手工	手工	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=167|end_char=169|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=169|end_char=170|ner=O
+
+1	抱	抱	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=172|end_char=173|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=173|end_char=174|ner=O
+3	三	三	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=174|end_char=175|ner=S-CARDINAL
+4	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=175|end_char=176|ner=O
+5	娃娃	娃娃	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=176|end_char=178|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=178|end_char=179|ner=O
+
+1	写	写	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=181|end_char=182|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=182|end_char=183|ner=O
+3	七	七	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=183|end_char=184|ner=S-CARDINAL
+4	篇	篇	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=184|end_char=185|ner=O
+5	文章	文章	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=185|end_char=187|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=187|end_char=188|ner=O
+
+1	炸	炸	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=190|end_char=191|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=191|end_char=192|ner=O
+3	十框	十框	NOUN	NN	_	5	nmod	_	SpaceAfter=No|start_char=192|end_char=194|ner=O
+4	薯	薯	NOUN	NN	_	5	compound	_	SpaceAfter=No|start_char=194|end_char=195|ner=O
+5	条	条	PART	SFN	_	1	obj	_	SpaceAfter=No|start_char=195|end_char=196|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=196|end_char=197|ner=O
+
+1	打了	打了	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=199|end_char=201|ner=O
+2	两	两	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|start_char=201|end_char=202|ner=S-CARDINAL
+3	通	通	NOUN	NNB	_	4	clf	_	SpaceAfter=No|start_char=202|end_char=203|ner=O
+4	电话	电话	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=203|end_char=205|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=205|end_char=206|ner=O
+
+1	打了	打了	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=208|end_char=210|ner=O
+2	三	三	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|start_char=210|end_char=211|ner=S-CARDINAL
+3	份工	份工	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=211|end_char=213|ner=O
+4	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=213|end_char=214|ner=O
+
+1	做	做	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=216|end_char=217|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=217|end_char=218|ner=O
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=218|end_char=219|ner=O
+4	份	份	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=219|end_char=220|ner=O
+5	表格	表格	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=220|end_char=222|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=222|end_char=223|ner=O
+
+1	拨了	拨了	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=225|end_char=227|ner=O
+2	几	几	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|start_char=227|end_char=228|ner=O
+3	根	根	NOUN	NNB	_	4	clf	_	SpaceAfter=No|start_char=228|end_char=229|ner=O
+4	琴弦	琴弦	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=229|end_char=231|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=231|end_char=232|ner=O
+
+1	做	做	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=234|end_char=235|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=235|end_char=236|ner=O
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=236|end_char=237|ner=S-CARDINAL
+4	台	台	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=237|end_char=238|ner=O
+5	手术	手术	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=238|end_char=240|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=240|end_char=241|ner=O
+
+1	跑	跑	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=243|end_char=244|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=244|end_char=245|ner=O
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=245|end_char=246|ner=S-CARDINAL
+4	场	场	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=246|end_char=247|ner=O
+5	马拉松	马拉松	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=247|end_char=250|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=250|end_char=251|ner=O
+
+1	开	开	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=253|end_char=254|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=254|end_char=255|ner=O
+3	九	九	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=255|end_char=256|ner=S-CARDINAL
+4	盏	盏	NOUN	NN	_	5	compound	_	SpaceAfter=No|start_char=256|end_char=257|ner=O
+5	灯	灯	PART	SFN	_	1	obj	_	SpaceAfter=No|start_char=257|end_char=258|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=258|end_char=259|ner=O
+
+1	曡	曡	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=261|end_char=262|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=262|end_char=263|ner=O
+3	四	四	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=263|end_char=264|ner=S-CARDINAL
+4	床	床	NOUN	NN	_	5	clf	_	SpaceAfter=No|start_char=264|end_char=265|ner=O
+5	被子	被子	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=265|end_char=267|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=267|end_char=268|ner=O
+
+1	走	走	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=270|end_char=271|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=271|end_char=272|ner=O
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=272|end_char=273|ner=B-QUANTITY
+4	公里	公里	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=273|end_char=275|ner=E-QUANTITY
+5	路	路	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=275|end_char=276|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=276|end_char=277|ner=O
+
+1	看了	看了	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=279|end_char=281|ner=O
+2	三	三	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|start_char=281|end_char=282|ner=S-CARDINAL
+3	本	本	NOUN	NNB	_	4	clf	_	SpaceAfter=No|start_char=282|end_char=283|ner=O
+4	小说	小说	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=283|end_char=285|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=285|end_char=286|ner=O
+
+1	织	织	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=288|end_char=289|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=289|end_char=290|ner=O
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=290|end_char=291|ner=S-CARDINAL
+4	件	件	NOUN	NNB	_	6	nmod	_	SpaceAfter=No|start_char=291|end_char=292|ner=O
+5	毛	毛	NOUN	NN	_	6	compound	_	SpaceAfter=No|start_char=292|end_char=293|ner=O
+6	衣	衣	PART	SFN	_	1	obj	_	SpaceAfter=No|start_char=293|end_char=294|ner=O
+7	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=294|end_char=295|ner=O
+
+1	研究	研究	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=297|end_char=299|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=299|end_char=300|ner=O
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=300|end_char=301|ner=S-CARDINAL
+4	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=301|end_char=302|ner=O
+5	课题	课题	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=302|end_char=304|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=304|end_char=305|ner=O
+
+1	做	做	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=307|end_char=308|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=308|end_char=309|ner=O
+3	四	四	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=309|end_char=310|ner=S-CARDINAL
+4	次	次	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=310|end_char=311|ner=O
+5	实验	实验	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=311|end_char=313|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=313|end_char=314|ner=O
+
+1	打了	打了	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=316|end_char=318|ner=O
+2	七	七	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|start_char=318|end_char=319|ner=S-CARDINAL
+3	场	场	NOUN	NNB	_	4	clf	_	SpaceAfter=No|start_char=319|end_char=320|ner=O
+4	比赛	比赛	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=320|end_char=322|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=322|end_char=323|ner=O
+
+1	翻了	翻了	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=325|end_char=327|ner=O
+2	十	十	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|start_char=327|end_char=328|ner=S-CARDINAL
+3	篇	篇	NOUN	NNB	_	4	clf	_	SpaceAfter=No|start_char=328|end_char=329|ner=O
+4	文献	文献	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=329|end_char=331|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=331|end_char=332|ner=O
+
+1	逛	逛	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=334|end_char=335|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=335|end_char=336|ner=O
+3	三	三	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=336|end_char=337|ner=S-CARDINAL
+4	条	条	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=337|end_char=338|ner=O
+5	街	街	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=338|end_char=339|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=339|end_char=340|ner=O
+
+1	追	追	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=342|end_char=343|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=343|end_char=344|ner=O
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=344|end_char=345|ner=S-CARDINAL
+4	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=345|end_char=346|ner=O
+5	罪犯	罪犯	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=346|end_char=348|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=348|end_char=349|ner=O
+
+1	开	开	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=351|end_char=352|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=352|end_char=353|ner=O
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=353|end_char=354|ner=S-CARDINAL
+4	辆	辆	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=354|end_char=355|ner=O
+5	车	车	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=355|end_char=356|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=356|end_char=357|ner=O
+
+1	看了	看了	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=359|end_char=361|ner=O
+2	七	七	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|start_char=361|end_char=362|ner=S-CARDINAL
+3	个	个	NOUN	NNB	_	4	clf	_	SpaceAfter=No|start_char=362|end_char=363|ner=O
+4	屏幕	屏幕	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=363|end_char=365|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=365|end_char=366|ner=O
+
+1	造	造	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=368|end_char=369|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=369|end_char=370|ner=O
+3	三	三	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=370|end_char=371|ner=S-CARDINAL
+4	栋	栋	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=371|end_char=372|ner=O
+5	房子	房子	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=372|end_char=374|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=374|end_char=375|ner=O
+
+1	拍	拍	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=377|end_char=378|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=378|end_char=379|ner=O
+3	八	八	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=379|end_char=380|ner=S-CARDINAL
+4	部	部	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=380|end_char=381|ner=O
+5	电影	电影	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=381|end_char=383|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=383|end_char=384|ner=O
+
+1	检查	检查	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=386|end_char=388|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=388|end_char=389|ner=O
+3	三	三	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=389|end_char=390|ner=S-CARDINAL
+4	台	台	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=390|end_char=391|ner=O
+5	仪器	仪器	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=391|end_char=393|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=393|end_char=394|ner=O
+
+1	按摩	按摩	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=396|end_char=398|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=398|end_char=399|ner=O
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=399|end_char=400|ner=S-CARDINAL
+4	条	条	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=400|end_char=401|ner=O
+5	腿	腿	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=401|end_char=402|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=402|end_char=403|ner=O
+
+1	做	做	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=405|end_char=406|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=406|end_char=407|ner=O
+3	四	四	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=407|end_char=408|ner=S-CARDINAL
+4	篮	篮	NOUN	NN	_	5	nmod	_	SpaceAfter=No|start_char=408|end_char=409|ner=O
+5	饼干	饼干	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=409|end_char=411|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=411|end_char=412|ner=O
+
+1	欣赏	欣赏	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=414|end_char=416|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=416|end_char=417|ner=O
+3	几朵	几朵	NOUN	NN	_	4	compound	_	SpaceAfter=No|start_char=417|end_char=419|ner=O
+4	花	花	PART	SFN	_	1	obj	_	SpaceAfter=No|start_char=419|end_char=420|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=420|end_char=421|ner=O
+
+1	喝	喝	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=423|end_char=424|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=424|end_char=425|ner=O
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=425|end_char=426|ner=S-CARDINAL
+4	瓶	瓶	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=426|end_char=427|ner=O
+5	酒	酒	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=427|end_char=428|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=428|end_char=429|ner=O
+
+1	造	造	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=431|end_char=432|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=432|end_char=433|ner=O
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=433|end_char=434|ner=O
+4	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=434|end_char=435|ner=O
+5	岛	岛	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=435|end_char=436|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=436|end_char=437|ner=O
+
+1	修	修	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=439|end_char=440|ner=O
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|start_char=440|end_char=441|ner=O
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|start_char=441|end_char=442|ner=S-CARDINAL
+4	把	把	NOUN	NNB	_	5	clf	_	SpaceAfter=No|start_char=442|end_char=443|ner=O
+5	吉他	吉他	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=443|end_char=445|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=445|end_char=446|ner=O
+

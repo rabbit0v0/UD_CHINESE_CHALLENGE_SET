@@ -1,0 +1,454 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 写了五道题。
+1	写	写	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	道	道	NOUN	NN	_	5	compound	_	SpaceAfter=No
+5	题	题	PART	SFN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 2
+# text = 说了两句话。
+1	说	说	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	句	句	NOUN	NNB	_	5	compound	_	SpaceAfter=No
+5	话	话	PART	UH	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 3
+# text = 做了四次瑜伽。
+1	做	做	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	四	四	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	次	次	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	瑜伽	瑜伽	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 4
+# text = 画了六幅画。
+1	画	画	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	幅画	幅画	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 5
+# text = 讲了一节课。
+1	讲	讲	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	节课	节课	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 6
+# text = 写了六张字帖。
+1	写	写	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	张	张	NOUN	NNB	_	5	compound	_	SpaceAfter=No
+5	字	字	PART	SFN	_	6	nmod	_	SpaceAfter=No
+6	帖	帖	NOUN	NN	_	1	obj	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 7
+# text = 学了五门语言。
+1	学	学	PART	SFN	_	5	nmod	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	门	门	NOUN	NNB	_	5	nmod	_	SpaceAfter=No
+5	语言	语言	NOUN	NN	_	0	root	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\r\n
+
+# sent_id = 8
+# text = 听了一首音乐。
+1	听	听	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	首	首	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	音乐	音乐	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 9
+# text = 弹奏了一首曲子。
+1	弹奏	弹奏	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	首	首	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	曲子	曲子	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 10
+# text = 看了十份报纸。
+1	看	看	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	十	十	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	份	份	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	报纸	报纸	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 11
+# text = 做了一餐饭。
+1	做	做	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	餐饭	餐饭	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 12
+# text = 写了五道题。
+1	写	写	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	道	道	NOUN	NN	_	5	compound	_	SpaceAfter=No
+5	题	题	PART	SFN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 13
+# text = 开了一扇窗。
+1	开	开	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	扇	扇	NOUN	NN	_	5	clf	_	SpaceAfter=No
+5	窗	窗	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 14
+# text = 玩了五款游戏。
+1	玩	玩	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	款	款	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	游戏	游戏	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 15
+# text = 试了两件衣服。
+1	试	试	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	件	件	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	衣服	衣服	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 16
+# text = 跳了十支舞。
+1	跳	跳	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	十	十	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	支舞	支舞	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 17
+# text = 看了两部电影。
+1	看	看	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	部	部	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	电影	电影	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 18
+# text = 读了一份报告。
+1	读	读	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	份	份	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	报告	报告	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 19
+# text = 举了一只手。
+1	举	举	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	只	只	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	手	手	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 20
+# text = 做了五次手工。
+1	做	做	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	次	次	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	手工	手工	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 21
+# text = 抱了三个娃娃。
+1	抱	抱	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	三	三	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	娃娃	娃娃	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 22
+# text = 写了七篇文章。
+1	写	写	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	七	七	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	篇	篇	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	文章	文章	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 23
+# text = 炸了十框薯条。
+1	炸	炸	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	十	十	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	框	框	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+5	薯	薯	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+6	条	条	NOUN	NN	_	1	obj	_	SpaceAfter=No
+7	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 24
+# text = 打了两通电话。
+1	打	打	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	通	通	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	电话	电话	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 25
+# text = 打了三份工。
+1	打	打	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	三	三	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	份工	份工	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 26
+# text = 做了一份表格。
+1	做	做	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	份	份	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	表格	表格	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 27
+# text = 拨了几根琴弦。
+1	拨	拨	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	几根	几根	NOUN	NN	_	4	nmod	_	SpaceAfter=No
+4	琴弦	琴弦	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 28
+# text = 做了两台手术。
+1	做	做	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	台	台	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	手术	手术	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 29
+# text = 跑了六场马拉松。
+1	跑	跑	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	场	场	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	马拉松	马拉松	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 30
+# text = 开了九盏灯。
+1	开	开	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	九	九	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	盏	盏	NOUN	NN	_	1	obj	_	SpaceAfter=No
+5	灯。	灯。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 31
+# text = 曡了四床被子。
+1	曡	曡	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	四	四	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	床	床	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+5	被子	被子	NOUN	NN	_	0	root	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\r\n
+
+# sent_id = 32
+# text = 走了五公里路。
+1	走	走	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	公里	公里	NOUN	NNB	_	5	compound	_	SpaceAfter=No
+5	路	路	PART	SFN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 33
+# text = 看了三本小说。
+1	看	看	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	三	三	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	本	本	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	小说	小说	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 34
+# text = 织了六件毛衣。
+1	织	织	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	六	六	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	件	件	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	毛衣	毛衣	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 35
+# text = 研究了两个课题。
+1	研究	研究	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	课题	课题	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 36
+# text = 做了四次实验。
+1	做	做	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	四	四	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	次	次	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	实验	实验	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 37
+# text = 打了七场比赛。
+1	打	打	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	七	七	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	场	场	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	比赛	比赛	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 38
+# text = 翻了十篇文献。
+1	翻	翻	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	十	十	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	篇	篇	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	文献	文献	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 39
+# text = 逛了三条街。
+1	逛	逛	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	三	三	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	条	条	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	街	街	NOUN	NN	_	0	root	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\r\n
+
+# sent_id = 40
+# text = 追了五个罪犯。
+1	追	追	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	罪犯	罪犯	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 41
+# text = 开了一辆车。
+1	开	开	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	辆	辆	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	车	车	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 42
+# text = 看了七个屏幕。
+1	看	看	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	七	七	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	屏幕	屏幕	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 43
+# text = 造了三栋房子。
+1	造	造	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	三	三	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	栋	栋	NOUN	NNB	_	5	nmod	_	SpaceAfter=No
+5	房子	房子	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 44
+# text = 拍了八部电影。
+1	拍	拍	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	八	八	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	部	部	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	电影	电影	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 45
+# text = 检查了三台仪器。
+1	检查	检查	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	三	三	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	台	台	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	仪器	仪器	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 46
+# text = 按摩了两条腿。
+1	按摩	按摩	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	条	条	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	腿	腿	NOUN	NN	_	0	root	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\r\n
+
+# sent_id = 47
+# text = 做了四篮饼干。
+1	做	做	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	四	四	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
+4	篮	篮	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
+5	饼干	饼干	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 48
+# text = 欣赏了几朵花。
+1	欣赏	欣赏	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	几朵花	几朵花	NOUN	NN	_	1	obj	_	SpaceAfter=No
+4	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 49
+# text = 喝了两瓶酒。
+1	喝	喝	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	瓶	瓶	NOUN	NN	_	5	compound	_	SpaceAfter=No
+5	酒	酒	PART	SFN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 50
+# text = 造了一个岛。
+1	造	造	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No
+5	岛	岛	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 51
+# text = 修了六把吉他。
+1	修	修	VERB	VV	_	0	root	_	SpaceAfter=No
+2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
+3	六	六	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
+4	把	把	NOUN	NNB	_	5	nmod	_	SpaceAfter=No
+5	吉他	吉他	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\r\n
+

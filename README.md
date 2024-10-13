@@ -1,7 +1,7 @@
 # UD_CHINESE_CHALLENGE_SET
 
 The challenge set includes the following structure templates:
-- **[VERB]**[NOUN1][ATV][NOUN2]
+- [VERB][NOUN1][ATV]**[NOUN2]**
 - [NUM]**[CLF]**[NOUN1][ATV][NOUN2]
 - [VERB][PFV][NUM]**[CLF]**[NOUN]
 - ~~[NOUN1][CCONJ][NOUN2][ATV][NOUN3] or [NOUN1][ATV][NOUN2][CCONJ][NOUN3]~~ *// This is abandoned in the latest version. A few examples of this structure can still be found under sentences and golden files folder.*

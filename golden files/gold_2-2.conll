@@ -246,6 +246,7 @@
 4	里	里	ADP	_	_	3	acl	_	_
 5	的	的	PART	_	_	3	case	_	_
 6	蝙蝠	蝙蝠	NOUN	_	_	0	root	_	_
+7	。	。	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 
 # text = 一团灯下的阴影。

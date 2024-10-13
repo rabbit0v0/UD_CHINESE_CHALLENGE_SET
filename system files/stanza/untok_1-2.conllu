@@ -1,0 +1,299 @@
+1	咬	咬	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=0|end_char=1|ner=O
+2	狐狸	狐狸	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=1|end_char=3|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=3|end_char=4|ner=O
+4	狗	狗	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=4|end_char=5|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=5|end_char=6|ner=O
+
+1	记录	记录	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=8|end_char=10|ner=O
+2	实验	实验	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=10|end_char=12|ner=O
+3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No|start_char=12|end_char=13|ner=O
+4	表格	表格	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=13|end_char=15|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=15|end_char=16|ner=O
+
+1	吃	吃	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=18|end_char=19|ner=O
+2	游客	游客	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=19|end_char=21|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=21|end_char=22|ner=O
+4	鳄鱼	鳄鱼	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=22|end_char=24|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=24|end_char=25|ner=O
+
+1	切西瓜	切西瓜	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|start_char=27|end_char=30|ner=O
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|start_char=30|end_char=31|ner=O
+3	刀	刀	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=31|end_char=32|ner=O
+4	。	。	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|start_char=32|end_char=33|ner=O
+
+1	杀	杀	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=35|end_char=36|ner=O
+2	房东	房东	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=36|end_char=38|ner=O
+3	的	的	PART	DEC	Case=Gen	1	mark:rel	_	SpaceAfter=No|start_char=38|end_char=39|ner=O
+4	杀手	杀手	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=39|end_char=41|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=41|end_char=42|ner=O
+
+1	看	看	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=44|end_char=45|ner=O
+2	天空	天空	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=45|end_char=47|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=47|end_char=48|ner=O
+4	孩子	孩子	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=48|end_char=50|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=50|end_char=51|ner=O
+
+1	装修	装修	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=53|end_char=55|ner=O
+2	房子	房子	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=55|end_char=57|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=57|end_char=58|ner=O
+4	人员	人员	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=58|end_char=60|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=60|end_char=61|ner=O
+
+1	研究	研究	NOUN	NN	_	2	nmod	_	SpaceAfter=No|start_char=63|end_char=65|ner=O
+2	代码	代码	NOUN	NN	_	4	nmod	_	SpaceAfter=No|start_char=65|end_char=67|ner=O
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|start_char=67|end_char=68|ner=O
+4	教授	教授	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=68|end_char=70|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=70|end_char=71|ner=O
+
+1	打击	打击	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=73|end_char=75|ner=O
+2	犯罪	犯罪	VERB	VV	_	1	xcomp	_	SpaceAfter=No|start_char=75|end_char=77|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=77|end_char=78|ner=O
+4	警察	警察	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=78|end_char=80|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=80|end_char=81|ner=O
+
+1	吃	吃	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=83|end_char=84|ner=O
+2	食物	食物	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=84|end_char=86|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=86|end_char=87|ner=O
+4	仓鼠	仓鼠	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=87|end_char=89|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=89|end_char=90|ner=O
+
+1	改变	改变	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|start_char=92|end_char=94|ner=O
+2	世界	世界	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=94|end_char=96|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=96|end_char=97|ner=O
+4	伟	伟	PROPN	NNP	_	5	compound	_	SpaceAfter=No|start_char=97|end_char=98|ner=O
+5	人	人	PART	SFN	_	0	root	_	SpaceAfter=No|start_char=98|end_char=99|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=99|end_char=100|ner=O
+
+1	调查	调查	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=102|end_char=104|ner=O
+2	事故	事故	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=104|end_char=106|ner=O
+3	的	的	PART	DEC	Case=Gen	1	mark:rel	_	SpaceAfter=No|start_char=106|end_char=107|ner=O
+4	交警	交警	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=107|end_char=109|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=109|end_char=110|ner=O
+
+1	喜欢	喜欢	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=112|end_char=114|ner=O
+2	旅行	旅行	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=114|end_char=116|ner=O
+3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No|start_char=116|end_char=117|ner=O
+4	人们	人	NOUN	NN	Number=Plur	1	obj	_	SpaceAfter=No|start_char=117|end_char=119|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=119|end_char=120|ner=O
+
+1	演奏	演奏	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=122|end_char=124|ner=O
+2	乐曲	乐曲	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=124|end_char=126|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=126|end_char=127|ner=O
+4	人	人	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=127|end_char=128|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=128|end_char=129|ner=O
+
+1	计算	计算	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=131|end_char=133|ner=O
+2	工资	工资	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=133|end_char=135|ner=O
+3	的	的	PART	DEC	Case=Gen	1	mark:rel	_	SpaceAfter=No|start_char=135|end_char=136|ner=O
+4	会计	会计	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=136|end_char=138|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=138|end_char=139|ner=O
+
+1	卖	卖	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=141|end_char=142|ner=O
+2	狗	狗	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=142|end_char=143|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=143|end_char=144|ner=O
+4	猎人	猎人	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=144|end_char=146|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=146|end_char=147|ner=O
+
+1	援助	援助	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=149|end_char=151|ner=O
+2	灾区	灾区	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=151|end_char=153|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=153|end_char=154|ner=O
+4	军人	军人	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=154|end_char=156|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=156|end_char=157|ner=O
+
+1	击中	击中	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=159|end_char=161|ner=O
+2	靶子	靶子	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=161|end_char=163|ner=O
+3	的	的	PART	DEC	Case=Gen	1	mark:rel	_	SpaceAfter=No|start_char=163|end_char=164|ner=O
+4	射手	射手	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=164|end_char=166|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=166|end_char=167|ner=O
+
+1	检查	检查	VERB	VV	_	0	root	_	SpaceAfter=No|start_char=169|end_char=171|ner=O
+2	枪	枪	PART	SFN	_	3	compound	_	SpaceAfter=No|start_char=171|end_char=172|ner=O
+3	支	支	PART	SFN	_	1	obj	_	SpaceAfter=No|start_char=172|end_char=173|ner=O
+4	的	的	PART	DEC	Case=Gen	1	mark:rel	_	SpaceAfter=No|start_char=173|end_char=174|ner=O
+5	警察	警察	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=174|end_char=176|ner=O
+6	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=176|end_char=177|ner=O
+
+1	学习	学习	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=179|end_char=181|ner=O
+2	课本	课本	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=181|end_char=183|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=183|end_char=184|ner=O
+4	学生	学生	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=184|end_char=186|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=186|end_char=187|ner=O
+
+1	欣赏	欣赏	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=189|end_char=191|ner=O
+2	展馆	展馆	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=191|end_char=193|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=193|end_char=194|ner=O
+4	游客	游客	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=194|end_char=196|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=196|end_char=197|ner=O
+
+1	闻	闻	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|start_char=199|end_char=200|ner=O
+2	气味	气味	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=200|end_char=202|ner=O
+3	的	的	PART	DEC	Case=Gen	1	mark:rel	_	SpaceAfter=No|start_char=202|end_char=203|ner=O
+4	狗	狗	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=203|end_char=204|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=204|end_char=205|ner=O
+
+1	摇	摇	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=207|end_char=208|ner=O
+2	尾巴	尾巴	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=208|end_char=210|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=210|end_char=211|ner=O
+4	狼	狼	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=211|end_char=212|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=212|end_char=213|ner=O
+
+1	按	按	ADP	IN	_	2	case	_	SpaceAfter=No|start_char=215|end_char=216|ner=O
+2	门铃	门铃	NOUN	NN	_	4	nmod	_	SpaceAfter=No|start_char=216|end_char=218|ner=O
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|start_char=218|end_char=219|ner=O
+4	人	人	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=219|end_char=220|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=220|end_char=221|ner=O
+
+1	读	读	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=223|end_char=224|ner=O
+2	报告	报告	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=224|end_char=226|ner=O
+3	的	的	PART	DEC	Case=Gen	1	mark:rel	_	SpaceAfter=No|start_char=226|end_char=227|ner=O
+4	老师	老师	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=227|end_char=229|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=229|end_char=230|ner=O
+
+1	抬	抬	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=232|end_char=233|ner=O
+2	桌子	桌子	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=233|end_char=235|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=235|end_char=236|ner=O
+4	工人	工人	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=236|end_char=238|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=238|end_char=239|ner=O
+
+1	查	查	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|start_char=241|end_char=242|ner=O
+2	单	单	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|start_char=242|end_char=243|ner=O
+3	词	词	NOUN	NN	_	5	nmod	_	SpaceAfter=No|start_char=243|end_char=244|ner=O
+4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=244|end_char=245|ner=O
+5	网站	网站	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=245|end_char=247|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\n\n|start_char=247|end_char=248|ner=O
+
+1	享受	享受	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=250|end_char=252|ner=O
+2	夜晚	夜晚	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=252|end_char=254|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=254|end_char=255|ner=O
+4	人	人	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=255|end_char=256|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=256|end_char=257|ner=O
+
+1	遮	遮	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=259|end_char=260|ner=O
+2	太阳	太阳	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=260|end_char=262|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=262|end_char=263|ner=O
+4	云朵	云朵	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=263|end_char=265|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=265|end_char=266|ner=O
+
+1	舔	舔	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=268|end_char=269|ner=O
+2	手指	手指	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=269|end_char=271|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=271|end_char=272|ner=O
+4	孩子	孩子	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=272|end_char=274|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=274|end_char=275|ner=O
+
+1	吃	吃	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|start_char=277|end_char=278|ner=O
+2	饼	饼	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|start_char=278|end_char=279|ner=O
+3	干	干	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|start_char=279|end_char=280|ner=O
+4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|start_char=280|end_char=281|ner=O
+5	猫	猫	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=281|end_char=282|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\n\n|start_char=282|end_char=283|ner=O
+
+1	种	种	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=285|end_char=286|ner=O
+2	蔬菜	蔬菜	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=286|end_char=288|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=288|end_char=289|ner=O
+4	农民	农民	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=289|end_char=291|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=291|end_char=292|ner=O
+
+1	踢	踢	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=294|end_char=295|ner=O
+2	足球	足球	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=295|end_char=297|ner=O
+3	的	的	PART	DEC	Case=Gen	1	mark:rel	_	SpaceAfter=No|start_char=297|end_char=298|ner=O
+4	朋友	朋友	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=298|end_char=300|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=300|end_char=301|ner=O
+
+1	放	放	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=303|end_char=304|ner=O
+2	杯子	杯子	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=304|end_char=306|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=306|end_char=307|ner=O
+4	柜子	柜子	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=307|end_char=309|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=309|end_char=310|ner=O
+
+1	存	存	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|start_char=312|end_char=313|ner=O
+2	食物	食物	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=313|end_char=315|ner=O
+3	的	的	PART	DEC	Case=Gen	1	mark:rel	_	SpaceAfter=No|start_char=315|end_char=316|ner=O
+4	冰	冰	NOUN	NN	_	5	compound	_	SpaceAfter=No|start_char=316|end_char=317|ner=O
+5	箱	箱	PART	SFN	_	0	root	_	SpaceAfter=No|start_char=317|end_char=318|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\n\n|start_char=318|end_char=319|ner=O
+
+1	做蛋糕	做蛋糕	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No|start_char=321|end_char=324|ner=O
+2	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=324|end_char=325|ner=O
+3	厨师	厨师	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=325|end_char=327|ner=O
+4	。	。	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|start_char=327|end_char=328|ner=O
+
+1	修	修	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=330|end_char=331|ner=O
+2	汽车	汽车	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=331|end_char=333|ner=O
+3	的	的	PART	DEC	Case=Gen	1	mark:rel	_	SpaceAfter=No|start_char=333|end_char=334|ner=O
+4	师傅	师傅	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=334|end_char=336|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=336|end_char=337|ner=O
+
+1	修眉	修眉	PROPN	NNP	_	2	compound	_	SpaceAfter=No|start_char=339|end_char=341|ner=O
+2	毛	毛	PART	SFN	_	4	nmod	_	SpaceAfter=No|start_char=341|end_char=342|ner=O
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|start_char=342|end_char=343|ner=O
+4	工具	工具	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=343|end_char=345|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=345|end_char=346|ner=O
+
+1	听心	听心	VERB	VV	_	2	advcl	_	SpaceAfter=No|start_char=348|end_char=350|ner=O
+2	跳	跳	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=350|end_char=351|ner=O
+3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No|start_char=351|end_char=352|ner=O
+4	医生	医生	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=352|end_char=354|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=354|end_char=355|ner=O
+
+1	打开	打开	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=357|end_char=359|ner=O
+2	门	门	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=359|end_char=360|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=360|end_char=361|ner=O
+4	钥匙	钥匙	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=361|end_char=363|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=363|end_char=364|ner=O
+
+1	追风	追风	VERB	VV	_	2	compound	_	SpaceAfter=No|start_char=366|end_char=368|ner=O
+2	筝	筝	PART	SFN	_	4	nmod	_	SpaceAfter=No|start_char=368|end_char=369|ner=O
+3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No|start_char=369|end_char=370|ner=O
+4	人	人	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=370|end_char=371|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=371|end_char=372|ner=O
+
+1	看海	看海	NOUN	NN	_	3	nmod	_	SpaceAfter=No|start_char=374|end_char=376|ner=O
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|start_char=376|end_char=377|ner=O
+3	孩子	孩子	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=377|end_char=379|ner=O
+4	。	。	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|start_char=379|end_char=380|ner=O
+
+1	写信	写信	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No|start_char=382|end_char=384|ner=O
+2	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=384|end_char=385|ner=O
+3	作家	作家	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=385|end_char=387|ner=O
+4	。	。	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|start_char=387|end_char=388|ner=O
+
+1	画树	画树	NOUN	NN	_	3	nmod	_	SpaceAfter=No|start_char=390|end_char=392|ner=O
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|start_char=392|end_char=393|ner=O
+3	画家	画家	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=393|end_char=395|ner=O
+4	。	。	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|start_char=395|end_char=396|ner=O
+
+1	爬树	爬树	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No|start_char=398|end_char=400|ner=O
+2	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=400|end_char=401|ner=O
+3	猴子	猴子	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=401|end_char=403|ner=O
+4	。	。	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|start_char=403|end_char=404|ner=O
+
+1	观察	观察	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=406|end_char=408|ner=O
+2	昆虫	昆虫	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=408|end_char=410|ner=O
+3	的	的	PART	DEC	Case=Gen	1	mark:rel	_	SpaceAfter=No|start_char=410|end_char=411|ner=O
+4	学生	学生	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=411|end_char=413|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=413|end_char=414|ner=O
+
+1	维护	维护	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=416|end_char=418|ner=O
+2	机器	机器	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=418|end_char=420|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=420|end_char=421|ner=O
+4	技工	技工	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=421|end_char=423|ner=O
+5	。	。	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|start_char=423|end_char=424|ner=O
+
+1	玩	玩	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=426|end_char=427|ner=O
+2	手机	手机	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=427|end_char=429|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=429|end_char=430|ner=O
+4	同学	同学	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=430|end_char=432|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=432|end_char=433|ner=O
+
+1	查看	查看	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=435|end_char=437|ner=O
+2	邮件	邮件	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=437|end_char=439|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=439|end_char=440|ner=O
+4	同事	同事	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=440|end_char=442|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=442|end_char=443|ner=O
+
+1	吃	吃	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|start_char=445|end_char=446|ner=O
+2	苹果	苹果	NOUN	NN	_	1	obj	_	SpaceAfter=No|start_char=446|end_char=448|ner=O
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|start_char=448|end_char=449|ner=O
+4	鹿	鹿	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=449|end_char=450|ner=O
+5	。	。	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|start_char=450|end_char=451|ner=O
+

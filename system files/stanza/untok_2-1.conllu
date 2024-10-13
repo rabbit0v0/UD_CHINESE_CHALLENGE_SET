@@ -1,0 +1,393 @@
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=0|end_char=1|ner=S-CARDINAL
+2	条	条	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=1|end_char=2|ner=O
+3	河	河	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=2|end_char=3|ner=O
+4	里	里	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=3|end_char=4|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=4|end_char=5|ner=O
+6	石头	石头	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=5|end_char=7|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=7|end_char=8|ner=O
+
+1	四	四	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=10|end_char=11|ner=S-CARDINAL
+2	张	张	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=11|end_char=12|ner=O
+3	报纸	报纸	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=12|end_char=14|ner=O
+4	上	上	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=14|end_char=15|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=15|end_char=16|ner=O
+6	文章	文章	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=16|end_char=18|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=18|end_char=19|ner=O
+
+1	两	两	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=21|end_char=22|ner=S-CARDINAL
+2	片	片	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=22|end_char=23|ner=O
+3	草地	草地	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=23|end_char=25|ner=O
+4	上	上	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=25|end_char=26|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=26|end_char=27|ner=O
+6	马	马	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=27|end_char=28|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=28|end_char=29|ner=O
+
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=31|end_char=32|ner=S-CARDINAL
+2	辆	辆	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=32|end_char=33|ner=O
+3	车里	车里	NOUN	NN	_	5	nmod	_	SpaceAfter=No|start_char=33|end_char=35|ner=O
+4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=35|end_char=36|ner=O
+5	电池	电池	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=36|end_char=38|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\n\n|start_char=38|end_char=39|ner=O
+
+1	一	一	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=41|end_char=42|ner=O
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=42|end_char=43|ner=O
+3	瓶子	瓶子	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=43|end_char=45|ner=O
+4	里	里	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=45|end_char=46|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=46|end_char=47|ner=O
+6	花	花	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=47|end_char=48|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=48|end_char=49|ner=O
+
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=51|end_char=52|ner=S-CARDINAL
+2	座	座	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=52|end_char=53|ner=O
+3	寺庙	寺庙	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=53|end_char=55|ner=O
+4	里	里	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=55|end_char=56|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=56|end_char=57|ner=O
+6	和尚	和尚	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=57|end_char=59|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=59|end_char=60|ner=O
+
+1	八	八	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=62|end_char=63|ner=S-CARDINAL
+2	只	只	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=63|end_char=64|ner=O
+3	钱	钱	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=64|end_char=65|ner=O
+4	包里	包里	NOUN	NN	_	3	appos	_	SpaceAfter=No|start_char=65|end_char=67|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=67|end_char=68|ner=O
+6	硬币	硬币	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=68|end_char=70|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=70|end_char=71|ner=O
+
+1	七	七	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=73|end_char=74|ner=S-CARDINAL
+2	盆	盆	NOUN	NN	_	3	nmod	_	SpaceAfter=No|start_char=74|end_char=75|ner=O
+3	盆栽	盆栽	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=75|end_char=77|ner=O
+4	里	里	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=77|end_char=78|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=78|end_char=79|ner=O
+6	鲜花	鲜花	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=79|end_char=81|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=81|end_char=82|ner=O
+
+1	五	五	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=84|end_char=85|ner=S-CARDINAL
+2	栋	栋	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=85|end_char=86|ner=O
+3	楼	楼	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=86|end_char=87|ner=O
+4	里	里	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=87|end_char=88|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=88|end_char=89|ner=O
+6	技工	技工	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=89|end_char=91|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=91|end_char=92|ner=O
+
+1	六	六	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=94|end_char=95|ner=S-CARDINAL
+2	间	间	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=95|end_char=96|ner=O
+3	房间	房间	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=96|end_char=98|ner=O
+4	里	里	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=98|end_char=99|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=99|end_char=100|ner=O
+6	椅子	椅子	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=100|end_char=102|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=102|end_char=103|ner=O
+
+1	两	两	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=105|end_char=106|ner=S-CARDINAL
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=106|end_char=107|ner=O
+3	票夹	票夹	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=107|end_char=109|ner=O
+4	里	里	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=109|end_char=110|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=110|end_char=111|ner=O
+6	门票	门票	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=111|end_char=113|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=113|end_char=114|ner=O
+
+1	五	五	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=116|end_char=117|ner=S-CARDINAL
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=117|end_char=118|ner=O
+3	抽屉	抽屉	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=118|end_char=120|ner=O
+4	里	里	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=120|end_char=121|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=121|end_char=122|ner=O
+6	袜子	袜子	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=122|end_char=124|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=124|end_char=125|ner=O
+
+1	四	四	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=127|end_char=128|ner=S-CARDINAL
+2	只	只	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=128|end_char=129|ner=O
+3	瓶子	瓶子	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=129|end_char=131|ner=O
+4	中	中	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=131|end_char=132|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=132|end_char=133|ner=O
+6	药丸	药丸	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=133|end_char=135|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=135|end_char=136|ner=O
+
+1	六	六	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=138|end_char=139|ner=S-CARDINAL
+2	棵	棵	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=139|end_char=140|ner=O
+3	树上	树上	NOUN	NN	_	5	nmod	_	SpaceAfter=No|start_char=140|end_char=142|ner=O
+4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=142|end_char=143|ner=O
+5	核桃	核桃	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=143|end_char=145|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\n\n|start_char=145|end_char=146|ner=O
+
+1	几	几	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=148|end_char=149|ner=O
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=149|end_char=150|ner=O
+3	书架	书架	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=150|end_char=152|ner=O
+4	上	上	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=152|end_char=153|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=153|end_char=154|ner=O
+6	日记	日记	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=154|end_char=156|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=156|end_char=157|ner=O
+
+1	几	几	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=159|end_char=160|ner=O
+2	个	个	NOUN	NNB	_	4	nmod	_	SpaceAfter=No|start_char=160|end_char=161|ner=O
+3	笔	笔	NOUN	NN	_	4	compound	_	SpaceAfter=No|start_char=161|end_char=162|ner=O
+4	筒	筒	PART	SFN	_	7	nmod	_	SpaceAfter=No|start_char=162|end_char=163|ner=O
+5	里	里	NOUN	NN	_	4	acl	_	SpaceAfter=No|start_char=163|end_char=164|ner=O
+6	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No|start_char=164|end_char=165|ner=O
+7	铅笔	铅笔	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=165|end_char=167|ner=O
+8	。	。	PUNCT	.	_	7	punct	_	SpacesAfter=\n\n|start_char=167|end_char=168|ner=O
+
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=170|end_char=171|ner=S-CARDINAL
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=171|end_char=172|ner=O
+3	棚子	棚子	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=172|end_char=174|ner=O
+4	里	里	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=174|end_char=175|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=175|end_char=176|ner=O
+6	牛	牛	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=176|end_char=177|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=177|end_char=178|ner=O
+
+1	四	四	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=180|end_char=181|ner=S-CARDINAL
+2	张	张	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=181|end_char=182|ner=O
+3	嘴里	嘴里	NOUN	NN	_	5	nmod	_	SpaceAfter=No|start_char=182|end_char=184|ner=O
+4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=184|end_char=185|ner=O
+5	牙齿	牙齿	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=185|end_char=187|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\n\n|start_char=187|end_char=188|ner=O
+
+1	七	七	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=190|end_char=191|ner=S-CARDINAL
+2	片	片	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=191|end_char=192|ner=O
+3	沙漠	沙漠	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=192|end_char=194|ner=O
+4	里	里	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=194|end_char=195|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=195|end_char=196|ner=O
+6	沙	沙	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=196|end_char=197|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=197|end_char=198|ner=O
+
+1	九	九	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=200|end_char=201|ner=S-CARDINAL
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=201|end_char=202|ner=O
+3	盒子	盒子	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=202|end_char=204|ner=O
+4	里	里	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=204|end_char=205|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=205|end_char=206|ner=O
+6	香水	香水	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=206|end_char=208|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=208|end_char=209|ner=O
+
+1	四	四	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=211|end_char=212|ner=S-CARDINAL
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=212|end_char=213|ner=O
+3	罐子	罐子	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=213|end_char=215|ner=O
+4	里	里	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=215|end_char=216|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=216|end_char=217|ner=O
+6	薯片	薯片	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=217|end_char=219|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=219|end_char=220|ner=O
+
+1	一	一	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=222|end_char=223|ner=O
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=223|end_char=224|ner=O
+3	勺子	勺子	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=224|end_char=226|ner=O
+4	里	里	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=226|end_char=227|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=227|end_char=228|ner=O
+6	油	油	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=228|end_char=229|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=229|end_char=230|ner=O
+
+1	两	两	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=232|end_char=233|ner=S-CARDINAL
+2	只	只	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=233|end_char=234|ner=O
+3	手里	手里	NOUN	NN	_	5	nmod	_	SpaceAfter=No|start_char=234|end_char=236|ner=O
+4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=236|end_char=237|ner=O
+5	零食	零食	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=237|end_char=239|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\n\n|start_char=239|end_char=240|ner=O
+
+1	八	八	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=242|end_char=243|ner=S-CARDINAL
+2	座	座	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=243|end_char=244|ner=O
+3	山上	山上	NOUN	NN	_	5	nmod	_	SpaceAfter=No|start_char=244|end_char=246|ner=O
+4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=246|end_char=247|ner=O
+5	鸟	鸟	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=247|end_char=248|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\n\n|start_char=248|end_char=249|ner=O
+
+1	五	五	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=251|end_char=252|ner=S-CARDINAL
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=252|end_char=253|ner=O
+3	洞穴	洞穴	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=253|end_char=255|ner=O
+4	里	里	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=255|end_char=256|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=256|end_char=257|ner=O
+6	蝙蝠	蝙蝠	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=257|end_char=259|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=259|end_char=260|ner=O
+
+1	一	一	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=262|end_char=263|ner=O
+2	盏	盏	NOUN	NNB	_	3	obl	_	SpaceAfter=No|start_char=263|end_char=264|ner=O
+3	灯下	灯下	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|start_char=264|end_char=266|ner=O
+4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|start_char=266|end_char=267|ner=O
+5	阴影	阴影	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=267|end_char=269|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\n\n|start_char=269|end_char=270|ner=O
+
+1	九	九	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=272|end_char=273|ner=S-CARDINAL
+2	颗	颗	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=273|end_char=274|ner=O
+3	头上	头上	NOUN	NN	_	5	nmod	_	SpaceAfter=No|start_char=274|end_char=276|ner=O
+4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=276|end_char=277|ner=O
+5	头发	头发	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=277|end_char=279|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\n\n|start_char=279|end_char=280|ner=O
+
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=282|end_char=283|ner=S-CARDINAL
+2	棵	棵	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=283|end_char=284|ner=O
+3	树	树	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=284|end_char=285|ner=O
+4	上	上	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=285|end_char=286|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=286|end_char=287|ner=O
+6	叶子	叶子	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=287|end_char=289|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=289|end_char=290|ner=O
+
+1	六	六	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=292|end_char=293|ner=S-CARDINAL
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=293|end_char=294|ner=O
+3	池塘	池塘	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=294|end_char=296|ner=O
+4	里	里	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=296|end_char=297|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=297|end_char=298|ner=O
+6	鸭子	鸭子	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=298|end_char=300|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=300|end_char=301|ner=O
+
+1	七	七	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=303|end_char=304|ner=S-CARDINAL
+2	张	张	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=304|end_char=305|ner=O
+3	桌子	桌子	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=305|end_char=307|ner=O
+4	上	上	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=307|end_char=308|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=308|end_char=309|ner=O
+6	蚂蚁	蚂蚁	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=309|end_char=311|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=311|end_char=312|ner=O
+
+1	五	五	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=314|end_char=315|ner=S-CARDINAL
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=315|end_char=316|ner=O
+3	衣柜	衣柜	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=316|end_char=318|ner=O
+4	里	里	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=318|end_char=319|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=319|end_char=320|ner=O
+6	衣服	衣服	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=320|end_char=322|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=322|end_char=323|ner=O
+
+1	四	四	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=325|end_char=326|ner=S-CARDINAL
+2	家	家	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=326|end_char=327|ner=O
+3	店里	店里	NOUN	NN	_	5	nmod	_	SpaceAfter=No|start_char=327|end_char=329|ner=O
+4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=329|end_char=330|ner=O
+5	裙子	裙子	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=330|end_char=332|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\n\n|start_char=332|end_char=333|ner=O
+
+1	八	八	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=335|end_char=336|ner=S-CARDINAL
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=336|end_char=337|ner=O
+3	网站	网站	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=337|end_char=339|ner=O
+4	上	上	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=339|end_char=340|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=340|end_char=341|ner=O
+6	图片	图片	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=341|end_char=343|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=343|end_char=344|ner=O
+
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=346|end_char=347|ner=S-CARDINAL
+2	张	张	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=347|end_char=348|ner=O
+3	照片	照片	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=348|end_char=350|ner=O
+4	里	里	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=350|end_char=351|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=351|end_char=352|ner=O
+6	鞋子	鞋子	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=352|end_char=354|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=354|end_char=355|ner=O
+
+1	一	一	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=357|end_char=358|ner=O
+2	场	场	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=358|end_char=359|ner=O
+3	梦	梦	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=359|end_char=360|ner=O
+4	里	里	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=360|end_char=361|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=361|end_char=362|ner=O
+6	人	人	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=362|end_char=363|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=363|end_char=364|ner=O
+
+1	七	七	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=366|end_char=367|ner=S-CARDINAL
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=367|end_char=368|ner=O
+3	院子	院子	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=368|end_char=370|ner=O
+4	里	里	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=370|end_char=371|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=371|end_char=372|ner=O
+6	草	草	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=372|end_char=373|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=373|end_char=374|ner=O
+
+1	几	几	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=376|end_char=377|ner=O
+2	台	台	NOUN	NNB	_	4	nmod	_	SpaceAfter=No|start_char=377|end_char=378|ner=O
+3	冰	冰	NOUN	NN	_	4	compound	_	SpaceAfter=No|start_char=378|end_char=379|ner=O
+4	箱	箱	PART	SFN	_	7	nmod	_	SpaceAfter=No|start_char=379|end_char=380|ner=O
+5	里	里	NOUN	NN	_	4	acl	_	SpaceAfter=No|start_char=380|end_char=381|ner=O
+6	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No|start_char=381|end_char=382|ner=O
+7	虾	虾	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=382|end_char=383|ner=O
+8	。	。	PUNCT	.	_	7	punct	_	SpacesAfter=\n\n|start_char=383|end_char=384|ner=O
+
+1	一	一	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=386|end_char=387|ner=S-CARDINAL
+2	架	架	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=387|end_char=388|ner=O
+3	飞机	飞机	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=388|end_char=390|ner=O
+4	上	上	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=390|end_char=391|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=391|end_char=392|ner=O
+6	人	人	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=392|end_char=393|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=393|end_char=394|ner=O
+
+1	一	一	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=396|end_char=397|ner=O
+2	所	所	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=397|end_char=398|ner=O
+3	学校	学校	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=398|end_char=400|ner=O
+4	里	里	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=400|end_char=401|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=401|end_char=402|ner=O
+6	学生	学生	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=402|end_char=404|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=404|end_char=405|ner=O
+
+1	八	八	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=407|end_char=408|ner=S-CARDINAL
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=408|end_char=409|ner=O
+3	地窖	地窖	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=409|end_char=411|ner=O
+4	里	里	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=411|end_char=412|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=412|end_char=413|ner=O
+6	砖	砖	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=413|end_char=414|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=414|end_char=415|ner=O
+
+1	七	七	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=417|end_char=418|ner=S-CARDINAL
+2	座	座	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=418|end_char=419|ner=O
+3	山下	山下	NOUN	NN	_	5	nmod	_	SpaceAfter=No|start_char=419|end_char=421|ner=O
+4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=421|end_char=422|ner=O
+5	岩石	岩石	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=422|end_char=424|ner=O
+6	。	。	PUNCT	.	_	5	punct	_	SpacesAfter=\n\n|start_char=424|end_char=425|ner=O
+
+1	六	六	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=427|end_char=428|ner=S-CARDINAL
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=428|end_char=429|ner=O
+3	仓库	仓库	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=429|end_char=431|ner=O
+4	里	里	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=431|end_char=432|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=432|end_char=433|ner=O
+6	干草	干草	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=433|end_char=435|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=435|end_char=436|ner=O
+
+1	三	三	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=438|end_char=439|ner=S-CARDINAL
+2	场	场	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=439|end_char=440|ner=O
+3	实验	实验	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=440|end_char=442|ner=O
+4	后	后	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=442|end_char=443|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=443|end_char=444|ner=O
+6	记录	记录	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=444|end_char=446|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=446|end_char=447|ner=O
+
+1	八	八	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=449|end_char=450|ner=S-CARDINAL
+2	片	片	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=450|end_char=451|ner=O
+3	田地	田地	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=451|end_char=453|ner=O
+4	里	里	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=453|end_char=454|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=454|end_char=455|ner=O
+6	麦秆	麦秆	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=455|end_char=457|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=457|end_char=458|ner=O
+
+1	五	五	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=460|end_char=461|ner=S-CARDINAL
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=461|end_char=462|ner=O
+3	花园	花园	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=462|end_char=464|ner=O
+4	里	里	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=464|end_char=465|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=465|end_char=466|ner=O
+6	鲜花	鲜花	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=466|end_char=468|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=468|end_char=469|ner=O
+
+1	一	一	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=471|end_char=472|ner=O
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=472|end_char=473|ner=O
+3	列表	列表	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=473|end_char=475|ner=O
+4	上	上	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=475|end_char=476|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=476|end_char=477|ner=O
+6	歌曲	歌曲	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=477|end_char=479|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=479|end_char=480|ner=O
+
+1	两	两	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=482|end_char=483|ner=S-CARDINAL
+2	张	张	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=483|end_char=484|ner=O
+3	曲谱	曲谱	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=484|end_char=486|ner=O
+4	上	上	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=486|end_char=487|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=487|end_char=488|ner=O
+6	音符	音符	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=488|end_char=490|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=490|end_char=491|ner=O
+
+1	一	一	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=493|end_char=494|ner=S-CARDINAL
+2	只	只	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=494|end_char=495|ner=O
+3	脚	脚	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=495|end_char=496|ner=O
+4	下	下	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=496|end_char=497|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=497|end_char=498|ner=O
+6	白纸	白纸	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=498|end_char=500|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=500|end_char=501|ner=O
+
+1	几	几	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=503|end_char=504|ner=O
+2	颗	颗	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=504|end_char=505|ner=O
+3	脑袋	脑袋	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=505|end_char=507|ner=O
+4	上	上	NOUN	NN	_	3	acl	_	SpaceAfter=No|start_char=507|end_char=508|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=508|end_char=509|ner=O
+6	毛发	毛发	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=509|end_char=511|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=511|end_char=512|ner=O
+
+1	四	四	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|start_char=514|end_char=515|ner=S-CARDINAL
+2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|start_char=515|end_char=516|ner=O
+3	架子	架子	NOUN	NN	_	6	nmod	_	SpaceAfter=No|start_char=516|end_char=518|ner=O
+4	上	上	ADP	IN	_	3	case	_	SpaceAfter=No|start_char=518|end_char=519|ner=O
+5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|start_char=519|end_char=520|ner=O
+6	帽子	帽子	NOUN	NN	_	0	root	_	SpaceAfter=No|start_char=520|end_char=522|ner=O
+7	。	。	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|start_char=522|end_char=523|ner=O
+
